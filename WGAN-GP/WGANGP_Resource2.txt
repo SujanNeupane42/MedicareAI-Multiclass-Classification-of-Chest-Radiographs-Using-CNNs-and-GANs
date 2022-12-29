@@ -1,0 +1,2 @@
+https://jonathan-hui.medium.com/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490
+https://paperswithcode.com/method/wgan-gp
