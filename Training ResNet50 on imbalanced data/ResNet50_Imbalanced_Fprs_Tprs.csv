@@ -1,0 +1,493 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,ResNet50,Imbalanced,Covid,0.0,0.0
+1,ResNet50,Imbalanced,Covid,0.0,0.0425
+2,ResNet50,Imbalanced,Covid,0.0,0.055
+3,ResNet50,Imbalanced,Covid,0.0,0.0775
+4,ResNet50,Imbalanced,Covid,0.0,0.0875
+5,ResNet50,Imbalanced,Covid,0.0,0.105
+6,ResNet50,Imbalanced,Covid,0.0,0.1175
+7,ResNet50,Imbalanced,Covid,0.0,0.14
+8,ResNet50,Imbalanced,Covid,0.0,0.1525
+9,ResNet50,Imbalanced,Covid,0.0,0.16
+10,ResNet50,Imbalanced,Covid,0.0,0.17
+11,ResNet50,Imbalanced,Covid,0.0,0.1725
+12,ResNet50,Imbalanced,Covid,0.0,0.1875
+13,ResNet50,Imbalanced,Covid,0.0,0.19
+14,ResNet50,Imbalanced,Covid,0.0,0.195
+15,ResNet50,Imbalanced,Covid,0.00125,0.2075
+16,ResNet50,Imbalanced,Covid,0.00125,0.21
+17,ResNet50,Imbalanced,Covid,0.00125,0.215
+18,ResNet50,Imbalanced,Covid,0.00125,0.2225
+19,ResNet50,Imbalanced,Covid,0.00125,0.2375
+20,ResNet50,Imbalanced,Covid,0.00125,0.2425
+21,ResNet50,Imbalanced,Covid,0.00125,0.255
+22,ResNet50,Imbalanced,Covid,0.00125,0.2625
+23,ResNet50,Imbalanced,Covid,0.00125,0.2675
+24,ResNet50,Imbalanced,Covid,0.00125,0.27
+25,ResNet50,Imbalanced,Covid,0.00125,0.275
+26,ResNet50,Imbalanced,Covid,0.00125,0.2875
+27,ResNet50,Imbalanced,Covid,0.00125,0.2925
+28,ResNet50,Imbalanced,Covid,0.00125,0.325
+29,ResNet50,Imbalanced,Covid,0.00125,0.33
+30,ResNet50,Imbalanced,Covid,0.00125,0.35
+31,ResNet50,Imbalanced,Covid,0.00125,0.355
+32,ResNet50,Imbalanced,Covid,0.00125,0.375
+33,ResNet50,Imbalanced,Covid,0.00125,0.38
+34,ResNet50,Imbalanced,Covid,0.00125,0.3925
+35,ResNet50,Imbalanced,Covid,0.00125,0.3975
+36,ResNet50,Imbalanced,Covid,0.00125,0.405
+37,ResNet50,Imbalanced,Covid,0.00125,0.41
+38,ResNet50,Imbalanced,Covid,0.00125,0.4575
+39,ResNet50,Imbalanced,Covid,0.00125,0.4625
+40,ResNet50,Imbalanced,Covid,0.00125,0.4725
+41,ResNet50,Imbalanced,Covid,0.00125,0.4775
+42,ResNet50,Imbalanced,Covid,0.00125,0.485
+43,ResNet50,Imbalanced,Covid,0.00125,0.49
+44,ResNet50,Imbalanced,Covid,0.00125,0.525
+45,ResNet50,Imbalanced,Covid,0.0025,0.525
+46,ResNet50,Imbalanced,Covid,0.0025,0.53
+47,ResNet50,Imbalanced,Covid,0.0025,0.535
+48,ResNet50,Imbalanced,Covid,0.00375,0.535
+49,ResNet50,Imbalanced,Covid,0.00375,0.5675
+50,ResNet50,Imbalanced,Covid,0.00375,0.5725
+51,ResNet50,Imbalanced,Covid,0.00375,0.5825
+52,ResNet50,Imbalanced,Covid,0.005,0.5825
+53,ResNet50,Imbalanced,Covid,0.005,0.59
+54,ResNet50,Imbalanced,Covid,0.00625,0.59
+55,ResNet50,Imbalanced,Covid,0.00625,0.6575
+56,ResNet50,Imbalanced,Covid,0.00625,0.6625
+57,ResNet50,Imbalanced,Covid,0.00625,0.6675
+58,ResNet50,Imbalanced,Covid,0.00625,0.6725
+59,ResNet50,Imbalanced,Covid,0.00625,0.675
+60,ResNet50,Imbalanced,Covid,0.0075,0.675
+61,ResNet50,Imbalanced,Covid,0.0075,0.6925
+62,ResNet50,Imbalanced,Covid,0.00875,0.6925
+63,ResNet50,Imbalanced,Covid,0.00875,0.7525
+64,ResNet50,Imbalanced,Covid,0.01,0.7525
+65,ResNet50,Imbalanced,Covid,0.01,0.7875
+66,ResNet50,Imbalanced,Covid,0.01125,0.7875
+67,ResNet50,Imbalanced,Covid,0.01125,0.7925
+68,ResNet50,Imbalanced,Covid,0.01125,0.7975
+69,ResNet50,Imbalanced,Covid,0.01125,0.805
+70,ResNet50,Imbalanced,Covid,0.01375,0.805
+71,ResNet50,Imbalanced,Covid,0.01375,0.8075
+72,ResNet50,Imbalanced,Covid,0.015,0.8075
+73,ResNet50,Imbalanced,Covid,0.015,0.815
+74,ResNet50,Imbalanced,Covid,0.01625,0.815
+75,ResNet50,Imbalanced,Covid,0.01625,0.82
+76,ResNet50,Imbalanced,Covid,0.0175,0.82
+77,ResNet50,Imbalanced,Covid,0.0175,0.825
+78,ResNet50,Imbalanced,Covid,0.01875,0.825
+79,ResNet50,Imbalanced,Covid,0.01875,0.84
+80,ResNet50,Imbalanced,Covid,0.02,0.84
+81,ResNet50,Imbalanced,Covid,0.02,0.8425
+82,ResNet50,Imbalanced,Covid,0.02125,0.8425
+83,ResNet50,Imbalanced,Covid,0.02125,0.8475
+84,ResNet50,Imbalanced,Covid,0.0225,0.8475
+85,ResNet50,Imbalanced,Covid,0.0225,0.8525
+86,ResNet50,Imbalanced,Covid,0.02375,0.8525
+87,ResNet50,Imbalanced,Covid,0.02375,0.865
+88,ResNet50,Imbalanced,Covid,0.02375,0.87
+89,ResNet50,Imbalanced,Covid,0.025,0.87
+90,ResNet50,Imbalanced,Covid,0.025,0.8775
+91,ResNet50,Imbalanced,Covid,0.02875,0.8775
+92,ResNet50,Imbalanced,Covid,0.02875,0.88
+93,ResNet50,Imbalanced,Covid,0.03,0.88
+94,ResNet50,Imbalanced,Covid,0.03,0.885
+95,ResNet50,Imbalanced,Covid,0.03,0.895
+96,ResNet50,Imbalanced,Covid,0.03,0.9075
+97,ResNet50,Imbalanced,Covid,0.03125,0.9075
+98,ResNet50,Imbalanced,Covid,0.03125,0.915
+99,ResNet50,Imbalanced,Covid,0.0325,0.915
+100,ResNet50,Imbalanced,Covid,0.0325,0.9175
+101,ResNet50,Imbalanced,Covid,0.03375,0.9175
+102,ResNet50,Imbalanced,Covid,0.03375,0.92
+103,ResNet50,Imbalanced,Covid,0.035,0.92
+104,ResNet50,Imbalanced,Covid,0.035,0.925
+105,ResNet50,Imbalanced,Covid,0.0375,0.925
+106,ResNet50,Imbalanced,Covid,0.0375,0.9275
+107,ResNet50,Imbalanced,Covid,0.04125,0.9275
+108,ResNet50,Imbalanced,Covid,0.04125,0.9325
+109,ResNet50,Imbalanced,Covid,0.045,0.9325
+110,ResNet50,Imbalanced,Covid,0.045,0.935
+111,ResNet50,Imbalanced,Covid,0.04625,0.935
+112,ResNet50,Imbalanced,Covid,0.04625,0.95
+113,ResNet50,Imbalanced,Covid,0.0475,0.95
+114,ResNet50,Imbalanced,Covid,0.0475,0.9525
+115,ResNet50,Imbalanced,Covid,0.0525,0.9525
+116,ResNet50,Imbalanced,Covid,0.0525,0.955
+117,ResNet50,Imbalanced,Covid,0.05625,0.955
+118,ResNet50,Imbalanced,Covid,0.05625,0.9575
+119,ResNet50,Imbalanced,Covid,0.06375,0.9575
+120,ResNet50,Imbalanced,Covid,0.06375,0.9625
+121,ResNet50,Imbalanced,Covid,0.065,0.9625
+122,ResNet50,Imbalanced,Covid,0.065,0.965
+123,ResNet50,Imbalanced,Covid,0.06625,0.965
+124,ResNet50,Imbalanced,Covid,0.06625,0.9675
+125,ResNet50,Imbalanced,Covid,0.07,0.9675
+126,ResNet50,Imbalanced,Covid,0.07,0.975
+127,ResNet50,Imbalanced,Covid,0.08375,0.975
+128,ResNet50,Imbalanced,Covid,0.08375,0.9775
+129,ResNet50,Imbalanced,Covid,0.08875,0.9775
+130,ResNet50,Imbalanced,Covid,0.08875,0.98
+131,ResNet50,Imbalanced,Covid,0.09125,0.98
+132,ResNet50,Imbalanced,Covid,0.09125,0.9825
+133,ResNet50,Imbalanced,Covid,0.0975,0.9825
+134,ResNet50,Imbalanced,Covid,0.0975,0.985
+135,ResNet50,Imbalanced,Covid,0.10375,0.985
+136,ResNet50,Imbalanced,Covid,0.10375,0.9875
+137,ResNet50,Imbalanced,Covid,0.11875,0.9875
+138,ResNet50,Imbalanced,Covid,0.11875,0.99
+139,ResNet50,Imbalanced,Covid,0.13125,0.99
+140,ResNet50,Imbalanced,Covid,0.13125,0.9925
+141,ResNet50,Imbalanced,Covid,0.135,0.9925
+142,ResNet50,Imbalanced,Covid,0.135,0.995
+143,ResNet50,Imbalanced,Covid,0.2725,0.995
+144,ResNet50,Imbalanced,Covid,0.2725,0.9975
+145,ResNet50,Imbalanced,Covid,0.29875,0.9975
+146,ResNet50,Imbalanced,Covid,0.30125,0.9975
+147,ResNet50,Imbalanced,Covid,0.3425,0.9975
+148,ResNet50,Imbalanced,Covid,0.3425,1.0
+149,ResNet50,Imbalanced,Covid,0.62375,1.0
+150,ResNet50,Imbalanced,Covid,0.62625,1.0
+151,ResNet50,Imbalanced,Covid,0.7175,1.0
+152,ResNet50,Imbalanced,Covid,0.72,1.0
+153,ResNet50,Imbalanced,Covid,0.87625,1.0
+154,ResNet50,Imbalanced,Covid,0.87875,1.0
+155,ResNet50,Imbalanced,Covid,1.0,1.0
+156,ResNet50,Imbalanced,Normal,0.0,0.0
+157,ResNet50,Imbalanced,Normal,0.0,0.0125
+158,ResNet50,Imbalanced,Normal,0.0,0.03
+159,ResNet50,Imbalanced,Normal,0.0,0.0425
+160,ResNet50,Imbalanced,Normal,0.0,0.0625
+161,ResNet50,Imbalanced,Normal,0.0,0.0825
+162,ResNet50,Imbalanced,Normal,0.0,0.09
+163,ResNet50,Imbalanced,Normal,0.0,0.1
+164,ResNet50,Imbalanced,Normal,0.0,0.1075
+165,ResNet50,Imbalanced,Normal,0.0,0.1225
+166,ResNet50,Imbalanced,Normal,0.0,0.13
+167,ResNet50,Imbalanced,Normal,0.0,0.1425
+168,ResNet50,Imbalanced,Normal,0.0,0.1525
+169,ResNet50,Imbalanced,Normal,0.0,0.1575
+170,ResNet50,Imbalanced,Normal,0.0,0.17
+171,ResNet50,Imbalanced,Normal,0.0,0.185
+172,ResNet50,Imbalanced,Normal,0.0,0.1875
+173,ResNet50,Imbalanced,Normal,0.0,0.1925
+174,ResNet50,Imbalanced,Normal,0.0,0.1975
+175,ResNet50,Imbalanced,Normal,0.0,0.2075
+176,ResNet50,Imbalanced,Normal,0.0,0.215
+177,ResNet50,Imbalanced,Normal,0.0,0.2175
+178,ResNet50,Imbalanced,Normal,0.0,0.2275
+179,ResNet50,Imbalanced,Normal,0.0,0.23
+180,ResNet50,Imbalanced,Normal,0.0,0.255
+181,ResNet50,Imbalanced,Normal,0.0,0.2625
+182,ResNet50,Imbalanced,Normal,0.0,0.2775
+183,ResNet50,Imbalanced,Normal,0.0,0.28
+184,ResNet50,Imbalanced,Normal,0.0,0.285
+185,ResNet50,Imbalanced,Normal,0.0,0.2875
+186,ResNet50,Imbalanced,Normal,0.0,0.295
+187,ResNet50,Imbalanced,Normal,0.0,0.3
+188,ResNet50,Imbalanced,Normal,0.0,0.305
+189,ResNet50,Imbalanced,Normal,0.0,0.3075
+190,ResNet50,Imbalanced,Normal,0.0,0.3125
+191,ResNet50,Imbalanced,Normal,0.0,0.32
+192,ResNet50,Imbalanced,Normal,0.0,0.325
+193,ResNet50,Imbalanced,Normal,0.0,0.335
+194,ResNet50,Imbalanced,Normal,0.0,0.34
+195,ResNet50,Imbalanced,Normal,0.0,0.355
+196,ResNet50,Imbalanced,Normal,0.0,0.3675
+197,ResNet50,Imbalanced,Normal,0.0,0.375
+198,ResNet50,Imbalanced,Normal,0.0,0.385
+199,ResNet50,Imbalanced,Normal,0.0,0.39
+200,ResNet50,Imbalanced,Normal,0.0,0.42
+201,ResNet50,Imbalanced,Normal,0.0,0.425
+202,ResNet50,Imbalanced,Normal,0.0,0.4275
+203,ResNet50,Imbalanced,Normal,0.00125,0.4275
+204,ResNet50,Imbalanced,Normal,0.00125,0.43
+205,ResNet50,Imbalanced,Normal,0.00125,0.435
+206,ResNet50,Imbalanced,Normal,0.00125,0.4425
+207,ResNet50,Imbalanced,Normal,0.00125,0.4475
+208,ResNet50,Imbalanced,Normal,0.0025,0.4475
+209,ResNet50,Imbalanced,Normal,0.0025,0.45
+210,ResNet50,Imbalanced,Normal,0.0025,0.455
+211,ResNet50,Imbalanced,Normal,0.0025,0.4675
+212,ResNet50,Imbalanced,Normal,0.0025,0.4725
+213,ResNet50,Imbalanced,Normal,0.0025,0.4775
+214,ResNet50,Imbalanced,Normal,0.0025,0.4825
+215,ResNet50,Imbalanced,Normal,0.0025,0.485
+216,ResNet50,Imbalanced,Normal,0.0025,0.495
+217,ResNet50,Imbalanced,Normal,0.0025,0.5
+218,ResNet50,Imbalanced,Normal,0.0025,0.505
+219,ResNet50,Imbalanced,Normal,0.0025,0.5125
+220,ResNet50,Imbalanced,Normal,0.0025,0.5175
+221,ResNet50,Imbalanced,Normal,0.0025,0.5275
+222,ResNet50,Imbalanced,Normal,0.0025,0.535
+223,ResNet50,Imbalanced,Normal,0.0025,0.55
+224,ResNet50,Imbalanced,Normal,0.00375,0.55
+225,ResNet50,Imbalanced,Normal,0.00375,0.6
+226,ResNet50,Imbalanced,Normal,0.005,0.6
+227,ResNet50,Imbalanced,Normal,0.005,0.6275
+228,ResNet50,Imbalanced,Normal,0.00625,0.6275
+229,ResNet50,Imbalanced,Normal,0.00625,0.67
+230,ResNet50,Imbalanced,Normal,0.0075,0.67
+231,ResNet50,Imbalanced,Normal,0.0075,0.675
+232,ResNet50,Imbalanced,Normal,0.0075,0.68
+233,ResNet50,Imbalanced,Normal,0.0075,0.77
+234,ResNet50,Imbalanced,Normal,0.00875,0.77
+235,ResNet50,Imbalanced,Normal,0.00875,0.8075
+236,ResNet50,Imbalanced,Normal,0.01,0.8075
+237,ResNet50,Imbalanced,Normal,0.01,0.8375
+238,ResNet50,Imbalanced,Normal,0.01125,0.8375
+239,ResNet50,Imbalanced,Normal,0.01125,0.8425
+240,ResNet50,Imbalanced,Normal,0.0125,0.8425
+241,ResNet50,Imbalanced,Normal,0.0125,0.845
+242,ResNet50,Imbalanced,Normal,0.01375,0.845
+243,ResNet50,Imbalanced,Normal,0.01375,0.8475
+244,ResNet50,Imbalanced,Normal,0.015,0.8475
+245,ResNet50,Imbalanced,Normal,0.015,0.87
+246,ResNet50,Imbalanced,Normal,0.0175,0.87
+247,ResNet50,Imbalanced,Normal,0.0175,0.8775
+248,ResNet50,Imbalanced,Normal,0.01875,0.8775
+249,ResNet50,Imbalanced,Normal,0.01875,0.885
+250,ResNet50,Imbalanced,Normal,0.02,0.885
+251,ResNet50,Imbalanced,Normal,0.02,0.8875
+252,ResNet50,Imbalanced,Normal,0.02125,0.8875
+253,ResNet50,Imbalanced,Normal,0.02125,0.8925
+254,ResNet50,Imbalanced,Normal,0.02375,0.8925
+255,ResNet50,Imbalanced,Normal,0.02375,0.895
+256,ResNet50,Imbalanced,Normal,0.0275,0.895
+257,ResNet50,Imbalanced,Normal,0.0275,0.905
+258,ResNet50,Imbalanced,Normal,0.03,0.905
+259,ResNet50,Imbalanced,Normal,0.03,0.9075
+260,ResNet50,Imbalanced,Normal,0.03125,0.9075
+261,ResNet50,Imbalanced,Normal,0.03125,0.9125
+262,ResNet50,Imbalanced,Normal,0.03375,0.9125
+263,ResNet50,Imbalanced,Normal,0.03375,0.9175
+264,ResNet50,Imbalanced,Normal,0.035,0.9175
+265,ResNet50,Imbalanced,Normal,0.035,0.9225
+266,ResNet50,Imbalanced,Normal,0.04125,0.9225
+267,ResNet50,Imbalanced,Normal,0.04125,0.9275
+268,ResNet50,Imbalanced,Normal,0.0425,0.9275
+269,ResNet50,Imbalanced,Normal,0.0425,0.93
+270,ResNet50,Imbalanced,Normal,0.0475,0.93
+271,ResNet50,Imbalanced,Normal,0.0475,0.935
+272,ResNet50,Imbalanced,Normal,0.0525,0.935
+273,ResNet50,Imbalanced,Normal,0.0525,0.9375
+274,ResNet50,Imbalanced,Normal,0.05375,0.9375
+275,ResNet50,Imbalanced,Normal,0.05375,0.94
+276,ResNet50,Imbalanced,Normal,0.055,0.94
+277,ResNet50,Imbalanced,Normal,0.055,0.9425
+278,ResNet50,Imbalanced,Normal,0.05625,0.9425
+279,ResNet50,Imbalanced,Normal,0.05625,0.9475
+280,ResNet50,Imbalanced,Normal,0.06125,0.9475
+281,ResNet50,Imbalanced,Normal,0.06125,0.95
+282,ResNet50,Imbalanced,Normal,0.0625,0.95
+283,ResNet50,Imbalanced,Normal,0.0625,0.955
+284,ResNet50,Imbalanced,Normal,0.0725,0.955
+285,ResNet50,Imbalanced,Normal,0.0725,0.96
+286,ResNet50,Imbalanced,Normal,0.08,0.96
+287,ResNet50,Imbalanced,Normal,0.08,0.965
+288,ResNet50,Imbalanced,Normal,0.08125,0.965
+289,ResNet50,Imbalanced,Normal,0.08125,0.9675
+290,ResNet50,Imbalanced,Normal,0.0825,0.9675
+291,ResNet50,Imbalanced,Normal,0.0825,0.9725
+292,ResNet50,Imbalanced,Normal,0.0875,0.9725
+293,ResNet50,Imbalanced,Normal,0.0875,0.9775
+294,ResNet50,Imbalanced,Normal,0.1125,0.9775
+295,ResNet50,Imbalanced,Normal,0.1175,0.9775
+296,ResNet50,Imbalanced,Normal,0.13125,0.9775
+297,ResNet50,Imbalanced,Normal,0.13125,0.98
+298,ResNet50,Imbalanced,Normal,0.135,0.98
+299,ResNet50,Imbalanced,Normal,0.135,0.9825
+300,ResNet50,Imbalanced,Normal,0.14,0.9825
+301,ResNet50,Imbalanced,Normal,0.14,0.985
+302,ResNet50,Imbalanced,Normal,0.145,0.985
+303,ResNet50,Imbalanced,Normal,0.1475,0.985
+304,ResNet50,Imbalanced,Normal,0.14875,0.985
+305,ResNet50,Imbalanced,Normal,0.14875,0.9875
+306,ResNet50,Imbalanced,Normal,0.155,0.9875
+307,ResNet50,Imbalanced,Normal,0.155,0.99
+308,ResNet50,Imbalanced,Normal,0.17125,0.99
+309,ResNet50,Imbalanced,Normal,0.17125,0.9925
+310,ResNet50,Imbalanced,Normal,0.1875,0.9925
+311,ResNet50,Imbalanced,Normal,0.19,0.9925
+312,ResNet50,Imbalanced,Normal,0.19375,0.9925
+313,ResNet50,Imbalanced,Normal,0.19625,0.9925
+314,ResNet50,Imbalanced,Normal,0.2125,0.9925
+315,ResNet50,Imbalanced,Normal,0.2125,0.995
+316,ResNet50,Imbalanced,Normal,0.27375,0.995
+317,ResNet50,Imbalanced,Normal,0.27375,0.9975
+318,ResNet50,Imbalanced,Normal,0.28,0.9975
+319,ResNet50,Imbalanced,Normal,0.2825,0.9975
+320,ResNet50,Imbalanced,Normal,0.285,0.9975
+321,ResNet50,Imbalanced,Normal,0.2875,0.9975
+322,ResNet50,Imbalanced,Normal,0.29875,0.9975
+323,ResNet50,Imbalanced,Normal,0.30125,0.9975
+324,ResNet50,Imbalanced,Normal,0.38625,0.9975
+325,ResNet50,Imbalanced,Normal,0.38875,0.9975
+326,ResNet50,Imbalanced,Normal,0.39375,0.9975
+327,ResNet50,Imbalanced,Normal,0.39375,1.0
+328,ResNet50,Imbalanced,Normal,0.41875,1.0
+329,ResNet50,Imbalanced,Normal,0.42125,1.0
+330,ResNet50,Imbalanced,Normal,0.43125,1.0
+331,ResNet50,Imbalanced,Normal,0.43375,1.0
+332,ResNet50,Imbalanced,Normal,0.47125,1.0
+333,ResNet50,Imbalanced,Normal,0.47375,1.0
+334,ResNet50,Imbalanced,Normal,0.6275,1.0
+335,ResNet50,Imbalanced,Normal,0.63,1.0
+336,ResNet50,Imbalanced,Normal,0.73625,1.0
+337,ResNet50,Imbalanced,Normal,0.73875,1.0
+338,ResNet50,Imbalanced,Normal,0.7775,1.0
+339,ResNet50,Imbalanced,Normal,0.78,1.0
+340,ResNet50,Imbalanced,Normal,0.9475,1.0
+341,ResNet50,Imbalanced,Normal,0.95,1.0
+342,ResNet50,Imbalanced,Normal,0.9975,1.0
+343,ResNet50,Imbalanced,Normal,1.0,1.0
+344,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.0
+345,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.115
+346,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.1425
+347,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.16
+348,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.1725
+349,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.18
+350,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.1825
+351,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.195
+352,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.205
+353,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.2125
+354,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.2175
+355,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.225
+356,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.235
+357,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.2425
+358,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.2475
+359,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.265
+360,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.27
+361,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.285
+362,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.29
+363,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.3
+364,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.3075
+365,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.335
+366,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.34
+367,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.345
+368,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.35
+369,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.45
+370,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.455
+371,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.4625
+372,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.5475
+373,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.5525
+374,ResNet50,Imbalanced,Viral Pneumonia,0.0,0.6325
+375,ResNet50,Imbalanced,Viral Pneumonia,0.00125,0.6325
+376,ResNet50,Imbalanced,Viral Pneumonia,0.00125,0.6675
+377,ResNet50,Imbalanced,Viral Pneumonia,0.0025,0.6675
+378,ResNet50,Imbalanced,Viral Pneumonia,0.0025,0.695
+379,ResNet50,Imbalanced,Viral Pneumonia,0.0025,0.7
+380,ResNet50,Imbalanced,Viral Pneumonia,0.0025,0.76
+381,ResNet50,Imbalanced,Viral Pneumonia,0.00375,0.76
+382,ResNet50,Imbalanced,Viral Pneumonia,0.00375,0.765
+383,ResNet50,Imbalanced,Viral Pneumonia,0.005,0.765
+384,ResNet50,Imbalanced,Viral Pneumonia,0.005,0.83
+385,ResNet50,Imbalanced,Viral Pneumonia,0.00625,0.83
+386,ResNet50,Imbalanced,Viral Pneumonia,0.00625,0.8375
+387,ResNet50,Imbalanced,Viral Pneumonia,0.0075,0.8375
+388,ResNet50,Imbalanced,Viral Pneumonia,0.0075,0.8425
+389,ResNet50,Imbalanced,Viral Pneumonia,0.00875,0.8425
+390,ResNet50,Imbalanced,Viral Pneumonia,0.00875,0.8475
+391,ResNet50,Imbalanced,Viral Pneumonia,0.01,0.8475
+392,ResNet50,Imbalanced,Viral Pneumonia,0.01,0.855
+393,ResNet50,Imbalanced,Viral Pneumonia,0.01125,0.855
+394,ResNet50,Imbalanced,Viral Pneumonia,0.01125,0.8625
+395,ResNet50,Imbalanced,Viral Pneumonia,0.0125,0.8625
+396,ResNet50,Imbalanced,Viral Pneumonia,0.0125,0.865
+397,ResNet50,Imbalanced,Viral Pneumonia,0.01375,0.865
+398,ResNet50,Imbalanced,Viral Pneumonia,0.01375,0.8675
+399,ResNet50,Imbalanced,Viral Pneumonia,0.015,0.8675
+400,ResNet50,Imbalanced,Viral Pneumonia,0.015,0.87
+401,ResNet50,Imbalanced,Viral Pneumonia,0.01625,0.87
+402,ResNet50,Imbalanced,Viral Pneumonia,0.01625,0.8725
+403,ResNet50,Imbalanced,Viral Pneumonia,0.0175,0.8725
+404,ResNet50,Imbalanced,Viral Pneumonia,0.0175,0.88
+405,ResNet50,Imbalanced,Viral Pneumonia,0.01875,0.88
+406,ResNet50,Imbalanced,Viral Pneumonia,0.01875,0.895
+407,ResNet50,Imbalanced,Viral Pneumonia,0.02,0.895
+408,ResNet50,Imbalanced,Viral Pneumonia,0.02,0.8975
+409,ResNet50,Imbalanced,Viral Pneumonia,0.02375,0.8975
+410,ResNet50,Imbalanced,Viral Pneumonia,0.02375,0.9025
+411,ResNet50,Imbalanced,Viral Pneumonia,0.025,0.9025
+412,ResNet50,Imbalanced,Viral Pneumonia,0.025,0.905
+413,ResNet50,Imbalanced,Viral Pneumonia,0.0275,0.905
+414,ResNet50,Imbalanced,Viral Pneumonia,0.02875,0.905
+415,ResNet50,Imbalanced,Viral Pneumonia,0.02875,0.91
+416,ResNet50,Imbalanced,Viral Pneumonia,0.03125,0.91
+417,ResNet50,Imbalanced,Viral Pneumonia,0.03125,0.9175
+418,ResNet50,Imbalanced,Viral Pneumonia,0.0325,0.9175
+419,ResNet50,Imbalanced,Viral Pneumonia,0.0325,0.92
+420,ResNet50,Imbalanced,Viral Pneumonia,0.0375,0.92
+421,ResNet50,Imbalanced,Viral Pneumonia,0.0375,0.93
+422,ResNet50,Imbalanced,Viral Pneumonia,0.04,0.93
+423,ResNet50,Imbalanced,Viral Pneumonia,0.04,0.9325
+424,ResNet50,Imbalanced,Viral Pneumonia,0.04125,0.9325
+425,ResNet50,Imbalanced,Viral Pneumonia,0.04125,0.935
+426,ResNet50,Imbalanced,Viral Pneumonia,0.0425,0.935
+427,ResNet50,Imbalanced,Viral Pneumonia,0.0425,0.94
+428,ResNet50,Imbalanced,Viral Pneumonia,0.045,0.94
+429,ResNet50,Imbalanced,Viral Pneumonia,0.045,0.9425
+430,ResNet50,Imbalanced,Viral Pneumonia,0.05,0.9425
+431,ResNet50,Imbalanced,Viral Pneumonia,0.05,0.9475
+432,ResNet50,Imbalanced,Viral Pneumonia,0.05125,0.9475
+433,ResNet50,Imbalanced,Viral Pneumonia,0.05125,0.95
+434,ResNet50,Imbalanced,Viral Pneumonia,0.0575,0.95
+435,ResNet50,Imbalanced,Viral Pneumonia,0.0575,0.955
+436,ResNet50,Imbalanced,Viral Pneumonia,0.05875,0.955
+437,ResNet50,Imbalanced,Viral Pneumonia,0.05875,0.9575
+438,ResNet50,Imbalanced,Viral Pneumonia,0.07,0.9575
+439,ResNet50,Imbalanced,Viral Pneumonia,0.07,0.9625
+440,ResNet50,Imbalanced,Viral Pneumonia,0.07875,0.9625
+441,ResNet50,Imbalanced,Viral Pneumonia,0.07875,0.965
+442,ResNet50,Imbalanced,Viral Pneumonia,0.08875,0.965
+443,ResNet50,Imbalanced,Viral Pneumonia,0.08875,0.9675
+444,ResNet50,Imbalanced,Viral Pneumonia,0.10625,0.9675
+445,ResNet50,Imbalanced,Viral Pneumonia,0.10625,0.97
+446,ResNet50,Imbalanced,Viral Pneumonia,0.14875,0.97
+447,ResNet50,Imbalanced,Viral Pneumonia,0.14875,0.9725
+448,ResNet50,Imbalanced,Viral Pneumonia,0.1575,0.9725
+449,ResNet50,Imbalanced,Viral Pneumonia,0.1575,0.975
+450,ResNet50,Imbalanced,Viral Pneumonia,0.16875,0.975
+451,ResNet50,Imbalanced,Viral Pneumonia,0.16875,0.9775
+452,ResNet50,Imbalanced,Viral Pneumonia,0.17375,0.9775
+453,ResNet50,Imbalanced,Viral Pneumonia,0.17375,0.98
+454,ResNet50,Imbalanced,Viral Pneumonia,0.18,0.98
+455,ResNet50,Imbalanced,Viral Pneumonia,0.18,0.9825
+456,ResNet50,Imbalanced,Viral Pneumonia,0.18375,0.9825
+457,ResNet50,Imbalanced,Viral Pneumonia,0.18625,0.9825
+458,ResNet50,Imbalanced,Viral Pneumonia,0.22,0.9825
+459,ResNet50,Imbalanced,Viral Pneumonia,0.2225,0.9825
+460,ResNet50,Imbalanced,Viral Pneumonia,0.24375,0.9825
+461,ResNet50,Imbalanced,Viral Pneumonia,0.24375,0.985
+462,ResNet50,Imbalanced,Viral Pneumonia,0.25875,0.985
+463,ResNet50,Imbalanced,Viral Pneumonia,0.25875,0.9875
+464,ResNet50,Imbalanced,Viral Pneumonia,0.2925,0.9875
+465,ResNet50,Imbalanced,Viral Pneumonia,0.2925,0.99
+466,ResNet50,Imbalanced,Viral Pneumonia,0.29875,0.99
+467,ResNet50,Imbalanced,Viral Pneumonia,0.30375,0.99
+468,ResNet50,Imbalanced,Viral Pneumonia,0.37,0.99
+469,ResNet50,Imbalanced,Viral Pneumonia,0.3725,0.99
+470,ResNet50,Imbalanced,Viral Pneumonia,0.3775,0.99
+471,ResNet50,Imbalanced,Viral Pneumonia,0.3775,0.9925
+472,ResNet50,Imbalanced,Viral Pneumonia,0.39,0.9925
+473,ResNet50,Imbalanced,Viral Pneumonia,0.3925,0.9925
+474,ResNet50,Imbalanced,Viral Pneumonia,0.44,0.9925
+475,ResNet50,Imbalanced,Viral Pneumonia,0.44,0.995
+476,ResNet50,Imbalanced,Viral Pneumonia,0.45875,0.995
+477,ResNet50,Imbalanced,Viral Pneumonia,0.45875,0.9975
+478,ResNet50,Imbalanced,Viral Pneumonia,0.4875,0.9975
+479,ResNet50,Imbalanced,Viral Pneumonia,0.49,0.9975
+480,ResNet50,Imbalanced,Viral Pneumonia,0.58625,0.9975
+481,ResNet50,Imbalanced,Viral Pneumonia,0.58875,0.9975
+482,ResNet50,Imbalanced,Viral Pneumonia,0.71125,0.9975
+483,ResNet50,Imbalanced,Viral Pneumonia,0.71375,0.9975
+484,ResNet50,Imbalanced,Viral Pneumonia,0.72625,0.9975
+485,ResNet50,Imbalanced,Viral Pneumonia,0.72625,1.0
+486,ResNet50,Imbalanced,Viral Pneumonia,0.8225,1.0
+487,ResNet50,Imbalanced,Viral Pneumonia,0.825,1.0
+488,ResNet50,Imbalanced,Viral Pneumonia,0.945,1.0
+489,ResNet50,Imbalanced,Viral Pneumonia,0.9475,1.0
+490,ResNet50,Imbalanced,Viral Pneumonia,0.9975,1.0
+491,ResNet50,Imbalanced,Viral Pneumonia,1.0,1.0
