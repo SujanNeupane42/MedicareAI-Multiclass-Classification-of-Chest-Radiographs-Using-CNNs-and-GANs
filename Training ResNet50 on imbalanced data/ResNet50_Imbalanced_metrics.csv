@@ -1,0 +1,4 @@
+,Model,Train_Condition,Class,TP,FP,FN,TN,Recall,Precision,Specificity,FPR,FNR,f1_score,Accuracy,AUC
+0,ResNet50,Imbalanced,Covid,370,30,30,770,0.925,0.925,0.9625,0.0375,0.075,0.925,0.9142,0.9883
+1,ResNet50,Imbalanced,Normal,386,65,14,395,0.965,0.8559,0.8587,0.1413,0.035,0.9072,0.9142,0.988
+2,ResNet50,Imbalanced,Viral Pneumonia,341,8,59,792,0.8525,0.9771,0.99,0.01,0.1475,0.9106,0.9142,0.986
