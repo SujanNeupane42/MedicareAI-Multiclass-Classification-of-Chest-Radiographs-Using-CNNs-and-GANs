@@ -1,0 +1,556 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,EfficientNet,Traditional Augmentation,Covid,0.0,0.0
+1,EfficientNet,Traditional Augmentation,Covid,0.0,0.0025
+2,EfficientNet,Traditional Augmentation,Covid,0.0,0.0225
+3,EfficientNet,Traditional Augmentation,Covid,0.0,0.0275
+4,EfficientNet,Traditional Augmentation,Covid,0.0,0.045
+5,EfficientNet,Traditional Augmentation,Covid,0.0,0.05
+6,EfficientNet,Traditional Augmentation,Covid,0.0,0.0575
+7,EfficientNet,Traditional Augmentation,Covid,0.0,0.0625
+8,EfficientNet,Traditional Augmentation,Covid,0.0,0.065
+9,EfficientNet,Traditional Augmentation,Covid,0.0,0.0725
+10,EfficientNet,Traditional Augmentation,Covid,0.0,0.075
+11,EfficientNet,Traditional Augmentation,Covid,0.0,0.08
+12,EfficientNet,Traditional Augmentation,Covid,0.0,0.085
+13,EfficientNet,Traditional Augmentation,Covid,0.0,0.09
+14,EfficientNet,Traditional Augmentation,Covid,0.0,0.0975
+15,EfficientNet,Traditional Augmentation,Covid,0.0,0.1125
+16,EfficientNet,Traditional Augmentation,Covid,0.0,0.1225
+17,EfficientNet,Traditional Augmentation,Covid,0.0,0.1325
+18,EfficientNet,Traditional Augmentation,Covid,0.0,0.135
+19,EfficientNet,Traditional Augmentation,Covid,0.0,0.14
+20,EfficientNet,Traditional Augmentation,Covid,0.0,0.1475
+21,EfficientNet,Traditional Augmentation,Covid,0.0,0.1525
+22,EfficientNet,Traditional Augmentation,Covid,0.0,0.1975
+23,EfficientNet,Traditional Augmentation,Covid,0.0,0.205
+24,EfficientNet,Traditional Augmentation,Covid,0.0,0.32
+25,EfficientNet,Traditional Augmentation,Covid,0.0,0.325
+26,EfficientNet,Traditional Augmentation,Covid,0.0,0.3525
+27,EfficientNet,Traditional Augmentation,Covid,0.0,0.3575
+28,EfficientNet,Traditional Augmentation,Covid,0.0,0.365
+29,EfficientNet,Traditional Augmentation,Covid,0.0,0.37
+30,EfficientNet,Traditional Augmentation,Covid,0.0,0.4225
+31,EfficientNet,Traditional Augmentation,Covid,0.00125,0.4225
+32,EfficientNet,Traditional Augmentation,Covid,0.00125,0.4475
+33,EfficientNet,Traditional Augmentation,Covid,0.00125,0.4525
+34,EfficientNet,Traditional Augmentation,Covid,0.0025,0.4525
+35,EfficientNet,Traditional Augmentation,Covid,0.0025,0.54
+36,EfficientNet,Traditional Augmentation,Covid,0.00375,0.54
+37,EfficientNet,Traditional Augmentation,Covid,0.00375,0.545
+38,EfficientNet,Traditional Augmentation,Covid,0.005,0.545
+39,EfficientNet,Traditional Augmentation,Covid,0.005,0.55
+40,EfficientNet,Traditional Augmentation,Covid,0.005,0.555
+41,EfficientNet,Traditional Augmentation,Covid,0.005,0.5825
+42,EfficientNet,Traditional Augmentation,Covid,0.00625,0.5825
+43,EfficientNet,Traditional Augmentation,Covid,0.00625,0.5925
+44,EfficientNet,Traditional Augmentation,Covid,0.0075,0.5925
+45,EfficientNet,Traditional Augmentation,Covid,0.0075,0.6275
+46,EfficientNet,Traditional Augmentation,Covid,0.00875,0.6275
+47,EfficientNet,Traditional Augmentation,Covid,0.00875,0.635
+48,EfficientNet,Traditional Augmentation,Covid,0.01,0.635
+49,EfficientNet,Traditional Augmentation,Covid,0.01,0.6525
+50,EfficientNet,Traditional Augmentation,Covid,0.01125,0.6525
+51,EfficientNet,Traditional Augmentation,Covid,0.01125,0.665
+52,EfficientNet,Traditional Augmentation,Covid,0.0125,0.665
+53,EfficientNet,Traditional Augmentation,Covid,0.0125,0.675
+54,EfficientNet,Traditional Augmentation,Covid,0.01375,0.675
+55,EfficientNet,Traditional Augmentation,Covid,0.01375,0.6925
+56,EfficientNet,Traditional Augmentation,Covid,0.015,0.6925
+57,EfficientNet,Traditional Augmentation,Covid,0.015,0.695
+58,EfficientNet,Traditional Augmentation,Covid,0.01625,0.695
+59,EfficientNet,Traditional Augmentation,Covid,0.01625,0.6975
+60,EfficientNet,Traditional Augmentation,Covid,0.01625,0.7025
+61,EfficientNet,Traditional Augmentation,Covid,0.0175,0.7025
+62,EfficientNet,Traditional Augmentation,Covid,0.0175,0.7425
+63,EfficientNet,Traditional Augmentation,Covid,0.01875,0.7425
+64,EfficientNet,Traditional Augmentation,Covid,0.01875,0.79
+65,EfficientNet,Traditional Augmentation,Covid,0.02,0.79
+66,EfficientNet,Traditional Augmentation,Covid,0.02,0.7925
+67,EfficientNet,Traditional Augmentation,Covid,0.02125,0.7925
+68,EfficientNet,Traditional Augmentation,Covid,0.02125,0.795
+69,EfficientNet,Traditional Augmentation,Covid,0.0225,0.795
+70,EfficientNet,Traditional Augmentation,Covid,0.0225,0.8
+71,EfficientNet,Traditional Augmentation,Covid,0.02375,0.8
+72,EfficientNet,Traditional Augmentation,Covid,0.02375,0.81
+73,EfficientNet,Traditional Augmentation,Covid,0.025,0.81
+74,EfficientNet,Traditional Augmentation,Covid,0.025,0.82
+75,EfficientNet,Traditional Augmentation,Covid,0.025,0.83
+76,EfficientNet,Traditional Augmentation,Covid,0.025,0.8475
+77,EfficientNet,Traditional Augmentation,Covid,0.02625,0.8475
+78,EfficientNet,Traditional Augmentation,Covid,0.02625,0.86
+79,EfficientNet,Traditional Augmentation,Covid,0.03,0.86
+80,EfficientNet,Traditional Augmentation,Covid,0.03,0.8675
+81,EfficientNet,Traditional Augmentation,Covid,0.03125,0.8675
+82,EfficientNet,Traditional Augmentation,Covid,0.03125,0.8725
+83,EfficientNet,Traditional Augmentation,Covid,0.0325,0.8725
+84,EfficientNet,Traditional Augmentation,Covid,0.0325,0.8925
+85,EfficientNet,Traditional Augmentation,Covid,0.03375,0.8925
+86,EfficientNet,Traditional Augmentation,Covid,0.03375,0.9
+87,EfficientNet,Traditional Augmentation,Covid,0.0375,0.9
+88,EfficientNet,Traditional Augmentation,Covid,0.0375,0.9025
+89,EfficientNet,Traditional Augmentation,Covid,0.04,0.9025
+90,EfficientNet,Traditional Augmentation,Covid,0.04,0.9075
+91,EfficientNet,Traditional Augmentation,Covid,0.05375,0.9075
+92,EfficientNet,Traditional Augmentation,Covid,0.05375,0.91
+93,EfficientNet,Traditional Augmentation,Covid,0.05375,0.915
+94,EfficientNet,Traditional Augmentation,Covid,0.05375,0.9175
+95,EfficientNet,Traditional Augmentation,Covid,0.05625,0.9175
+96,EfficientNet,Traditional Augmentation,Covid,0.05625,0.92
+97,EfficientNet,Traditional Augmentation,Covid,0.05875,0.92
+98,EfficientNet,Traditional Augmentation,Covid,0.05875,0.925
+99,EfficientNet,Traditional Augmentation,Covid,0.06,0.925
+100,EfficientNet,Traditional Augmentation,Covid,0.06,0.9275
+101,EfficientNet,Traditional Augmentation,Covid,0.06125,0.9275
+102,EfficientNet,Traditional Augmentation,Covid,0.06125,0.93
+103,EfficientNet,Traditional Augmentation,Covid,0.065,0.93
+104,EfficientNet,Traditional Augmentation,Covid,0.065,0.935
+105,EfficientNet,Traditional Augmentation,Covid,0.06625,0.935
+106,EfficientNet,Traditional Augmentation,Covid,0.06625,0.9375
+107,EfficientNet,Traditional Augmentation,Covid,0.06875,0.9375
+108,EfficientNet,Traditional Augmentation,Covid,0.06875,0.94
+109,EfficientNet,Traditional Augmentation,Covid,0.075,0.94
+110,EfficientNet,Traditional Augmentation,Covid,0.075,0.9425
+111,EfficientNet,Traditional Augmentation,Covid,0.075,0.9475
+112,EfficientNet,Traditional Augmentation,Covid,0.075,0.9525
+113,EfficientNet,Traditional Augmentation,Covid,0.08375,0.9525
+114,EfficientNet,Traditional Augmentation,Covid,0.08375,0.955
+115,EfficientNet,Traditional Augmentation,Covid,0.08875,0.955
+116,EfficientNet,Traditional Augmentation,Covid,0.08875,0.9625
+117,EfficientNet,Traditional Augmentation,Covid,0.1075,0.9625
+118,EfficientNet,Traditional Augmentation,Covid,0.1075,0.9675
+119,EfficientNet,Traditional Augmentation,Covid,0.1125,0.9675
+120,EfficientNet,Traditional Augmentation,Covid,0.1125,0.97
+121,EfficientNet,Traditional Augmentation,Covid,0.11875,0.97
+122,EfficientNet,Traditional Augmentation,Covid,0.11875,0.9725
+123,EfficientNet,Traditional Augmentation,Covid,0.1325,0.9725
+124,EfficientNet,Traditional Augmentation,Covid,0.1325,0.975
+125,EfficientNet,Traditional Augmentation,Covid,0.13875,0.975
+126,EfficientNet,Traditional Augmentation,Covid,0.13875,0.9775
+127,EfficientNet,Traditional Augmentation,Covid,0.15375,0.9775
+128,EfficientNet,Traditional Augmentation,Covid,0.15375,0.98
+129,EfficientNet,Traditional Augmentation,Covid,0.16625,0.98
+130,EfficientNet,Traditional Augmentation,Covid,0.16625,0.9825
+131,EfficientNet,Traditional Augmentation,Covid,0.1725,0.9825
+132,EfficientNet,Traditional Augmentation,Covid,0.1725,0.985
+133,EfficientNet,Traditional Augmentation,Covid,0.21125,0.985
+134,EfficientNet,Traditional Augmentation,Covid,0.21125,0.9875
+135,EfficientNet,Traditional Augmentation,Covid,0.2275,0.9875
+136,EfficientNet,Traditional Augmentation,Covid,0.2275,0.99
+137,EfficientNet,Traditional Augmentation,Covid,0.24,0.99
+138,EfficientNet,Traditional Augmentation,Covid,0.24,0.9925
+139,EfficientNet,Traditional Augmentation,Covid,0.25875,0.9925
+140,EfficientNet,Traditional Augmentation,Covid,0.25875,0.995
+141,EfficientNet,Traditional Augmentation,Covid,0.295,0.995
+142,EfficientNet,Traditional Augmentation,Covid,0.295,0.9975
+143,EfficientNet,Traditional Augmentation,Covid,0.3775,0.9975
+144,EfficientNet,Traditional Augmentation,Covid,0.3775,1.0
+145,EfficientNet,Traditional Augmentation,Covid,0.53375,1.0
+146,EfficientNet,Traditional Augmentation,Covid,0.53625,1.0
+147,EfficientNet,Traditional Augmentation,Covid,0.81875,1.0
+148,EfficientNet,Traditional Augmentation,Covid,0.82125,1.0
+149,EfficientNet,Traditional Augmentation,Covid,0.8825,1.0
+150,EfficientNet,Traditional Augmentation,Covid,0.885,1.0
+151,EfficientNet,Traditional Augmentation,Covid,0.915,1.0
+152,EfficientNet,Traditional Augmentation,Covid,0.9175,1.0
+153,EfficientNet,Traditional Augmentation,Covid,1.0,1.0
+154,EfficientNet,Traditional Augmentation,Normal,0.0,0.0
+155,EfficientNet,Traditional Augmentation,Normal,0.0,0.0025
+156,EfficientNet,Traditional Augmentation,Normal,0.0,0.0125
+157,EfficientNet,Traditional Augmentation,Normal,0.0,0.0225
+158,EfficientNet,Traditional Augmentation,Normal,0.0,0.045
+159,EfficientNet,Traditional Augmentation,Normal,0.0,0.05
+160,EfficientNet,Traditional Augmentation,Normal,0.0,0.0625
+161,EfficientNet,Traditional Augmentation,Normal,0.0,0.0775
+162,EfficientNet,Traditional Augmentation,Normal,0.0,0.08
+163,EfficientNet,Traditional Augmentation,Normal,0.0,0.085
+164,EfficientNet,Traditional Augmentation,Normal,0.0,0.095
+165,EfficientNet,Traditional Augmentation,Normal,0.0,0.11
+166,EfficientNet,Traditional Augmentation,Normal,0.0,0.115
+167,EfficientNet,Traditional Augmentation,Normal,0.0,0.1275
+168,EfficientNet,Traditional Augmentation,Normal,0.0,0.1375
+169,EfficientNet,Traditional Augmentation,Normal,0.0,0.155
+170,EfficientNet,Traditional Augmentation,Normal,0.0,0.16
+171,EfficientNet,Traditional Augmentation,Normal,0.0,0.1625
+172,EfficientNet,Traditional Augmentation,Normal,0.0,0.1675
+173,EfficientNet,Traditional Augmentation,Normal,0.0,0.1725
+174,EfficientNet,Traditional Augmentation,Normal,0.0,0.1775
+175,EfficientNet,Traditional Augmentation,Normal,0.0,0.18
+176,EfficientNet,Traditional Augmentation,Normal,0.0,0.185
+177,EfficientNet,Traditional Augmentation,Normal,0.0,0.2325
+178,EfficientNet,Traditional Augmentation,Normal,0.00125,0.2375
+179,EfficientNet,Traditional Augmentation,Normal,0.00125,0.265
+180,EfficientNet,Traditional Augmentation,Normal,0.00125,0.27
+181,EfficientNet,Traditional Augmentation,Normal,0.00125,0.275
+182,EfficientNet,Traditional Augmentation,Normal,0.00125,0.28
+183,EfficientNet,Traditional Augmentation,Normal,0.00125,0.2825
+184,EfficientNet,Traditional Augmentation,Normal,0.00125,0.2875
+185,EfficientNet,Traditional Augmentation,Normal,0.00125,0.305
+186,EfficientNet,Traditional Augmentation,Normal,0.00125,0.31
+187,EfficientNet,Traditional Augmentation,Normal,0.00125,0.36
+188,EfficientNet,Traditional Augmentation,Normal,0.00125,0.365
+189,EfficientNet,Traditional Augmentation,Normal,0.00125,0.375
+190,EfficientNet,Traditional Augmentation,Normal,0.00125,0.38
+191,EfficientNet,Traditional Augmentation,Normal,0.00125,0.3825
+192,EfficientNet,Traditional Augmentation,Normal,0.00125,0.39
+193,EfficientNet,Traditional Augmentation,Normal,0.00125,0.395
+194,EfficientNet,Traditional Augmentation,Normal,0.0025,0.395
+195,EfficientNet,Traditional Augmentation,Normal,0.0025,0.4275
+196,EfficientNet,Traditional Augmentation,Normal,0.00375,0.4275
+197,EfficientNet,Traditional Augmentation,Normal,0.00375,0.44
+198,EfficientNet,Traditional Augmentation,Normal,0.005,0.44
+199,EfficientNet,Traditional Augmentation,Normal,0.005,0.515
+200,EfficientNet,Traditional Augmentation,Normal,0.00625,0.515
+201,EfficientNet,Traditional Augmentation,Normal,0.00625,0.535
+202,EfficientNet,Traditional Augmentation,Normal,0.00625,0.54
+203,EfficientNet,Traditional Augmentation,Normal,0.00625,0.575
+204,EfficientNet,Traditional Augmentation,Normal,0.0075,0.575
+205,EfficientNet,Traditional Augmentation,Normal,0.0075,0.5925
+206,EfficientNet,Traditional Augmentation,Normal,0.00875,0.5925
+207,EfficientNet,Traditional Augmentation,Normal,0.00875,0.6075
+208,EfficientNet,Traditional Augmentation,Normal,0.01,0.61
+209,EfficientNet,Traditional Augmentation,Normal,0.01125,0.61
+210,EfficientNet,Traditional Augmentation,Normal,0.01125,0.6225
+211,EfficientNet,Traditional Augmentation,Normal,0.0125,0.6225
+212,EfficientNet,Traditional Augmentation,Normal,0.0125,0.67
+213,EfficientNet,Traditional Augmentation,Normal,0.01375,0.67
+214,EfficientNet,Traditional Augmentation,Normal,0.01375,0.675
+215,EfficientNet,Traditional Augmentation,Normal,0.015,0.675
+216,EfficientNet,Traditional Augmentation,Normal,0.015,0.6925
+217,EfficientNet,Traditional Augmentation,Normal,0.01625,0.6925
+218,EfficientNet,Traditional Augmentation,Normal,0.01625,0.6975
+219,EfficientNet,Traditional Augmentation,Normal,0.0175,0.6975
+220,EfficientNet,Traditional Augmentation,Normal,0.0175,0.7
+221,EfficientNet,Traditional Augmentation,Normal,0.01875,0.7
+222,EfficientNet,Traditional Augmentation,Normal,0.01875,0.7225
+223,EfficientNet,Traditional Augmentation,Normal,0.02,0.7225
+224,EfficientNet,Traditional Augmentation,Normal,0.02,0.73
+225,EfficientNet,Traditional Augmentation,Normal,0.02125,0.73
+226,EfficientNet,Traditional Augmentation,Normal,0.02125,0.7325
+227,EfficientNet,Traditional Augmentation,Normal,0.0225,0.7325
+228,EfficientNet,Traditional Augmentation,Normal,0.0225,0.7375
+229,EfficientNet,Traditional Augmentation,Normal,0.025,0.7375
+230,EfficientNet,Traditional Augmentation,Normal,0.025,0.7525
+231,EfficientNet,Traditional Augmentation,Normal,0.0275,0.7525
+232,EfficientNet,Traditional Augmentation,Normal,0.0275,0.765
+233,EfficientNet,Traditional Augmentation,Normal,0.02875,0.765
+234,EfficientNet,Traditional Augmentation,Normal,0.02875,0.7675
+235,EfficientNet,Traditional Augmentation,Normal,0.03,0.7675
+236,EfficientNet,Traditional Augmentation,Normal,0.03,0.77
+237,EfficientNet,Traditional Augmentation,Normal,0.03125,0.77
+238,EfficientNet,Traditional Augmentation,Normal,0.03125,0.7725
+239,EfficientNet,Traditional Augmentation,Normal,0.0325,0.7725
+240,EfficientNet,Traditional Augmentation,Normal,0.0325,0.8175
+241,EfficientNet,Traditional Augmentation,Normal,0.03375,0.8175
+242,EfficientNet,Traditional Augmentation,Normal,0.03375,0.82
+243,EfficientNet,Traditional Augmentation,Normal,0.0375,0.82
+244,EfficientNet,Traditional Augmentation,Normal,0.0375,0.825
+245,EfficientNet,Traditional Augmentation,Normal,0.03875,0.825
+246,EfficientNet,Traditional Augmentation,Normal,0.03875,0.8325
+247,EfficientNet,Traditional Augmentation,Normal,0.04,0.8325
+248,EfficientNet,Traditional Augmentation,Normal,0.04,0.84
+249,EfficientNet,Traditional Augmentation,Normal,0.04125,0.84
+250,EfficientNet,Traditional Augmentation,Normal,0.04125,0.8425
+251,EfficientNet,Traditional Augmentation,Normal,0.0425,0.8425
+252,EfficientNet,Traditional Augmentation,Normal,0.0425,0.8475
+253,EfficientNet,Traditional Augmentation,Normal,0.0475,0.8475
+254,EfficientNet,Traditional Augmentation,Normal,0.0475,0.865
+255,EfficientNet,Traditional Augmentation,Normal,0.05,0.865
+256,EfficientNet,Traditional Augmentation,Normal,0.0525,0.865
+257,EfficientNet,Traditional Augmentation,Normal,0.05375,0.865
+258,EfficientNet,Traditional Augmentation,Normal,0.05375,0.87
+259,EfficientNet,Traditional Augmentation,Normal,0.0575,0.87
+260,EfficientNet,Traditional Augmentation,Normal,0.0575,0.8725
+261,EfficientNet,Traditional Augmentation,Normal,0.06,0.8725
+262,EfficientNet,Traditional Augmentation,Normal,0.06,0.88
+263,EfficientNet,Traditional Augmentation,Normal,0.06125,0.88
+264,EfficientNet,Traditional Augmentation,Normal,0.06125,0.8825
+265,EfficientNet,Traditional Augmentation,Normal,0.0625,0.8825
+266,EfficientNet,Traditional Augmentation,Normal,0.0625,0.885
+267,EfficientNet,Traditional Augmentation,Normal,0.06375,0.885
+268,EfficientNet,Traditional Augmentation,Normal,0.06375,0.8875
+269,EfficientNet,Traditional Augmentation,Normal,0.065,0.8875
+270,EfficientNet,Traditional Augmentation,Normal,0.065,0.89
+271,EfficientNet,Traditional Augmentation,Normal,0.06625,0.89
+272,EfficientNet,Traditional Augmentation,Normal,0.06625,0.8925
+273,EfficientNet,Traditional Augmentation,Normal,0.06875,0.8925
+274,EfficientNet,Traditional Augmentation,Normal,0.07125,0.8925
+275,EfficientNet,Traditional Augmentation,Normal,0.07125,0.8975
+276,EfficientNet,Traditional Augmentation,Normal,0.0725,0.8975
+277,EfficientNet,Traditional Augmentation,Normal,0.0725,0.9
+278,EfficientNet,Traditional Augmentation,Normal,0.07375,0.9
+279,EfficientNet,Traditional Augmentation,Normal,0.07375,0.9075
+280,EfficientNet,Traditional Augmentation,Normal,0.0775,0.9075
+281,EfficientNet,Traditional Augmentation,Normal,0.0775,0.915
+282,EfficientNet,Traditional Augmentation,Normal,0.07875,0.915
+283,EfficientNet,Traditional Augmentation,Normal,0.07875,0.9175
+284,EfficientNet,Traditional Augmentation,Normal,0.08,0.9175
+285,EfficientNet,Traditional Augmentation,Normal,0.08,0.92
+286,EfficientNet,Traditional Augmentation,Normal,0.08125,0.92
+287,EfficientNet,Traditional Augmentation,Normal,0.08125,0.9225
+288,EfficientNet,Traditional Augmentation,Normal,0.08375,0.9225
+289,EfficientNet,Traditional Augmentation,Normal,0.08375,0.925
+290,EfficientNet,Traditional Augmentation,Normal,0.09125,0.925
+291,EfficientNet,Traditional Augmentation,Normal,0.09125,0.9275
+292,EfficientNet,Traditional Augmentation,Normal,0.115,0.9275
+293,EfficientNet,Traditional Augmentation,Normal,0.115,0.93
+294,EfficientNet,Traditional Augmentation,Normal,0.1225,0.93
+295,EfficientNet,Traditional Augmentation,Normal,0.1225,0.9325
+296,EfficientNet,Traditional Augmentation,Normal,0.13125,0.9325
+297,EfficientNet,Traditional Augmentation,Normal,0.13125,0.935
+298,EfficientNet,Traditional Augmentation,Normal,0.14,0.935
+299,EfficientNet,Traditional Augmentation,Normal,0.145,0.935
+300,EfficientNet,Traditional Augmentation,Normal,0.1575,0.935
+301,EfficientNet,Traditional Augmentation,Normal,0.1575,0.9375
+302,EfficientNet,Traditional Augmentation,Normal,0.16,0.9375
+303,EfficientNet,Traditional Augmentation,Normal,0.16375,0.9375
+304,EfficientNet,Traditional Augmentation,Normal,0.16375,0.94
+305,EfficientNet,Traditional Augmentation,Normal,0.165,0.94
+306,EfficientNet,Traditional Augmentation,Normal,0.165,0.945
+307,EfficientNet,Traditional Augmentation,Normal,0.16625,0.945
+308,EfficientNet,Traditional Augmentation,Normal,0.16625,0.9475
+309,EfficientNet,Traditional Augmentation,Normal,0.175,0.9475
+310,EfficientNet,Traditional Augmentation,Normal,0.175,0.95
+311,EfficientNet,Traditional Augmentation,Normal,0.17625,0.95
+312,EfficientNet,Traditional Augmentation,Normal,0.17625,0.9525
+313,EfficientNet,Traditional Augmentation,Normal,0.18,0.9525
+314,EfficientNet,Traditional Augmentation,Normal,0.18,0.955
+315,EfficientNet,Traditional Augmentation,Normal,0.18375,0.955
+316,EfficientNet,Traditional Augmentation,Normal,0.18375,0.9575
+317,EfficientNet,Traditional Augmentation,Normal,0.2325,0.9575
+318,EfficientNet,Traditional Augmentation,Normal,0.235,0.9575
+319,EfficientNet,Traditional Augmentation,Normal,0.23875,0.9575
+320,EfficientNet,Traditional Augmentation,Normal,0.23875,0.96
+321,EfficientNet,Traditional Augmentation,Normal,0.25125,0.96
+322,EfficientNet,Traditional Augmentation,Normal,0.25125,0.9625
+323,EfficientNet,Traditional Augmentation,Normal,0.2525,0.9625
+324,EfficientNet,Traditional Augmentation,Normal,0.2525,0.965
+325,EfficientNet,Traditional Augmentation,Normal,0.2575,0.965
+326,EfficientNet,Traditional Augmentation,Normal,0.2575,0.97
+327,EfficientNet,Traditional Augmentation,Normal,0.26,0.97
+328,EfficientNet,Traditional Augmentation,Normal,0.26,0.975
+329,EfficientNet,Traditional Augmentation,Normal,0.265,0.975
+330,EfficientNet,Traditional Augmentation,Normal,0.265,0.9775
+331,EfficientNet,Traditional Augmentation,Normal,0.27125,0.9775
+332,EfficientNet,Traditional Augmentation,Normal,0.27125,0.98
+333,EfficientNet,Traditional Augmentation,Normal,0.27375,0.98
+334,EfficientNet,Traditional Augmentation,Normal,0.27375,0.9825
+335,EfficientNet,Traditional Augmentation,Normal,0.305,0.9825
+336,EfficientNet,Traditional Augmentation,Normal,0.305,0.985
+337,EfficientNet,Traditional Augmentation,Normal,0.31625,0.985
+338,EfficientNet,Traditional Augmentation,Normal,0.31625,0.9875
+339,EfficientNet,Traditional Augmentation,Normal,0.325,0.9875
+340,EfficientNet,Traditional Augmentation,Normal,0.325,0.99
+341,EfficientNet,Traditional Augmentation,Normal,0.32875,0.99
+342,EfficientNet,Traditional Augmentation,Normal,0.32875,0.995
+343,EfficientNet,Traditional Augmentation,Normal,0.34375,0.995
+344,EfficientNet,Traditional Augmentation,Normal,0.34625,0.995
+345,EfficientNet,Traditional Augmentation,Normal,0.37125,0.995
+346,EfficientNet,Traditional Augmentation,Normal,0.37125,0.9975
+347,EfficientNet,Traditional Augmentation,Normal,0.3825,0.9975
+348,EfficientNet,Traditional Augmentation,Normal,0.3825,1.0
+349,EfficientNet,Traditional Augmentation,Normal,0.4425,1.0
+350,EfficientNet,Traditional Augmentation,Normal,0.445,1.0
+351,EfficientNet,Traditional Augmentation,Normal,0.45875,1.0
+352,EfficientNet,Traditional Augmentation,Normal,0.46125,1.0
+353,EfficientNet,Traditional Augmentation,Normal,0.48,1.0
+354,EfficientNet,Traditional Augmentation,Normal,0.4825,1.0
+355,EfficientNet,Traditional Augmentation,Normal,0.78625,1.0
+356,EfficientNet,Traditional Augmentation,Normal,0.78875,1.0
+357,EfficientNet,Traditional Augmentation,Normal,0.80125,1.0
+358,EfficientNet,Traditional Augmentation,Normal,0.80375,1.0
+359,EfficientNet,Traditional Augmentation,Normal,0.85125,1.0
+360,EfficientNet,Traditional Augmentation,Normal,0.85375,1.0
+361,EfficientNet,Traditional Augmentation,Normal,0.89375,1.0
+362,EfficientNet,Traditional Augmentation,Normal,0.89625,1.0
+363,EfficientNet,Traditional Augmentation,Normal,0.9075,1.0
+364,EfficientNet,Traditional Augmentation,Normal,0.91,1.0
+365,EfficientNet,Traditional Augmentation,Normal,0.95375,1.0
+366,EfficientNet,Traditional Augmentation,Normal,0.95625,1.0
+367,EfficientNet,Traditional Augmentation,Normal,0.97375,1.0
+368,EfficientNet,Traditional Augmentation,Normal,0.97625,1.0
+369,EfficientNet,Traditional Augmentation,Normal,1.0,1.0
+370,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0
+371,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0025
+372,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0075
+373,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0125
+374,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.03
+375,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.035
+376,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.055
+377,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.06
+378,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0625
+379,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0675
+380,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.07
+381,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.075
+382,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1
+383,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.105
+384,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.12
+385,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.125
+386,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1325
+387,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1375
+388,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1475
+389,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1525
+390,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.16
+391,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.165
+392,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.17
+393,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.175
+394,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1875
+395,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1925
+396,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.2
+397,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.205
+398,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.295
+399,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3
+400,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3225
+401,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3275
+402,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.36
+403,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.365
+404,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.45
+405,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.455
+406,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0,0.5025
+407,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00125,0.5025
+408,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00125,0.5575
+409,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0025,0.5575
+410,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0025,0.5675
+411,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0025,0.5725
+412,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0025,0.6075
+413,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00375,0.6075
+414,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00375,0.635
+415,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.005,0.635
+416,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.005,0.655
+417,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00625,0.655
+418,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00625,0.7
+419,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0075,0.7
+420,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0075,0.705
+421,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00875,0.705
+422,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.00875,0.71
+423,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.01,0.71
+424,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.01,0.7125
+425,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.01125,0.7125
+426,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.01125,0.715
+427,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0125,0.715
+428,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0125,0.7175
+429,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.01375,0.7175
+430,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.01375,0.7575
+431,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.015,0.7575
+432,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.015,0.78
+433,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0175,0.78
+434,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0175,0.7825
+435,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02,0.7825
+436,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02,0.785
+437,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0225,0.785
+438,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0225,0.7925
+439,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02375,0.7925
+440,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02375,0.8
+441,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.025,0.8
+442,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.025,0.8125
+443,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02625,0.8125
+444,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02625,0.815
+445,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0275,0.815
+446,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0275,0.8325
+447,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02875,0.8325
+448,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.02875,0.845
+449,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03,0.845
+450,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03,0.85
+451,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03125,0.85
+452,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03125,0.8525
+453,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0325,0.8525
+454,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0325,0.8725
+455,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03375,0.8725
+456,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03375,0.885
+457,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.035,0.885
+458,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.035,0.89
+459,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03625,0.89
+460,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.03625,0.895
+461,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04125,0.895
+462,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04125,0.9
+463,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04375,0.9
+464,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04375,0.9025
+465,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.045,0.9025
+466,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.045,0.905
+467,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04625,0.905
+468,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04625,0.9075
+469,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04875,0.9075
+470,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.04875,0.9125
+471,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0575,0.9125
+472,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0575,0.915
+473,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06,0.915
+474,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06,0.9175
+475,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06125,0.9175
+476,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06125,0.92
+477,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06625,0.92
+478,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06625,0.93
+479,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0675,0.93
+480,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0675,0.9325
+481,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06875,0.9325
+482,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.06875,0.9375
+483,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.07875,0.9375
+484,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.07875,0.9425
+485,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.08375,0.9425
+486,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.08375,0.945
+487,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0975,0.945
+488,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.0975,0.9475
+489,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.10875,0.9475
+490,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.10875,0.95
+491,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.1125,0.95
+492,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.1125,0.9525
+493,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.11625,0.9525
+494,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.11625,0.955
+495,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.1275,0.955
+496,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.1275,0.9575
+497,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.12875,0.9575
+498,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.12875,0.96
+499,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.13,0.96
+500,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.13,0.9625
+501,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.13625,0.9625
+502,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.13625,0.965
+503,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.15125,0.965
+504,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.15125,0.9675
+505,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.16125,0.9675
+506,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.16125,0.97
+507,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.165,0.97
+508,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.165,0.9725
+509,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.19,0.9725
+510,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.19,0.975
+511,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.19375,0.975
+512,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.19375,0.9775
+513,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.22375,0.9775
+514,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.22625,0.9775
+515,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.22625,0.98
+516,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.23625,0.98
+517,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.23875,0.98
+518,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.24375,0.98
+519,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.24375,0.9825
+520,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.26375,0.9825
+521,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.26625,0.9825
+522,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.26875,0.9825
+523,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.26875,0.985
+524,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.29875,0.985
+525,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.29875,0.9875
+526,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.3175,0.9875
+527,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.3175,0.99
+528,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.32,0.99
+529,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.3225,0.99
+530,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.3325,0.99
+531,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.3375,0.99
+532,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.3575,0.99
+533,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.36,0.99
+534,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.41875,0.99
+535,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.41875,0.9925
+536,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.49875,0.9925
+537,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.49875,0.995
+538,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.50375,0.995
+539,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.50375,0.9975
+540,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.53125,0.9975
+541,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.53375,0.9975
+542,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.64875,0.9975
+543,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.64875,1.0
+544,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.76625,1.0
+545,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.76875,1.0
+546,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.7925,1.0
+547,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.795,1.0
+548,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.85,1.0
+549,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.8525,1.0
+550,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.91875,1.0
+551,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.92125,1.0
+552,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.98125,1.0
+553,EfficientNet,Traditional Augmentation,Viral Pneumonia,0.98375,1.0
+554,EfficientNet,Traditional Augmentation,Viral Pneumonia,1.0,1.0
