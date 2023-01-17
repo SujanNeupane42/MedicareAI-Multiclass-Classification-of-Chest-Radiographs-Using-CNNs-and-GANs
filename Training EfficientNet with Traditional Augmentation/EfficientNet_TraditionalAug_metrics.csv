@@ -1,0 +1,4 @@
+,Model,Train_Condition,Class,TP,FP,FN,TN,Recall,Precision,Specificity,FPR,FNR,f1_score,Accuracy,AUC
+0,EfficientNet,Traditional Augmentation,Covid,348,26,52,774,0.87,0.9305,0.9675,0.0325,0.13,0.8992,0.8883,0.9826
+1,EfficientNet,Traditional Augmentation,Normal,371,82,29,420,0.9275,0.819,0.8367,0.1633,0.0725,0.8699,0.8883,0.9708
+2,EfficientNet,Traditional Augmentation,Viral Pneumonia,347,26,53,774,0.8675,0.9303,0.9675,0.0325,0.1325,0.8978,0.8883,0.9788
