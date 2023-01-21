@@ -1,0 +1,4 @@
+,Model,Train_Condition,Class,TP,FP,FN,TN,Recall,Precision,Specificity,FPR,FNR,f1_score,Accuracy,AUC
+0,EfficientNet,WGAN Augmentation,Covid,347,14,53,786,0.8675,0.9612,0.9825,0.0175,0.1325,0.9119,0.8992,0.991
+1,EfficientNet,WGAN Augmentation,Normal,364,72,36,431,0.91,0.8349,0.8569,0.1431,0.09,0.8708,0.8992,0.9746
+2,EfficientNet,WGAN Augmentation,Viral Pneumonia,368,35,32,765,0.92,0.9132,0.9562,0.0438,0.08,0.9166,0.8992,0.985
