@@ -1,0 +1,482 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,EfficientNet,WGAN Augmentation,Covid,0.0,0.0
+1,EfficientNet,WGAN Augmentation,Covid,0.0,0.0025
+2,EfficientNet,WGAN Augmentation,Covid,0.0,0.0075
+3,EfficientNet,WGAN Augmentation,Covid,0.0,0.0125
+4,EfficientNet,WGAN Augmentation,Covid,0.0,0.0275
+5,EfficientNet,WGAN Augmentation,Covid,0.0,0.0325
+6,EfficientNet,WGAN Augmentation,Covid,0.0,0.05
+7,EfficientNet,WGAN Augmentation,Covid,0.0,0.055
+8,EfficientNet,WGAN Augmentation,Covid,0.0,0.0575
+9,EfficientNet,WGAN Augmentation,Covid,0.0,0.0625
+10,EfficientNet,WGAN Augmentation,Covid,0.0,0.085
+11,EfficientNet,WGAN Augmentation,Covid,0.0,0.09
+12,EfficientNet,WGAN Augmentation,Covid,0.0,0.1
+13,EfficientNet,WGAN Augmentation,Covid,0.0,0.105
+14,EfficientNet,WGAN Augmentation,Covid,0.0,0.1075
+15,EfficientNet,WGAN Augmentation,Covid,0.0,0.1175
+16,EfficientNet,WGAN Augmentation,Covid,0.0,0.135
+17,EfficientNet,WGAN Augmentation,Covid,0.0,0.14
+18,EfficientNet,WGAN Augmentation,Covid,0.0,0.1875
+19,EfficientNet,WGAN Augmentation,Covid,0.0,0.1925
+20,EfficientNet,WGAN Augmentation,Covid,0.0,0.2575
+21,EfficientNet,WGAN Augmentation,Covid,0.0,0.2625
+22,EfficientNet,WGAN Augmentation,Covid,0.0,0.34
+23,EfficientNet,WGAN Augmentation,Covid,0.00125,0.34
+24,EfficientNet,WGAN Augmentation,Covid,0.00125,0.39
+25,EfficientNet,WGAN Augmentation,Covid,0.00125,0.395
+26,EfficientNet,WGAN Augmentation,Covid,0.00125,0.5325
+27,EfficientNet,WGAN Augmentation,Covid,0.00125,0.5375
+28,EfficientNet,WGAN Augmentation,Covid,0.00125,0.6
+29,EfficientNet,WGAN Augmentation,Covid,0.0025,0.6
+30,EfficientNet,WGAN Augmentation,Covid,0.0025,0.6025
+31,EfficientNet,WGAN Augmentation,Covid,0.00375,0.6025
+32,EfficientNet,WGAN Augmentation,Covid,0.00375,0.6225
+33,EfficientNet,WGAN Augmentation,Covid,0.00375,0.6275
+34,EfficientNet,WGAN Augmentation,Covid,0.00375,0.6725
+35,EfficientNet,WGAN Augmentation,Covid,0.005,0.6725
+36,EfficientNet,WGAN Augmentation,Covid,0.005,0.71
+37,EfficientNet,WGAN Augmentation,Covid,0.00625,0.71
+38,EfficientNet,WGAN Augmentation,Covid,0.00625,0.72
+39,EfficientNet,WGAN Augmentation,Covid,0.0075,0.72
+40,EfficientNet,WGAN Augmentation,Covid,0.0075,0.725
+41,EfficientNet,WGAN Augmentation,Covid,0.0075,0.73
+42,EfficientNet,WGAN Augmentation,Covid,0.0075,0.7725
+43,EfficientNet,WGAN Augmentation,Covid,0.0075,0.7775
+44,EfficientNet,WGAN Augmentation,Covid,0.0075,0.78
+45,EfficientNet,WGAN Augmentation,Covid,0.00875,0.78
+46,EfficientNet,WGAN Augmentation,Covid,0.00875,0.785
+47,EfficientNet,WGAN Augmentation,Covid,0.01,0.785
+48,EfficientNet,WGAN Augmentation,Covid,0.01,0.795
+49,EfficientNet,WGAN Augmentation,Covid,0.01,0.805
+50,EfficientNet,WGAN Augmentation,Covid,0.01,0.8325
+51,EfficientNet,WGAN Augmentation,Covid,0.01125,0.8325
+52,EfficientNet,WGAN Augmentation,Covid,0.01125,0.85
+53,EfficientNet,WGAN Augmentation,Covid,0.0125,0.85
+54,EfficientNet,WGAN Augmentation,Covid,0.0125,0.8525
+55,EfficientNet,WGAN Augmentation,Covid,0.01375,0.8525
+56,EfficientNet,WGAN Augmentation,Covid,0.01375,0.86
+57,EfficientNet,WGAN Augmentation,Covid,0.015,0.86
+58,EfficientNet,WGAN Augmentation,Covid,0.015,0.8625
+59,EfficientNet,WGAN Augmentation,Covid,0.0175,0.8625
+60,EfficientNet,WGAN Augmentation,Covid,0.0175,0.875
+61,EfficientNet,WGAN Augmentation,Covid,0.01875,0.875
+62,EfficientNet,WGAN Augmentation,Covid,0.01875,0.89
+63,EfficientNet,WGAN Augmentation,Covid,0.02,0.89
+64,EfficientNet,WGAN Augmentation,Covid,0.02,0.8925
+65,EfficientNet,WGAN Augmentation,Covid,0.0225,0.8925
+66,EfficientNet,WGAN Augmentation,Covid,0.0225,0.9
+67,EfficientNet,WGAN Augmentation,Covid,0.02375,0.9
+68,EfficientNet,WGAN Augmentation,Covid,0.02375,0.9025
+69,EfficientNet,WGAN Augmentation,Covid,0.02375,0.9075
+70,EfficientNet,WGAN Augmentation,Covid,0.02375,0.91
+71,EfficientNet,WGAN Augmentation,Covid,0.02625,0.91
+72,EfficientNet,WGAN Augmentation,Covid,0.02625,0.915
+73,EfficientNet,WGAN Augmentation,Covid,0.0275,0.915
+74,EfficientNet,WGAN Augmentation,Covid,0.0275,0.92
+75,EfficientNet,WGAN Augmentation,Covid,0.03125,0.92
+76,EfficientNet,WGAN Augmentation,Covid,0.03125,0.9275
+77,EfficientNet,WGAN Augmentation,Covid,0.0325,0.9275
+78,EfficientNet,WGAN Augmentation,Covid,0.0325,0.93
+79,EfficientNet,WGAN Augmentation,Covid,0.035,0.93
+80,EfficientNet,WGAN Augmentation,Covid,0.035,0.9325
+81,EfficientNet,WGAN Augmentation,Covid,0.03625,0.9325
+82,EfficientNet,WGAN Augmentation,Covid,0.03625,0.9375
+83,EfficientNet,WGAN Augmentation,Covid,0.0375,0.9375
+84,EfficientNet,WGAN Augmentation,Covid,0.0375,0.9425
+85,EfficientNet,WGAN Augmentation,Covid,0.0475,0.9425
+86,EfficientNet,WGAN Augmentation,Covid,0.0475,0.945
+87,EfficientNet,WGAN Augmentation,Covid,0.05375,0.945
+88,EfficientNet,WGAN Augmentation,Covid,0.05375,0.95
+89,EfficientNet,WGAN Augmentation,Covid,0.05625,0.95
+90,EfficientNet,WGAN Augmentation,Covid,0.05625,0.955
+91,EfficientNet,WGAN Augmentation,Covid,0.05625,0.96
+92,EfficientNet,WGAN Augmentation,Covid,0.0575,0.96
+93,EfficientNet,WGAN Augmentation,Covid,0.0575,0.9625
+94,EfficientNet,WGAN Augmentation,Covid,0.05875,0.9625
+95,EfficientNet,WGAN Augmentation,Covid,0.05875,0.9675
+96,EfficientNet,WGAN Augmentation,Covid,0.065,0.9675
+97,EfficientNet,WGAN Augmentation,Covid,0.065,0.975
+98,EfficientNet,WGAN Augmentation,Covid,0.06625,0.975
+99,EfficientNet,WGAN Augmentation,Covid,0.06625,0.9775
+100,EfficientNet,WGAN Augmentation,Covid,0.07375,0.9775
+101,EfficientNet,WGAN Augmentation,Covid,0.07375,0.98
+102,EfficientNet,WGAN Augmentation,Covid,0.07625,0.98
+103,EfficientNet,WGAN Augmentation,Covid,0.07625,0.9825
+104,EfficientNet,WGAN Augmentation,Covid,0.0875,0.9825
+105,EfficientNet,WGAN Augmentation,Covid,0.0875,0.9875
+106,EfficientNet,WGAN Augmentation,Covid,0.09875,0.9875
+107,EfficientNet,WGAN Augmentation,Covid,0.09875,0.99
+108,EfficientNet,WGAN Augmentation,Covid,0.1175,0.99
+109,EfficientNet,WGAN Augmentation,Covid,0.1175,0.9925
+110,EfficientNet,WGAN Augmentation,Covid,0.1325,0.9925
+111,EfficientNet,WGAN Augmentation,Covid,0.1325,0.9975
+112,EfficientNet,WGAN Augmentation,Covid,0.305,0.9975
+113,EfficientNet,WGAN Augmentation,Covid,0.305,1.0
+114,EfficientNet,WGAN Augmentation,Covid,0.475,1.0
+115,EfficientNet,WGAN Augmentation,Covid,0.4775,1.0
+116,EfficientNet,WGAN Augmentation,Covid,0.6625,1.0
+117,EfficientNet,WGAN Augmentation,Covid,0.665,1.0
+118,EfficientNet,WGAN Augmentation,Covid,0.685,1.0
+119,EfficientNet,WGAN Augmentation,Covid,0.6875,1.0
+120,EfficientNet,WGAN Augmentation,Covid,0.85,1.0
+121,EfficientNet,WGAN Augmentation,Covid,0.8525,1.0
+122,EfficientNet,WGAN Augmentation,Covid,1.0,1.0
+123,EfficientNet,WGAN Augmentation,Normal,0.0,0.0
+124,EfficientNet,WGAN Augmentation,Normal,0.0,0.0025
+125,EfficientNet,WGAN Augmentation,Normal,0.0,0.01
+126,EfficientNet,WGAN Augmentation,Normal,0.0,0.015
+127,EfficientNet,WGAN Augmentation,Normal,0.0,0.0275
+128,EfficientNet,WGAN Augmentation,Normal,0.0,0.0425
+129,EfficientNet,WGAN Augmentation,Normal,0.0,0.0475
+130,EfficientNet,WGAN Augmentation,Normal,0.0,0.0575
+131,EfficientNet,WGAN Augmentation,Normal,0.0,0.0675
+132,EfficientNet,WGAN Augmentation,Normal,0.0,0.0725
+133,EfficientNet,WGAN Augmentation,Normal,0.0,0.0775
+134,EfficientNet,WGAN Augmentation,Normal,0.0,0.0825
+135,EfficientNet,WGAN Augmentation,Normal,0.0,0.085
+136,EfficientNet,WGAN Augmentation,Normal,0.0,0.095
+137,EfficientNet,WGAN Augmentation,Normal,0.0,0.125
+138,EfficientNet,WGAN Augmentation,Normal,0.0,0.13
+139,EfficientNet,WGAN Augmentation,Normal,0.0,0.175
+140,EfficientNet,WGAN Augmentation,Normal,0.0,0.18
+141,EfficientNet,WGAN Augmentation,Normal,0.0,0.2275
+142,EfficientNet,WGAN Augmentation,Normal,0.00125,0.2275
+143,EfficientNet,WGAN Augmentation,Normal,0.00125,0.2325
+144,EfficientNet,WGAN Augmentation,Normal,0.00125,0.2375
+145,EfficientNet,WGAN Augmentation,Normal,0.00125,0.3
+146,EfficientNet,WGAN Augmentation,Normal,0.00125,0.31
+147,EfficientNet,WGAN Augmentation,Normal,0.00125,0.3225
+148,EfficientNet,WGAN Augmentation,Normal,0.00125,0.3275
+149,EfficientNet,WGAN Augmentation,Normal,0.00125,0.3425
+150,EfficientNet,WGAN Augmentation,Normal,0.00125,0.3475
+151,EfficientNet,WGAN Augmentation,Normal,0.00125,0.4425
+152,EfficientNet,WGAN Augmentation,Normal,0.0025,0.4425
+153,EfficientNet,WGAN Augmentation,Normal,0.0025,0.615
+154,EfficientNet,WGAN Augmentation,Normal,0.00375,0.615
+155,EfficientNet,WGAN Augmentation,Normal,0.00625,0.615
+156,EfficientNet,WGAN Augmentation,Normal,0.0075,0.615
+157,EfficientNet,WGAN Augmentation,Normal,0.0075,0.6225
+158,EfficientNet,WGAN Augmentation,Normal,0.00875,0.6225
+159,EfficientNet,WGAN Augmentation,Normal,0.00875,0.65
+160,EfficientNet,WGAN Augmentation,Normal,0.01,0.65
+161,EfficientNet,WGAN Augmentation,Normal,0.01,0.6575
+162,EfficientNet,WGAN Augmentation,Normal,0.01125,0.6575
+163,EfficientNet,WGAN Augmentation,Normal,0.01125,0.6675
+164,EfficientNet,WGAN Augmentation,Normal,0.0125,0.6675
+165,EfficientNet,WGAN Augmentation,Normal,0.0125,0.67
+166,EfficientNet,WGAN Augmentation,Normal,0.01375,0.67
+167,EfficientNet,WGAN Augmentation,Normal,0.01375,0.695
+168,EfficientNet,WGAN Augmentation,Normal,0.015,0.695
+169,EfficientNet,WGAN Augmentation,Normal,0.015,0.705
+170,EfficientNet,WGAN Augmentation,Normal,0.01625,0.705
+171,EfficientNet,WGAN Augmentation,Normal,0.01625,0.71
+172,EfficientNet,WGAN Augmentation,Normal,0.0175,0.71
+173,EfficientNet,WGAN Augmentation,Normal,0.0175,0.7175
+174,EfficientNet,WGAN Augmentation,Normal,0.01875,0.7175
+175,EfficientNet,WGAN Augmentation,Normal,0.01875,0.7275
+176,EfficientNet,WGAN Augmentation,Normal,0.0225,0.7275
+177,EfficientNet,WGAN Augmentation,Normal,0.0225,0.73
+178,EfficientNet,WGAN Augmentation,Normal,0.02375,0.73
+179,EfficientNet,WGAN Augmentation,Normal,0.02375,0.7475
+180,EfficientNet,WGAN Augmentation,Normal,0.025,0.7475
+181,EfficientNet,WGAN Augmentation,Normal,0.025,0.755
+182,EfficientNet,WGAN Augmentation,Normal,0.02625,0.755
+183,EfficientNet,WGAN Augmentation,Normal,0.02625,0.7625
+184,EfficientNet,WGAN Augmentation,Normal,0.0275,0.7625
+185,EfficientNet,WGAN Augmentation,Normal,0.0275,0.765
+186,EfficientNet,WGAN Augmentation,Normal,0.03,0.765
+187,EfficientNet,WGAN Augmentation,Normal,0.03,0.7675
+188,EfficientNet,WGAN Augmentation,Normal,0.0325,0.7675
+189,EfficientNet,WGAN Augmentation,Normal,0.0325,0.7775
+190,EfficientNet,WGAN Augmentation,Normal,0.03375,0.7775
+191,EfficientNet,WGAN Augmentation,Normal,0.03375,0.7875
+192,EfficientNet,WGAN Augmentation,Normal,0.035,0.7875
+193,EfficientNet,WGAN Augmentation,Normal,0.035,0.79
+194,EfficientNet,WGAN Augmentation,Normal,0.0375,0.79
+195,EfficientNet,WGAN Augmentation,Normal,0.0375,0.815
+196,EfficientNet,WGAN Augmentation,Normal,0.04,0.815
+197,EfficientNet,WGAN Augmentation,Normal,0.04,0.8175
+198,EfficientNet,WGAN Augmentation,Normal,0.04125,0.8175
+199,EfficientNet,WGAN Augmentation,Normal,0.04125,0.82
+200,EfficientNet,WGAN Augmentation,Normal,0.0425,0.82
+201,EfficientNet,WGAN Augmentation,Normal,0.0425,0.8225
+202,EfficientNet,WGAN Augmentation,Normal,0.04375,0.8225
+203,EfficientNet,WGAN Augmentation,Normal,0.04375,0.83
+204,EfficientNet,WGAN Augmentation,Normal,0.045,0.83
+205,EfficientNet,WGAN Augmentation,Normal,0.045,0.84
+206,EfficientNet,WGAN Augmentation,Normal,0.0475,0.84
+207,EfficientNet,WGAN Augmentation,Normal,0.0475,0.845
+208,EfficientNet,WGAN Augmentation,Normal,0.05125,0.845
+209,EfficientNet,WGAN Augmentation,Normal,0.05125,0.8475
+210,EfficientNet,WGAN Augmentation,Normal,0.0525,0.8475
+211,EfficientNet,WGAN Augmentation,Normal,0.0525,0.85
+212,EfficientNet,WGAN Augmentation,Normal,0.05375,0.85
+213,EfficientNet,WGAN Augmentation,Normal,0.05375,0.8625
+214,EfficientNet,WGAN Augmentation,Normal,0.05875,0.8625
+215,EfficientNet,WGAN Augmentation,Normal,0.05875,0.865
+216,EfficientNet,WGAN Augmentation,Normal,0.06,0.865
+217,EfficientNet,WGAN Augmentation,Normal,0.06,0.87
+218,EfficientNet,WGAN Augmentation,Normal,0.0625,0.87
+219,EfficientNet,WGAN Augmentation,Normal,0.06375,0.87
+220,EfficientNet,WGAN Augmentation,Normal,0.06375,0.8775
+221,EfficientNet,WGAN Augmentation,Normal,0.065,0.8775
+222,EfficientNet,WGAN Augmentation,Normal,0.065,0.88
+223,EfficientNet,WGAN Augmentation,Normal,0.07,0.88
+224,EfficientNet,WGAN Augmentation,Normal,0.07,0.885
+225,EfficientNet,WGAN Augmentation,Normal,0.07375,0.885
+226,EfficientNet,WGAN Augmentation,Normal,0.07375,0.8875
+227,EfficientNet,WGAN Augmentation,Normal,0.07625,0.8875
+228,EfficientNet,WGAN Augmentation,Normal,0.07625,0.8975
+229,EfficientNet,WGAN Augmentation,Normal,0.08,0.8975
+230,EfficientNet,WGAN Augmentation,Normal,0.08,0.9
+231,EfficientNet,WGAN Augmentation,Normal,0.08125,0.9
+232,EfficientNet,WGAN Augmentation,Normal,0.08125,0.9025
+233,EfficientNet,WGAN Augmentation,Normal,0.0825,0.9025
+234,EfficientNet,WGAN Augmentation,Normal,0.0825,0.9075
+235,EfficientNet,WGAN Augmentation,Normal,0.08375,0.9075
+236,EfficientNet,WGAN Augmentation,Normal,0.08375,0.91
+237,EfficientNet,WGAN Augmentation,Normal,0.09125,0.91
+238,EfficientNet,WGAN Augmentation,Normal,0.09125,0.9125
+239,EfficientNet,WGAN Augmentation,Normal,0.0925,0.9125
+240,EfficientNet,WGAN Augmentation,Normal,0.0925,0.9175
+241,EfficientNet,WGAN Augmentation,Normal,0.095,0.9175
+242,EfficientNet,WGAN Augmentation,Normal,0.095,0.9225
+243,EfficientNet,WGAN Augmentation,Normal,0.0975,0.9225
+244,EfficientNet,WGAN Augmentation,Normal,0.0975,0.925
+245,EfficientNet,WGAN Augmentation,Normal,0.09875,0.925
+246,EfficientNet,WGAN Augmentation,Normal,0.09875,0.9275
+247,EfficientNet,WGAN Augmentation,Normal,0.10125,0.9275
+248,EfficientNet,WGAN Augmentation,Normal,0.10125,0.93
+249,EfficientNet,WGAN Augmentation,Normal,0.10625,0.93
+250,EfficientNet,WGAN Augmentation,Normal,0.10625,0.9325
+251,EfficientNet,WGAN Augmentation,Normal,0.1075,0.9325
+252,EfficientNet,WGAN Augmentation,Normal,0.1075,0.935
+253,EfficientNet,WGAN Augmentation,Normal,0.1125,0.935
+254,EfficientNet,WGAN Augmentation,Normal,0.1125,0.94
+255,EfficientNet,WGAN Augmentation,Normal,0.11875,0.94
+256,EfficientNet,WGAN Augmentation,Normal,0.11875,0.9425
+257,EfficientNet,WGAN Augmentation,Normal,0.12125,0.9425
+258,EfficientNet,WGAN Augmentation,Normal,0.12125,0.945
+259,EfficientNet,WGAN Augmentation,Normal,0.1225,0.945
+260,EfficientNet,WGAN Augmentation,Normal,0.1225,0.9475
+261,EfficientNet,WGAN Augmentation,Normal,0.125,0.9475
+262,EfficientNet,WGAN Augmentation,Normal,0.125,0.95
+263,EfficientNet,WGAN Augmentation,Normal,0.12625,0.95
+264,EfficientNet,WGAN Augmentation,Normal,0.12625,0.9525
+265,EfficientNet,WGAN Augmentation,Normal,0.135,0.9525
+266,EfficientNet,WGAN Augmentation,Normal,0.135,0.955
+267,EfficientNet,WGAN Augmentation,Normal,0.14,0.955
+268,EfficientNet,WGAN Augmentation,Normal,0.145,0.955
+269,EfficientNet,WGAN Augmentation,Normal,0.145,0.9625
+270,EfficientNet,WGAN Augmentation,Normal,0.14625,0.9625
+271,EfficientNet,WGAN Augmentation,Normal,0.14625,0.965
+272,EfficientNet,WGAN Augmentation,Normal,0.1475,0.965
+273,EfficientNet,WGAN Augmentation,Normal,0.1475,0.9675
+274,EfficientNet,WGAN Augmentation,Normal,0.14875,0.9675
+275,EfficientNet,WGAN Augmentation,Normal,0.15125,0.9675
+276,EfficientNet,WGAN Augmentation,Normal,0.155,0.9675
+277,EfficientNet,WGAN Augmentation,Normal,0.155,0.97
+278,EfficientNet,WGAN Augmentation,Normal,0.18,0.97
+279,EfficientNet,WGAN Augmentation,Normal,0.1825,0.97
+280,EfficientNet,WGAN Augmentation,Normal,0.1875,0.97
+281,EfficientNet,WGAN Augmentation,Normal,0.1875,0.975
+282,EfficientNet,WGAN Augmentation,Normal,0.1975,0.975
+283,EfficientNet,WGAN Augmentation,Normal,0.1975,0.9775
+284,EfficientNet,WGAN Augmentation,Normal,0.20875,0.9775
+285,EfficientNet,WGAN Augmentation,Normal,0.20875,0.98
+286,EfficientNet,WGAN Augmentation,Normal,0.22625,0.98
+287,EfficientNet,WGAN Augmentation,Normal,0.22625,0.9825
+288,EfficientNet,WGAN Augmentation,Normal,0.2375,0.9825
+289,EfficientNet,WGAN Augmentation,Normal,0.2375,0.985
+290,EfficientNet,WGAN Augmentation,Normal,0.23875,0.985
+291,EfficientNet,WGAN Augmentation,Normal,0.23875,0.9875
+292,EfficientNet,WGAN Augmentation,Normal,0.25375,0.9875
+293,EfficientNet,WGAN Augmentation,Normal,0.25375,0.99
+294,EfficientNet,WGAN Augmentation,Normal,0.28875,0.99
+295,EfficientNet,WGAN Augmentation,Normal,0.28875,0.9925
+296,EfficientNet,WGAN Augmentation,Normal,0.295,0.9925
+297,EfficientNet,WGAN Augmentation,Normal,0.295,0.995
+298,EfficientNet,WGAN Augmentation,Normal,0.305,0.995
+299,EfficientNet,WGAN Augmentation,Normal,0.305,0.9975
+300,EfficientNet,WGAN Augmentation,Normal,0.31375,0.9975
+301,EfficientNet,WGAN Augmentation,Normal,0.31625,0.9975
+302,EfficientNet,WGAN Augmentation,Normal,0.36375,0.9975
+303,EfficientNet,WGAN Augmentation,Normal,0.36625,0.9975
+304,EfficientNet,WGAN Augmentation,Normal,0.51,0.9975
+305,EfficientNet,WGAN Augmentation,Normal,0.51,1.0
+306,EfficientNet,WGAN Augmentation,Normal,0.51125,1.0
+307,EfficientNet,WGAN Augmentation,Normal,0.51375,1.0
+308,EfficientNet,WGAN Augmentation,Normal,0.52875,1.0
+309,EfficientNet,WGAN Augmentation,Normal,0.53125,1.0
+310,EfficientNet,WGAN Augmentation,Normal,0.64375,1.0
+311,EfficientNet,WGAN Augmentation,Normal,0.64625,1.0
+312,EfficientNet,WGAN Augmentation,Normal,0.67625,1.0
+313,EfficientNet,WGAN Augmentation,Normal,0.67875,1.0
+314,EfficientNet,WGAN Augmentation,Normal,0.71,1.0
+315,EfficientNet,WGAN Augmentation,Normal,0.7125,1.0
+316,EfficientNet,WGAN Augmentation,Normal,0.83,1.0
+317,EfficientNet,WGAN Augmentation,Normal,0.8325,1.0
+318,EfficientNet,WGAN Augmentation,Normal,0.895,1.0
+319,EfficientNet,WGAN Augmentation,Normal,0.8975,1.0
+320,EfficientNet,WGAN Augmentation,Normal,0.935,1.0
+321,EfficientNet,WGAN Augmentation,Normal,0.9375,1.0
+322,EfficientNet,WGAN Augmentation,Normal,1.0,1.0
+323,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.0
+324,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.0025
+325,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.0075
+326,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.0125
+327,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.02
+328,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.035
+329,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.045
+330,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.05
+331,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.14
+332,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.145
+333,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.165
+334,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.17
+335,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.1775
+336,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.185
+337,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.195
+338,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.205
+339,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.21
+340,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.2125
+341,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.2175
+342,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.22
+343,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.225
+344,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.235
+345,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.24
+346,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.2525
+347,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.2575
+348,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.2675
+349,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.2725
+350,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.29
+351,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.3
+352,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.31
+353,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.315
+354,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.34
+355,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.345
+356,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.3525
+357,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.3575
+358,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0,0.49
+359,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.49
+360,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.495
+361,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.5125
+362,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.5175
+363,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.585
+364,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.59
+365,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.63
+366,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.635
+367,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00125,0.705
+368,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0025,0.705
+369,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0025,0.7125
+370,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.005,0.7125
+371,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.005,0.77
+372,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00625,0.77
+373,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00625,0.79
+374,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0075,0.79
+375,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0075,0.7925
+376,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00875,0.7925
+377,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.00875,0.8225
+378,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.01,0.8225
+379,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.01,0.845
+380,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.01125,0.845
+381,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.01125,0.855
+382,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.01375,0.855
+383,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.01375,0.875
+384,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.015,0.875
+385,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.015,0.88
+386,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.025,0.88
+387,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.025,0.885
+388,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.02625,0.885
+389,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.02625,0.8875
+390,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0275,0.8875
+391,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0275,0.8925
+392,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.03,0.8925
+393,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.03,0.8975
+394,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0325,0.8975
+395,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0325,0.9075
+396,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.03375,0.9075
+397,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.03375,0.9125
+398,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.03625,0.9125
+399,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.03625,0.915
+400,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04,0.915
+401,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04,0.9175
+402,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04125,0.9175
+403,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04125,0.92
+404,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04375,0.92
+405,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04375,0.925
+406,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.045,0.925
+407,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.045,0.9275
+408,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04875,0.9275
+409,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.04875,0.93
+410,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.05,0.93
+411,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.05,0.935
+412,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.05625,0.935
+413,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.05625,0.9375
+414,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0575,0.9375
+415,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0575,0.9425
+416,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0625,0.9425
+417,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0625,0.945
+418,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.06625,0.945
+419,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.06625,0.95
+420,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0725,0.95
+421,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0725,0.9525
+422,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0775,0.9525
+423,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0775,0.955
+424,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.07875,0.955
+425,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.07875,0.9575
+426,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0875,0.9575
+427,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0875,0.96
+428,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0925,0.96
+429,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0925,0.9625
+430,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.09375,0.9625
+431,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.09375,0.965
+432,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0975,0.965
+433,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.0975,0.97
+434,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.1,0.97
+435,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.1,0.9725
+436,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.13375,0.9725
+437,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.13375,0.975
+438,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.16875,0.975
+439,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.17125,0.975
+440,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.18,0.975
+441,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.18,0.9775
+442,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.19,0.9775
+443,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.19,0.98
+444,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.1975,0.98
+445,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.1975,0.9825
+446,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.22375,0.9825
+447,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.22625,0.9825
+448,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.2325,0.9825
+449,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.2325,0.9875
+450,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.2525,0.9875
+451,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.2525,0.99
+452,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.3375,0.99
+453,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.3375,0.9925
+454,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.3475,0.9925
+455,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.35,0.9925
+456,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.36375,0.9925
+457,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.36625,0.9925
+458,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.40125,0.9925
+459,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.40375,0.9925
+460,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.4375,0.9925
+461,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.4425,0.9925
+462,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.4475,0.9925
+463,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.4475,0.995
+464,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.52625,0.995
+465,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.52875,0.995
+466,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.5925,0.995
+467,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.5925,0.9975
+468,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.60125,0.9975
+469,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.60125,1.0
+470,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.67375,1.0
+471,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.67625,1.0
+472,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.7475,1.0
+473,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.75,1.0
+474,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.805,1.0
+475,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.8075,1.0
+476,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.87875,1.0
+477,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.88125,1.0
+478,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.92125,1.0
+479,EfficientNet,WGAN Augmentation,Viral Pneumonia,0.92375,1.0
+480,EfficientNet,WGAN Augmentation,Viral Pneumonia,1.0,1.0
