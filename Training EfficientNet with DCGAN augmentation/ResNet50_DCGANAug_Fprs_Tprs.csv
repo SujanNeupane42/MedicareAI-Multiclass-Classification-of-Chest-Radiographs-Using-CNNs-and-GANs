@@ -1,0 +1,586 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,EfficientNet,DCGAN Augmentation,Covid,0.0,0.0
+1,EfficientNet,DCGAN Augmentation,Covid,0.0,0.0025
+2,EfficientNet,DCGAN Augmentation,Covid,0.0,0.005
+3,EfficientNet,DCGAN Augmentation,Covid,0.0,0.01
+4,EfficientNet,DCGAN Augmentation,Covid,0.0,0.0175
+5,EfficientNet,DCGAN Augmentation,Covid,0.0,0.0275
+6,EfficientNet,DCGAN Augmentation,Covid,0.0,0.045
+7,EfficientNet,DCGAN Augmentation,Covid,0.0,0.05
+8,EfficientNet,DCGAN Augmentation,Covid,0.0,0.055
+9,EfficientNet,DCGAN Augmentation,Covid,0.0,0.065
+10,EfficientNet,DCGAN Augmentation,Covid,0.0,0.08
+11,EfficientNet,DCGAN Augmentation,Covid,0.0,0.0825
+12,EfficientNet,DCGAN Augmentation,Covid,0.0,0.0875
+13,EfficientNet,DCGAN Augmentation,Covid,0.0,0.1
+14,EfficientNet,DCGAN Augmentation,Covid,0.0,0.105
+15,EfficientNet,DCGAN Augmentation,Covid,0.0,0.11
+16,EfficientNet,DCGAN Augmentation,Covid,0.0,0.12
+17,EfficientNet,DCGAN Augmentation,Covid,0.0,0.1475
+18,EfficientNet,DCGAN Augmentation,Covid,0.0,0.1525
+19,EfficientNet,DCGAN Augmentation,Covid,0.0,0.1875
+20,EfficientNet,DCGAN Augmentation,Covid,0.0,0.1925
+21,EfficientNet,DCGAN Augmentation,Covid,0.0,0.2
+22,EfficientNet,DCGAN Augmentation,Covid,0.0,0.205
+23,EfficientNet,DCGAN Augmentation,Covid,0.0,0.2075
+24,EfficientNet,DCGAN Augmentation,Covid,0.0,0.2125
+25,EfficientNet,DCGAN Augmentation,Covid,0.0,0.2275
+26,EfficientNet,DCGAN Augmentation,Covid,0.0,0.2325
+27,EfficientNet,DCGAN Augmentation,Covid,0.0,0.3625
+28,EfficientNet,DCGAN Augmentation,Covid,0.0,0.3675
+29,EfficientNet,DCGAN Augmentation,Covid,0.0,0.38
+30,EfficientNet,DCGAN Augmentation,Covid,0.0,0.385
+31,EfficientNet,DCGAN Augmentation,Covid,0.0,0.3975
+32,EfficientNet,DCGAN Augmentation,Covid,0.00125,0.3975
+33,EfficientNet,DCGAN Augmentation,Covid,0.00125,0.42
+34,EfficientNet,DCGAN Augmentation,Covid,0.00125,0.425
+35,EfficientNet,DCGAN Augmentation,Covid,0.00125,0.4275
+36,EfficientNet,DCGAN Augmentation,Covid,0.00125,0.4325
+37,EfficientNet,DCGAN Augmentation,Covid,0.00125,0.4475
+38,EfficientNet,DCGAN Augmentation,Covid,0.0025,0.4475
+39,EfficientNet,DCGAN Augmentation,Covid,0.0025,0.4625
+40,EfficientNet,DCGAN Augmentation,Covid,0.00375,0.4625
+41,EfficientNet,DCGAN Augmentation,Covid,0.00375,0.4975
+42,EfficientNet,DCGAN Augmentation,Covid,0.00625,0.4975
+43,EfficientNet,DCGAN Augmentation,Covid,0.00625,0.5525
+44,EfficientNet,DCGAN Augmentation,Covid,0.0075,0.5525
+45,EfficientNet,DCGAN Augmentation,Covid,0.0075,0.565
+46,EfficientNet,DCGAN Augmentation,Covid,0.00875,0.565
+47,EfficientNet,DCGAN Augmentation,Covid,0.00875,0.59
+48,EfficientNet,DCGAN Augmentation,Covid,0.01,0.59
+49,EfficientNet,DCGAN Augmentation,Covid,0.01,0.615
+50,EfficientNet,DCGAN Augmentation,Covid,0.01125,0.615
+51,EfficientNet,DCGAN Augmentation,Covid,0.01125,0.6225
+52,EfficientNet,DCGAN Augmentation,Covid,0.0125,0.6225
+53,EfficientNet,DCGAN Augmentation,Covid,0.0125,0.625
+54,EfficientNet,DCGAN Augmentation,Covid,0.01375,0.625
+55,EfficientNet,DCGAN Augmentation,Covid,0.01375,0.64
+56,EfficientNet,DCGAN Augmentation,Covid,0.01375,0.645
+57,EfficientNet,DCGAN Augmentation,Covid,0.01375,0.6675
+58,EfficientNet,DCGAN Augmentation,Covid,0.01375,0.6725
+59,EfficientNet,DCGAN Augmentation,Covid,0.0175,0.6725
+60,EfficientNet,DCGAN Augmentation,Covid,0.0175,0.6825
+61,EfficientNet,DCGAN Augmentation,Covid,0.01875,0.6825
+62,EfficientNet,DCGAN Augmentation,Covid,0.01875,0.6975
+63,EfficientNet,DCGAN Augmentation,Covid,0.01875,0.7025
+64,EfficientNet,DCGAN Augmentation,Covid,0.01875,0.705
+65,EfficientNet,DCGAN Augmentation,Covid,0.02,0.705
+66,EfficientNet,DCGAN Augmentation,Covid,0.02,0.7075
+67,EfficientNet,DCGAN Augmentation,Covid,0.02125,0.7075
+68,EfficientNet,DCGAN Augmentation,Covid,0.02125,0.73
+69,EfficientNet,DCGAN Augmentation,Covid,0.0225,0.73
+70,EfficientNet,DCGAN Augmentation,Covid,0.0225,0.7525
+71,EfficientNet,DCGAN Augmentation,Covid,0.02375,0.7525
+72,EfficientNet,DCGAN Augmentation,Covid,0.02375,0.77
+73,EfficientNet,DCGAN Augmentation,Covid,0.025,0.77
+74,EfficientNet,DCGAN Augmentation,Covid,0.025,0.7775
+75,EfficientNet,DCGAN Augmentation,Covid,0.02625,0.7775
+76,EfficientNet,DCGAN Augmentation,Covid,0.02625,0.78
+77,EfficientNet,DCGAN Augmentation,Covid,0.02875,0.78
+78,EfficientNet,DCGAN Augmentation,Covid,0.02875,0.7925
+79,EfficientNet,DCGAN Augmentation,Covid,0.03,0.7925
+80,EfficientNet,DCGAN Augmentation,Covid,0.03,0.7975
+81,EfficientNet,DCGAN Augmentation,Covid,0.03125,0.7975
+82,EfficientNet,DCGAN Augmentation,Covid,0.03125,0.8
+83,EfficientNet,DCGAN Augmentation,Covid,0.03375,0.8
+84,EfficientNet,DCGAN Augmentation,Covid,0.03375,0.8025
+85,EfficientNet,DCGAN Augmentation,Covid,0.035,0.8025
+86,EfficientNet,DCGAN Augmentation,Covid,0.035,0.8175
+87,EfficientNet,DCGAN Augmentation,Covid,0.03875,0.8175
+88,EfficientNet,DCGAN Augmentation,Covid,0.03875,0.8325
+89,EfficientNet,DCGAN Augmentation,Covid,0.04,0.8325
+90,EfficientNet,DCGAN Augmentation,Covid,0.04,0.8425
+91,EfficientNet,DCGAN Augmentation,Covid,0.0425,0.8425
+92,EfficientNet,DCGAN Augmentation,Covid,0.0425,0.86
+93,EfficientNet,DCGAN Augmentation,Covid,0.0425,0.87
+94,EfficientNet,DCGAN Augmentation,Covid,0.04625,0.87
+95,EfficientNet,DCGAN Augmentation,Covid,0.04625,0.875
+96,EfficientNet,DCGAN Augmentation,Covid,0.04875,0.875
+97,EfficientNet,DCGAN Augmentation,Covid,0.04875,0.8775
+98,EfficientNet,DCGAN Augmentation,Covid,0.05125,0.8775
+99,EfficientNet,DCGAN Augmentation,Covid,0.05125,0.885
+100,EfficientNet,DCGAN Augmentation,Covid,0.05375,0.885
+101,EfficientNet,DCGAN Augmentation,Covid,0.05375,0.89
+102,EfficientNet,DCGAN Augmentation,Covid,0.05375,0.8925
+103,EfficientNet,DCGAN Augmentation,Covid,0.05875,0.8925
+104,EfficientNet,DCGAN Augmentation,Covid,0.05875,0.8975
+105,EfficientNet,DCGAN Augmentation,Covid,0.065,0.8975
+106,EfficientNet,DCGAN Augmentation,Covid,0.065,0.9
+107,EfficientNet,DCGAN Augmentation,Covid,0.06625,0.9
+108,EfficientNet,DCGAN Augmentation,Covid,0.06625,0.9025
+109,EfficientNet,DCGAN Augmentation,Covid,0.06875,0.9025
+110,EfficientNet,DCGAN Augmentation,Covid,0.06875,0.9075
+111,EfficientNet,DCGAN Augmentation,Covid,0.07125,0.9075
+112,EfficientNet,DCGAN Augmentation,Covid,0.07125,0.915
+113,EfficientNet,DCGAN Augmentation,Covid,0.0725,0.915
+114,EfficientNet,DCGAN Augmentation,Covid,0.0725,0.9225
+115,EfficientNet,DCGAN Augmentation,Covid,0.07625,0.9225
+116,EfficientNet,DCGAN Augmentation,Covid,0.07625,0.925
+117,EfficientNet,DCGAN Augmentation,Covid,0.07875,0.925
+118,EfficientNet,DCGAN Augmentation,Covid,0.07875,0.9275
+119,EfficientNet,DCGAN Augmentation,Covid,0.0825,0.9275
+120,EfficientNet,DCGAN Augmentation,Covid,0.0825,0.9325
+121,EfficientNet,DCGAN Augmentation,Covid,0.085,0.9325
+122,EfficientNet,DCGAN Augmentation,Covid,0.085,0.9375
+123,EfficientNet,DCGAN Augmentation,Covid,0.0875,0.9375
+124,EfficientNet,DCGAN Augmentation,Covid,0.0875,0.94
+125,EfficientNet,DCGAN Augmentation,Covid,0.08875,0.94
+126,EfficientNet,DCGAN Augmentation,Covid,0.08875,0.9425
+127,EfficientNet,DCGAN Augmentation,Covid,0.09,0.9425
+128,EfficientNet,DCGAN Augmentation,Covid,0.09,0.9475
+129,EfficientNet,DCGAN Augmentation,Covid,0.0975,0.9475
+130,EfficientNet,DCGAN Augmentation,Covid,0.0975,0.95
+131,EfficientNet,DCGAN Augmentation,Covid,0.09875,0.95
+132,EfficientNet,DCGAN Augmentation,Covid,0.09875,0.9525
+133,EfficientNet,DCGAN Augmentation,Covid,0.10375,0.9525
+134,EfficientNet,DCGAN Augmentation,Covid,0.10375,0.9575
+135,EfficientNet,DCGAN Augmentation,Covid,0.11375,0.9575
+136,EfficientNet,DCGAN Augmentation,Covid,0.11375,0.96
+137,EfficientNet,DCGAN Augmentation,Covid,0.12,0.96
+138,EfficientNet,DCGAN Augmentation,Covid,0.12,0.9625
+139,EfficientNet,DCGAN Augmentation,Covid,0.12,0.9675
+140,EfficientNet,DCGAN Augmentation,Covid,0.12375,0.9675
+141,EfficientNet,DCGAN Augmentation,Covid,0.12375,0.9725
+142,EfficientNet,DCGAN Augmentation,Covid,0.13,0.9725
+143,EfficientNet,DCGAN Augmentation,Covid,0.13,0.975
+144,EfficientNet,DCGAN Augmentation,Covid,0.135,0.975
+145,EfficientNet,DCGAN Augmentation,Covid,0.135,0.9775
+146,EfficientNet,DCGAN Augmentation,Covid,0.13875,0.9775
+147,EfficientNet,DCGAN Augmentation,Covid,0.13875,0.9825
+148,EfficientNet,DCGAN Augmentation,Covid,0.14125,0.9825
+149,EfficientNet,DCGAN Augmentation,Covid,0.14125,0.985
+150,EfficientNet,DCGAN Augmentation,Covid,0.1625,0.985
+151,EfficientNet,DCGAN Augmentation,Covid,0.1625,0.9875
+152,EfficientNet,DCGAN Augmentation,Covid,0.16875,0.9875
+153,EfficientNet,DCGAN Augmentation,Covid,0.16875,0.99
+154,EfficientNet,DCGAN Augmentation,Covid,0.1725,0.99
+155,EfficientNet,DCGAN Augmentation,Covid,0.1725,0.9925
+156,EfficientNet,DCGAN Augmentation,Covid,0.2,0.9925
+157,EfficientNet,DCGAN Augmentation,Covid,0.2,0.995
+158,EfficientNet,DCGAN Augmentation,Covid,0.20375,0.995
+159,EfficientNet,DCGAN Augmentation,Covid,0.20375,0.9975
+160,EfficientNet,DCGAN Augmentation,Covid,0.35875,0.9975
+161,EfficientNet,DCGAN Augmentation,Covid,0.36125,0.9975
+162,EfficientNet,DCGAN Augmentation,Covid,0.3975,0.9975
+163,EfficientNet,DCGAN Augmentation,Covid,0.3975,1.0
+164,EfficientNet,DCGAN Augmentation,Covid,0.6175,1.0
+165,EfficientNet,DCGAN Augmentation,Covid,0.62,1.0
+166,EfficientNet,DCGAN Augmentation,Covid,0.82875,1.0
+167,EfficientNet,DCGAN Augmentation,Covid,0.83125,1.0
+168,EfficientNet,DCGAN Augmentation,Covid,0.865,1.0
+169,EfficientNet,DCGAN Augmentation,Covid,0.8675,1.0
+170,EfficientNet,DCGAN Augmentation,Covid,1.0,1.0
+171,EfficientNet,DCGAN Augmentation,Normal,0.0,0.0
+172,EfficientNet,DCGAN Augmentation,Normal,0.0,0.0025
+173,EfficientNet,DCGAN Augmentation,Normal,0.0,0.0275
+174,EfficientNet,DCGAN Augmentation,Normal,0.0,0.0325
+175,EfficientNet,DCGAN Augmentation,Normal,0.0,0.1175
+176,EfficientNet,DCGAN Augmentation,Normal,0.0,0.1225
+177,EfficientNet,DCGAN Augmentation,Normal,0.0,0.1975
+178,EfficientNet,DCGAN Augmentation,Normal,0.0,0.2025
+179,EfficientNet,DCGAN Augmentation,Normal,0.0,0.325
+180,EfficientNet,DCGAN Augmentation,Normal,0.0,0.33
+181,EfficientNet,DCGAN Augmentation,Normal,0.0,0.375
+182,EfficientNet,DCGAN Augmentation,Normal,0.00125,0.375
+183,EfficientNet,DCGAN Augmentation,Normal,0.00125,0.4275
+184,EfficientNet,DCGAN Augmentation,Normal,0.0025,0.4275
+185,EfficientNet,DCGAN Augmentation,Normal,0.0025,0.495
+186,EfficientNet,DCGAN Augmentation,Normal,0.00375,0.495
+187,EfficientNet,DCGAN Augmentation,Normal,0.00375,0.5
+188,EfficientNet,DCGAN Augmentation,Normal,0.005,0.5
+189,EfficientNet,DCGAN Augmentation,Normal,0.005,0.5025
+190,EfficientNet,DCGAN Augmentation,Normal,0.00625,0.5025
+191,EfficientNet,DCGAN Augmentation,Normal,0.00625,0.5625
+192,EfficientNet,DCGAN Augmentation,Normal,0.0075,0.5625
+193,EfficientNet,DCGAN Augmentation,Normal,0.0075,0.5675
+194,EfficientNet,DCGAN Augmentation,Normal,0.00875,0.5675
+195,EfficientNet,DCGAN Augmentation,Normal,0.00875,0.5925
+196,EfficientNet,DCGAN Augmentation,Normal,0.01,0.5925
+197,EfficientNet,DCGAN Augmentation,Normal,0.01,0.6525
+198,EfficientNet,DCGAN Augmentation,Normal,0.01125,0.6525
+199,EfficientNet,DCGAN Augmentation,Normal,0.01125,0.655
+200,EfficientNet,DCGAN Augmentation,Normal,0.01375,0.655
+201,EfficientNet,DCGAN Augmentation,Normal,0.01375,0.6575
+202,EfficientNet,DCGAN Augmentation,Normal,0.01625,0.6575
+203,EfficientNet,DCGAN Augmentation,Normal,0.01625,0.67
+204,EfficientNet,DCGAN Augmentation,Normal,0.0175,0.67
+205,EfficientNet,DCGAN Augmentation,Normal,0.0175,0.6725
+206,EfficientNet,DCGAN Augmentation,Normal,0.01875,0.6725
+207,EfficientNet,DCGAN Augmentation,Normal,0.01875,0.7025
+208,EfficientNet,DCGAN Augmentation,Normal,0.02125,0.7025
+209,EfficientNet,DCGAN Augmentation,Normal,0.02125,0.705
+210,EfficientNet,DCGAN Augmentation,Normal,0.02375,0.705
+211,EfficientNet,DCGAN Augmentation,Normal,0.02375,0.715
+212,EfficientNet,DCGAN Augmentation,Normal,0.025,0.715
+213,EfficientNet,DCGAN Augmentation,Normal,0.025,0.725
+214,EfficientNet,DCGAN Augmentation,Normal,0.02625,0.725
+215,EfficientNet,DCGAN Augmentation,Normal,0.02625,0.735
+216,EfficientNet,DCGAN Augmentation,Normal,0.02875,0.735
+217,EfficientNet,DCGAN Augmentation,Normal,0.02875,0.745
+218,EfficientNet,DCGAN Augmentation,Normal,0.03,0.745
+219,EfficientNet,DCGAN Augmentation,Normal,0.03,0.75
+220,EfficientNet,DCGAN Augmentation,Normal,0.03125,0.75
+221,EfficientNet,DCGAN Augmentation,Normal,0.03125,0.7525
+222,EfficientNet,DCGAN Augmentation,Normal,0.0325,0.7525
+223,EfficientNet,DCGAN Augmentation,Normal,0.0325,0.7575
+224,EfficientNet,DCGAN Augmentation,Normal,0.03375,0.7575
+225,EfficientNet,DCGAN Augmentation,Normal,0.03375,0.765
+226,EfficientNet,DCGAN Augmentation,Normal,0.035,0.765
+227,EfficientNet,DCGAN Augmentation,Normal,0.035,0.7725
+228,EfficientNet,DCGAN Augmentation,Normal,0.03875,0.7725
+229,EfficientNet,DCGAN Augmentation,Normal,0.03875,0.795
+230,EfficientNet,DCGAN Augmentation,Normal,0.04125,0.795
+231,EfficientNet,DCGAN Augmentation,Normal,0.04125,0.7975
+232,EfficientNet,DCGAN Augmentation,Normal,0.0425,0.7975
+233,EfficientNet,DCGAN Augmentation,Normal,0.0425,0.8
+234,EfficientNet,DCGAN Augmentation,Normal,0.04375,0.8
+235,EfficientNet,DCGAN Augmentation,Normal,0.04375,0.805
+236,EfficientNet,DCGAN Augmentation,Normal,0.04625,0.805
+237,EfficientNet,DCGAN Augmentation,Normal,0.04625,0.81
+238,EfficientNet,DCGAN Augmentation,Normal,0.05,0.81
+239,EfficientNet,DCGAN Augmentation,Normal,0.05,0.8175
+240,EfficientNet,DCGAN Augmentation,Normal,0.05375,0.8175
+241,EfficientNet,DCGAN Augmentation,Normal,0.05375,0.8225
+242,EfficientNet,DCGAN Augmentation,Normal,0.05625,0.8225
+243,EfficientNet,DCGAN Augmentation,Normal,0.05625,0.825
+244,EfficientNet,DCGAN Augmentation,Normal,0.05875,0.825
+245,EfficientNet,DCGAN Augmentation,Normal,0.05875,0.8275
+246,EfficientNet,DCGAN Augmentation,Normal,0.0625,0.8275
+247,EfficientNet,DCGAN Augmentation,Normal,0.0625,0.8325
+248,EfficientNet,DCGAN Augmentation,Normal,0.065,0.8325
+249,EfficientNet,DCGAN Augmentation,Normal,0.065,0.835
+250,EfficientNet,DCGAN Augmentation,Normal,0.06625,0.835
+251,EfficientNet,DCGAN Augmentation,Normal,0.06625,0.84
+252,EfficientNet,DCGAN Augmentation,Normal,0.0675,0.84
+253,EfficientNet,DCGAN Augmentation,Normal,0.0675,0.845
+254,EfficientNet,DCGAN Augmentation,Normal,0.06875,0.845
+255,EfficientNet,DCGAN Augmentation,Normal,0.06875,0.8475
+256,EfficientNet,DCGAN Augmentation,Normal,0.07,0.8475
+257,EfficientNet,DCGAN Augmentation,Normal,0.07,0.8525
+258,EfficientNet,DCGAN Augmentation,Normal,0.07125,0.8525
+259,EfficientNet,DCGAN Augmentation,Normal,0.07125,0.8575
+260,EfficientNet,DCGAN Augmentation,Normal,0.0725,0.8575
+261,EfficientNet,DCGAN Augmentation,Normal,0.0725,0.86
+262,EfficientNet,DCGAN Augmentation,Normal,0.07375,0.86
+263,EfficientNet,DCGAN Augmentation,Normal,0.07375,0.8625
+264,EfficientNet,DCGAN Augmentation,Normal,0.07625,0.8625
+265,EfficientNet,DCGAN Augmentation,Normal,0.07625,0.87
+266,EfficientNet,DCGAN Augmentation,Normal,0.07875,0.87
+267,EfficientNet,DCGAN Augmentation,Normal,0.07875,0.875
+268,EfficientNet,DCGAN Augmentation,Normal,0.08,0.875
+269,EfficientNet,DCGAN Augmentation,Normal,0.08,0.8825
+270,EfficientNet,DCGAN Augmentation,Normal,0.08125,0.8825
+271,EfficientNet,DCGAN Augmentation,Normal,0.08125,0.885
+272,EfficientNet,DCGAN Augmentation,Normal,0.08375,0.885
+273,EfficientNet,DCGAN Augmentation,Normal,0.085,0.885
+274,EfficientNet,DCGAN Augmentation,Normal,0.085,0.8875
+275,EfficientNet,DCGAN Augmentation,Normal,0.08875,0.8875
+276,EfficientNet,DCGAN Augmentation,Normal,0.08875,0.89
+277,EfficientNet,DCGAN Augmentation,Normal,0.09,0.89
+278,EfficientNet,DCGAN Augmentation,Normal,0.09,0.8925
+279,EfficientNet,DCGAN Augmentation,Normal,0.09375,0.8925
+280,EfficientNet,DCGAN Augmentation,Normal,0.09375,0.9025
+281,EfficientNet,DCGAN Augmentation,Normal,0.09875,0.9025
+282,EfficientNet,DCGAN Augmentation,Normal,0.10125,0.9025
+283,EfficientNet,DCGAN Augmentation,Normal,0.10125,0.9075
+284,EfficientNet,DCGAN Augmentation,Normal,0.1025,0.9075
+285,EfficientNet,DCGAN Augmentation,Normal,0.1025,0.9125
+286,EfficientNet,DCGAN Augmentation,Normal,0.105,0.9125
+287,EfficientNet,DCGAN Augmentation,Normal,0.105,0.915
+288,EfficientNet,DCGAN Augmentation,Normal,0.115,0.915
+289,EfficientNet,DCGAN Augmentation,Normal,0.115,0.9225
+290,EfficientNet,DCGAN Augmentation,Normal,0.11625,0.9225
+291,EfficientNet,DCGAN Augmentation,Normal,0.11625,0.925
+292,EfficientNet,DCGAN Augmentation,Normal,0.11875,0.925
+293,EfficientNet,DCGAN Augmentation,Normal,0.11875,0.93
+294,EfficientNet,DCGAN Augmentation,Normal,0.12,0.93
+295,EfficientNet,DCGAN Augmentation,Normal,0.12,0.9325
+296,EfficientNet,DCGAN Augmentation,Normal,0.12125,0.9325
+297,EfficientNet,DCGAN Augmentation,Normal,0.12125,0.935
+298,EfficientNet,DCGAN Augmentation,Normal,0.12375,0.935
+299,EfficientNet,DCGAN Augmentation,Normal,0.12375,0.94
+300,EfficientNet,DCGAN Augmentation,Normal,0.12875,0.94
+301,EfficientNet,DCGAN Augmentation,Normal,0.12875,0.9425
+302,EfficientNet,DCGAN Augmentation,Normal,0.13875,0.9425
+303,EfficientNet,DCGAN Augmentation,Normal,0.13875,0.9475
+304,EfficientNet,DCGAN Augmentation,Normal,0.1425,0.9475
+305,EfficientNet,DCGAN Augmentation,Normal,0.1425,0.9525
+306,EfficientNet,DCGAN Augmentation,Normal,0.1525,0.9525
+307,EfficientNet,DCGAN Augmentation,Normal,0.1525,0.96
+308,EfficientNet,DCGAN Augmentation,Normal,0.15375,0.96
+309,EfficientNet,DCGAN Augmentation,Normal,0.15375,0.9625
+310,EfficientNet,DCGAN Augmentation,Normal,0.16125,0.9625
+311,EfficientNet,DCGAN Augmentation,Normal,0.16125,0.9675
+312,EfficientNet,DCGAN Augmentation,Normal,0.165,0.9675
+313,EfficientNet,DCGAN Augmentation,Normal,0.165,0.97
+314,EfficientNet,DCGAN Augmentation,Normal,0.1725,0.97
+315,EfficientNet,DCGAN Augmentation,Normal,0.1725,0.9725
+316,EfficientNet,DCGAN Augmentation,Normal,0.175,0.9725
+317,EfficientNet,DCGAN Augmentation,Normal,0.175,0.975
+318,EfficientNet,DCGAN Augmentation,Normal,0.185,0.975
+319,EfficientNet,DCGAN Augmentation,Normal,0.185,0.9775
+320,EfficientNet,DCGAN Augmentation,Normal,0.21,0.9775
+321,EfficientNet,DCGAN Augmentation,Normal,0.21,0.98
+322,EfficientNet,DCGAN Augmentation,Normal,0.2275,0.98
+323,EfficientNet,DCGAN Augmentation,Normal,0.2275,0.9825
+324,EfficientNet,DCGAN Augmentation,Normal,0.2475,0.9825
+325,EfficientNet,DCGAN Augmentation,Normal,0.25,0.9825
+326,EfficientNet,DCGAN Augmentation,Normal,0.25375,0.9825
+327,EfficientNet,DCGAN Augmentation,Normal,0.25375,0.985
+328,EfficientNet,DCGAN Augmentation,Normal,0.26875,0.985
+329,EfficientNet,DCGAN Augmentation,Normal,0.27125,0.985
+330,EfficientNet,DCGAN Augmentation,Normal,0.27125,0.9875
+331,EfficientNet,DCGAN Augmentation,Normal,0.2875,0.9875
+332,EfficientNet,DCGAN Augmentation,Normal,0.29,0.9875
+333,EfficientNet,DCGAN Augmentation,Normal,0.3175,0.9875
+334,EfficientNet,DCGAN Augmentation,Normal,0.3175,0.99
+335,EfficientNet,DCGAN Augmentation,Normal,0.3375,0.99
+336,EfficientNet,DCGAN Augmentation,Normal,0.3375,0.9925
+337,EfficientNet,DCGAN Augmentation,Normal,0.34375,0.9925
+338,EfficientNet,DCGAN Augmentation,Normal,0.34375,0.995
+339,EfficientNet,DCGAN Augmentation,Normal,0.45,0.995
+340,EfficientNet,DCGAN Augmentation,Normal,0.4525,0.995
+341,EfficientNet,DCGAN Augmentation,Normal,0.50375,0.995
+342,EfficientNet,DCGAN Augmentation,Normal,0.50625,0.995
+343,EfficientNet,DCGAN Augmentation,Normal,0.51,0.995
+344,EfficientNet,DCGAN Augmentation,Normal,0.51,0.9975
+345,EfficientNet,DCGAN Augmentation,Normal,0.65875,0.9975
+346,EfficientNet,DCGAN Augmentation,Normal,0.66125,0.9975
+347,EfficientNet,DCGAN Augmentation,Normal,0.66625,0.9975
+348,EfficientNet,DCGAN Augmentation,Normal,0.66875,0.9975
+349,EfficientNet,DCGAN Augmentation,Normal,0.70875,0.9975
+350,EfficientNet,DCGAN Augmentation,Normal,0.70875,1.0
+351,EfficientNet,DCGAN Augmentation,Normal,0.8,1.0
+352,EfficientNet,DCGAN Augmentation,Normal,0.8025,1.0
+353,EfficientNet,DCGAN Augmentation,Normal,0.805,1.0
+354,EfficientNet,DCGAN Augmentation,Normal,0.8075,1.0
+355,EfficientNet,DCGAN Augmentation,Normal,0.84875,1.0
+356,EfficientNet,DCGAN Augmentation,Normal,0.85125,1.0
+357,EfficientNet,DCGAN Augmentation,Normal,0.86375,1.0
+358,EfficientNet,DCGAN Augmentation,Normal,0.86625,1.0
+359,EfficientNet,DCGAN Augmentation,Normal,0.94125,1.0
+360,EfficientNet,DCGAN Augmentation,Normal,0.94375,1.0
+361,EfficientNet,DCGAN Augmentation,Normal,1.0,1.0
+362,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.0
+363,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.0025
+364,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.005
+365,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.015
+366,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.0175
+367,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.025
+368,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.035
+369,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.0475
+370,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.05
+371,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.0575
+372,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.0675
+373,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.07
+374,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.085
+375,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.11
+376,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.1125
+377,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.1175
+378,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.1275
+379,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.14
+380,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.1425
+381,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.1475
+382,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.15
+383,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.155
+384,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.1625
+385,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.17
+386,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.175
+387,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.19
+388,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.2
+389,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.205
+390,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.215
+391,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.225
+392,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.2275
+393,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.2325
+394,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.245
+395,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.25
+396,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.26
+397,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.27
+398,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.29
+399,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.2975
+400,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.3025
+401,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.3175
+402,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.3275
+403,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0,0.33
+404,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.33
+405,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.3425
+406,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.3475
+407,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.3525
+408,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.3575
+409,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.51
+410,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.515
+411,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.54
+412,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.545
+413,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00125,0.585
+414,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0025,0.585
+415,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0025,0.5875
+416,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00375,0.5875
+417,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00375,0.6325
+418,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.005,0.6325
+419,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.005,0.645
+420,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00625,0.645
+421,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.00625,0.6875
+422,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0075,0.6875
+423,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0075,0.715
+424,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01,0.715
+425,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01,0.735
+426,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01125,0.735
+427,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01125,0.75
+428,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0125,0.75
+429,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0125,0.755
+430,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.015,0.755
+431,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.015,0.7725
+432,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01625,0.7725
+433,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01625,0.775
+434,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0175,0.775
+435,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0175,0.785
+436,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01875,0.785
+437,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.01875,0.79
+438,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.02125,0.79
+439,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.02125,0.7925
+440,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0225,0.7925
+441,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0225,0.805
+442,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.025,0.805
+443,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.025,0.8125
+444,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0275,0.8125
+445,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0275,0.82
+446,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03,0.82
+447,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03,0.8225
+448,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03375,0.8225
+449,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03375,0.825
+450,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.035,0.825
+451,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.035,0.8275
+452,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03625,0.8275
+453,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03625,0.83
+454,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0375,0.83
+455,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0375,0.8375
+456,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03875,0.8375
+457,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.03875,0.8425
+458,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04,0.8425
+459,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04,0.8475
+460,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04125,0.8475
+461,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04125,0.85
+462,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04375,0.85
+463,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04375,0.8525
+464,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04625,0.8525
+465,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.04625,0.8625
+466,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0475,0.8625
+467,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0475,0.8675
+468,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.05125,0.8675
+469,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.05125,0.87
+470,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.05625,0.87
+471,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.05625,0.8725
+472,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0575,0.8725
+473,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0575,0.875
+474,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.06,0.875
+475,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.06,0.8775
+476,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.06125,0.8775
+477,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.06125,0.88
+478,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.06375,0.88
+479,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.06375,0.8825
+480,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0675,0.8825
+481,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0675,0.8875
+482,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.07125,0.8875
+483,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.07125,0.89
+484,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.075,0.89
+485,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.075,0.8925
+486,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0775,0.8925
+487,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0775,0.9
+488,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.07875,0.9
+489,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.07875,0.905
+490,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.08125,0.905
+491,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.08125,0.9075
+492,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0825,0.9075
+493,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0825,0.91
+494,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.08875,0.91
+495,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.08875,0.915
+496,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0925,0.915
+497,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.0925,0.9175
+498,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.105,0.9175
+499,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.105,0.9225
+500,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.10625,0.9225
+501,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.10625,0.925
+502,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1075,0.925
+503,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1075,0.9275
+504,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.10875,0.9275
+505,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.10875,0.93
+506,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.11375,0.93
+507,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.11375,0.9325
+508,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1225,0.9325
+509,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1225,0.935
+510,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1375,0.935
+511,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1375,0.9375
+512,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1425,0.9375
+513,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1425,0.94
+514,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.15875,0.94
+515,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.15875,0.9425
+516,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.16625,0.9425
+517,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.16625,0.945
+518,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1725,0.945
+519,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.1725,0.95
+520,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.17625,0.95
+521,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.17625,0.9525
+522,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.18,0.9525
+523,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.18,0.955
+524,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.185,0.955
+525,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.185,0.9575
+526,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.19125,0.9575
+527,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.19125,0.96
+528,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.19625,0.96
+529,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.19625,0.9625
+530,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.2,0.9625
+531,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.2025,0.9625
+532,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.205,0.9625
+533,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.205,0.965
+534,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.22375,0.965
+535,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.22375,0.9675
+536,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.225,0.9675
+537,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.225,0.97
+538,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.25125,0.97
+539,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.25125,0.9725
+540,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.26,0.9725
+541,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.26,0.975
+542,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.27,0.975
+543,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.27,0.9775
+544,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.28125,0.9775
+545,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.28125,0.98
+546,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.2925,0.98
+547,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.2975,0.98
+548,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.29875,0.98
+549,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.30125,0.98
+550,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.32,0.98
+551,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.32,0.9825
+552,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.3375,0.9825
+553,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.34,0.9825
+554,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.3675,0.9825
+555,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.3675,0.985
+556,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.38875,0.985
+557,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.39125,0.985
+558,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.4275,0.985
+559,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.4275,0.9875
+560,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.42875,0.9875
+561,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.42875,0.99
+562,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.43,0.99
+563,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.43,0.9925
+564,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.4825,0.9925
+565,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.4825,0.995
+566,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.56625,0.995
+567,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.56625,0.9975
+568,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.61375,0.9975
+569,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.61625,0.9975
+570,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.655,0.9975
+571,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.6575,0.9975
+572,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.76625,0.9975
+573,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.76875,0.9975
+574,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.7725,0.9975
+575,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.7725,1.0
+576,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.8025,1.0
+577,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.805,1.0
+578,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.82375,1.0
+579,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.82625,1.0
+580,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.8525,1.0
+581,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.855,1.0
+582,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.98625,1.0
+583,EfficientNet,DCGAN Augmentation,Viral Pneumonia,0.98875,1.0
+584,EfficientNet,DCGAN Augmentation,Viral Pneumonia,1.0,1.0
