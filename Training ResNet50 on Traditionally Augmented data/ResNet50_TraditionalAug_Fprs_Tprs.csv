@@ -1,0 +1,437 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,ResNet50,Traditional Augmentation,Covid,0.0,0.0
+1,ResNet50,Traditional Augmentation,Covid,0.0,0.0025
+2,ResNet50,Traditional Augmentation,Covid,0.0,0.0075
+3,ResNet50,Traditional Augmentation,Covid,0.0,0.0225
+4,ResNet50,Traditional Augmentation,Covid,0.0,0.045
+5,ResNet50,Traditional Augmentation,Covid,0.0,0.0975
+6,ResNet50,Traditional Augmentation,Covid,0.0,0.1225
+7,ResNet50,Traditional Augmentation,Covid,0.0,0.1425
+8,ResNet50,Traditional Augmentation,Covid,0.0,0.1475
+9,ResNet50,Traditional Augmentation,Covid,0.0,0.15
+10,ResNet50,Traditional Augmentation,Covid,0.0,0.1625
+11,ResNet50,Traditional Augmentation,Covid,0.0,0.17
+12,ResNet50,Traditional Augmentation,Covid,0.0,0.1725
+13,ResNet50,Traditional Augmentation,Covid,0.0,0.185
+14,ResNet50,Traditional Augmentation,Covid,0.0,0.19
+15,ResNet50,Traditional Augmentation,Covid,0.0,0.21
+16,ResNet50,Traditional Augmentation,Covid,0.0,0.215
+17,ResNet50,Traditional Augmentation,Covid,0.0,0.235
+18,ResNet50,Traditional Augmentation,Covid,0.0,0.245
+19,ResNet50,Traditional Augmentation,Covid,0.0,0.25
+20,ResNet50,Traditional Augmentation,Covid,0.0,0.2525
+21,ResNet50,Traditional Augmentation,Covid,0.0,0.2575
+22,ResNet50,Traditional Augmentation,Covid,0.0,0.2675
+23,ResNet50,Traditional Augmentation,Covid,0.0,0.2725
+24,ResNet50,Traditional Augmentation,Covid,0.0,0.2775
+25,ResNet50,Traditional Augmentation,Covid,0.0,0.285
+26,ResNet50,Traditional Augmentation,Covid,0.0,0.3
+27,ResNet50,Traditional Augmentation,Covid,0.0,0.31
+28,ResNet50,Traditional Augmentation,Covid,0.0,0.3175
+29,ResNet50,Traditional Augmentation,Covid,0.0,0.32
+30,ResNet50,Traditional Augmentation,Covid,0.0,0.325
+31,ResNet50,Traditional Augmentation,Covid,0.0,0.3275
+32,ResNet50,Traditional Augmentation,Covid,0.0,0.3325
+33,ResNet50,Traditional Augmentation,Covid,0.0,0.335
+34,ResNet50,Traditional Augmentation,Covid,0.0,0.345
+35,ResNet50,Traditional Augmentation,Covid,0.0,0.35
+36,ResNet50,Traditional Augmentation,Covid,0.0,0.355
+37,ResNet50,Traditional Augmentation,Covid,0.0,0.365
+38,ResNet50,Traditional Augmentation,Covid,0.0,0.37
+39,ResNet50,Traditional Augmentation,Covid,0.0,0.3825
+40,ResNet50,Traditional Augmentation,Covid,0.0,0.3925
+41,ResNet50,Traditional Augmentation,Covid,0.00125,0.395
+42,ResNet50,Traditional Augmentation,Covid,0.00125,0.4
+43,ResNet50,Traditional Augmentation,Covid,0.00125,0.405
+44,ResNet50,Traditional Augmentation,Covid,0.00125,0.4125
+45,ResNet50,Traditional Augmentation,Covid,0.00125,0.4225
+46,ResNet50,Traditional Augmentation,Covid,0.00125,0.4275
+47,ResNet50,Traditional Augmentation,Covid,0.00125,0.4425
+48,ResNet50,Traditional Augmentation,Covid,0.00125,0.4475
+49,ResNet50,Traditional Augmentation,Covid,0.00125,0.4725
+50,ResNet50,Traditional Augmentation,Covid,0.00125,0.4775
+51,ResNet50,Traditional Augmentation,Covid,0.00125,0.48
+52,ResNet50,Traditional Augmentation,Covid,0.00125,0.485
+53,ResNet50,Traditional Augmentation,Covid,0.00125,0.4875
+54,ResNet50,Traditional Augmentation,Covid,0.0025,0.4875
+55,ResNet50,Traditional Augmentation,Covid,0.0025,0.4975
+56,ResNet50,Traditional Augmentation,Covid,0.0025,0.5025
+57,ResNet50,Traditional Augmentation,Covid,0.0025,0.5525
+58,ResNet50,Traditional Augmentation,Covid,0.0025,0.5575
+59,ResNet50,Traditional Augmentation,Covid,0.0025,0.625
+60,ResNet50,Traditional Augmentation,Covid,0.00375,0.625
+61,ResNet50,Traditional Augmentation,Covid,0.00375,0.6325
+62,ResNet50,Traditional Augmentation,Covid,0.00375,0.6375
+63,ResNet50,Traditional Augmentation,Covid,0.00375,0.69
+64,ResNet50,Traditional Augmentation,Covid,0.00375,0.7
+65,ResNet50,Traditional Augmentation,Covid,0.00375,0.7025
+66,ResNet50,Traditional Augmentation,Covid,0.00375,0.7075
+67,ResNet50,Traditional Augmentation,Covid,0.00375,0.7425
+68,ResNet50,Traditional Augmentation,Covid,0.00375,0.7475
+69,ResNet50,Traditional Augmentation,Covid,0.00375,0.75
+70,ResNet50,Traditional Augmentation,Covid,0.00375,0.755
+71,ResNet50,Traditional Augmentation,Covid,0.00375,0.765
+72,ResNet50,Traditional Augmentation,Covid,0.00375,0.77
+73,ResNet50,Traditional Augmentation,Covid,0.005,0.77
+74,ResNet50,Traditional Augmentation,Covid,0.005,0.785
+75,ResNet50,Traditional Augmentation,Covid,0.00625,0.785
+76,ResNet50,Traditional Augmentation,Covid,0.00625,0.83
+77,ResNet50,Traditional Augmentation,Covid,0.0075,0.83
+78,ResNet50,Traditional Augmentation,Covid,0.0075,0.8325
+79,ResNet50,Traditional Augmentation,Covid,0.00875,0.8325
+80,ResNet50,Traditional Augmentation,Covid,0.00875,0.885
+81,ResNet50,Traditional Augmentation,Covid,0.01125,0.885
+82,ResNet50,Traditional Augmentation,Covid,0.01125,0.9075
+83,ResNet50,Traditional Augmentation,Covid,0.01375,0.9075
+84,ResNet50,Traditional Augmentation,Covid,0.01375,0.91
+85,ResNet50,Traditional Augmentation,Covid,0.015,0.91
+86,ResNet50,Traditional Augmentation,Covid,0.015,0.925
+87,ResNet50,Traditional Augmentation,Covid,0.01625,0.925
+88,ResNet50,Traditional Augmentation,Covid,0.01625,0.9325
+89,ResNet50,Traditional Augmentation,Covid,0.0175,0.9325
+90,ResNet50,Traditional Augmentation,Covid,0.0175,0.9375
+91,ResNet50,Traditional Augmentation,Covid,0.0175,0.9425
+92,ResNet50,Traditional Augmentation,Covid,0.0175,0.945
+93,ResNet50,Traditional Augmentation,Covid,0.02125,0.945
+94,ResNet50,Traditional Augmentation,Covid,0.02125,0.9475
+95,ResNet50,Traditional Augmentation,Covid,0.02375,0.9475
+96,ResNet50,Traditional Augmentation,Covid,0.02375,0.9525
+97,ResNet50,Traditional Augmentation,Covid,0.02625,0.9525
+98,ResNet50,Traditional Augmentation,Covid,0.02625,0.955
+99,ResNet50,Traditional Augmentation,Covid,0.02875,0.955
+100,ResNet50,Traditional Augmentation,Covid,0.02875,0.9575
+101,ResNet50,Traditional Augmentation,Covid,0.03,0.9575
+102,ResNet50,Traditional Augmentation,Covid,0.03,0.96
+103,ResNet50,Traditional Augmentation,Covid,0.03125,0.96
+104,ResNet50,Traditional Augmentation,Covid,0.03125,0.9625
+105,ResNet50,Traditional Augmentation,Covid,0.0375,0.9625
+106,ResNet50,Traditional Augmentation,Covid,0.0375,0.965
+107,ResNet50,Traditional Augmentation,Covid,0.04875,0.965
+108,ResNet50,Traditional Augmentation,Covid,0.04875,0.9675
+109,ResNet50,Traditional Augmentation,Covid,0.05125,0.9675
+110,ResNet50,Traditional Augmentation,Covid,0.05125,0.9725
+111,ResNet50,Traditional Augmentation,Covid,0.07375,0.9725
+112,ResNet50,Traditional Augmentation,Covid,0.07375,0.975
+113,ResNet50,Traditional Augmentation,Covid,0.08125,0.975
+114,ResNet50,Traditional Augmentation,Covid,0.08125,0.9775
+115,ResNet50,Traditional Augmentation,Covid,0.09125,0.9775
+116,ResNet50,Traditional Augmentation,Covid,0.09125,0.98
+117,ResNet50,Traditional Augmentation,Covid,0.09625,0.98
+118,ResNet50,Traditional Augmentation,Covid,0.09625,0.9825
+119,ResNet50,Traditional Augmentation,Covid,0.10375,0.9825
+120,ResNet50,Traditional Augmentation,Covid,0.10375,0.985
+121,ResNet50,Traditional Augmentation,Covid,0.11625,0.985
+122,ResNet50,Traditional Augmentation,Covid,0.11625,0.9875
+123,ResNet50,Traditional Augmentation,Covid,0.12125,0.9875
+124,ResNet50,Traditional Augmentation,Covid,0.12125,0.99
+125,ResNet50,Traditional Augmentation,Covid,0.1325,0.99
+126,ResNet50,Traditional Augmentation,Covid,0.1325,0.995
+127,ResNet50,Traditional Augmentation,Covid,0.19625,0.995
+128,ResNet50,Traditional Augmentation,Covid,0.19625,0.9975
+129,ResNet50,Traditional Augmentation,Covid,0.28875,0.9975
+130,ResNet50,Traditional Augmentation,Covid,0.29125,0.9975
+131,ResNet50,Traditional Augmentation,Covid,0.31,0.9975
+132,ResNet50,Traditional Augmentation,Covid,0.3125,0.9975
+133,ResNet50,Traditional Augmentation,Covid,0.3825,0.9975
+134,ResNet50,Traditional Augmentation,Covid,0.3825,1.0
+135,ResNet50,Traditional Augmentation,Covid,0.65125,1.0
+136,ResNet50,Traditional Augmentation,Covid,0.65375,1.0
+137,ResNet50,Traditional Augmentation,Covid,0.7375,1.0
+138,ResNet50,Traditional Augmentation,Covid,0.74,1.0
+139,ResNet50,Traditional Augmentation,Covid,1.0,1.0
+140,ResNet50,Traditional Augmentation,Normal,0.0,0.0
+141,ResNet50,Traditional Augmentation,Normal,0.0,0.0625
+142,ResNet50,Traditional Augmentation,Normal,0.0,0.1325
+143,ResNet50,Traditional Augmentation,Normal,0.0,0.165
+144,ResNet50,Traditional Augmentation,Normal,0.0,0.205
+145,ResNet50,Traditional Augmentation,Normal,0.0,0.2325
+146,ResNet50,Traditional Augmentation,Normal,0.0,0.2475
+147,ResNet50,Traditional Augmentation,Normal,0.0,0.275
+148,ResNet50,Traditional Augmentation,Normal,0.0,0.2925
+149,ResNet50,Traditional Augmentation,Normal,0.0,0.305
+150,ResNet50,Traditional Augmentation,Normal,0.0,0.315
+151,ResNet50,Traditional Augmentation,Normal,0.0,0.325
+152,ResNet50,Traditional Augmentation,Normal,0.0,0.34
+153,ResNet50,Traditional Augmentation,Normal,0.0,0.345
+154,ResNet50,Traditional Augmentation,Normal,0.0,0.3475
+155,ResNet50,Traditional Augmentation,Normal,0.0,0.3525
+156,ResNet50,Traditional Augmentation,Normal,0.0,0.365
+157,ResNet50,Traditional Augmentation,Normal,0.0,0.37
+158,ResNet50,Traditional Augmentation,Normal,0.0,0.39
+159,ResNet50,Traditional Augmentation,Normal,0.0,0.3925
+160,ResNet50,Traditional Augmentation,Normal,0.0,0.4025
+161,ResNet50,Traditional Augmentation,Normal,0.00125,0.4025
+162,ResNet50,Traditional Augmentation,Normal,0.00125,0.41
+163,ResNet50,Traditional Augmentation,Normal,0.00125,0.415
+164,ResNet50,Traditional Augmentation,Normal,0.00125,0.42
+165,ResNet50,Traditional Augmentation,Normal,0.00125,0.4225
+166,ResNet50,Traditional Augmentation,Normal,0.00125,0.4275
+167,ResNet50,Traditional Augmentation,Normal,0.00125,0.435
+168,ResNet50,Traditional Augmentation,Normal,0.00125,0.445
+169,ResNet50,Traditional Augmentation,Normal,0.00125,0.4475
+170,ResNet50,Traditional Augmentation,Normal,0.00125,0.4625
+171,ResNet50,Traditional Augmentation,Normal,0.00125,0.465
+172,ResNet50,Traditional Augmentation,Normal,0.0025,0.4675
+173,ResNet50,Traditional Augmentation,Normal,0.0025,0.475
+174,ResNet50,Traditional Augmentation,Normal,0.0025,0.485
+175,ResNet50,Traditional Augmentation,Normal,0.0025,0.49
+176,ResNet50,Traditional Augmentation,Normal,0.0025,0.495
+177,ResNet50,Traditional Augmentation,Normal,0.0025,0.4975
+178,ResNet50,Traditional Augmentation,Normal,0.0025,0.5025
+179,ResNet50,Traditional Augmentation,Normal,0.0025,0.51
+180,ResNet50,Traditional Augmentation,Normal,0.0025,0.515
+181,ResNet50,Traditional Augmentation,Normal,0.0025,0.5425
+182,ResNet50,Traditional Augmentation,Normal,0.0025,0.55
+183,ResNet50,Traditional Augmentation,Normal,0.0025,0.555
+184,ResNet50,Traditional Augmentation,Normal,0.0025,0.56
+185,ResNet50,Traditional Augmentation,Normal,0.0025,0.5625
+186,ResNet50,Traditional Augmentation,Normal,0.0025,0.5675
+187,ResNet50,Traditional Augmentation,Normal,0.0025,0.5725
+188,ResNet50,Traditional Augmentation,Normal,0.0025,0.5775
+189,ResNet50,Traditional Augmentation,Normal,0.0025,0.58
+190,ResNet50,Traditional Augmentation,Normal,0.0025,0.585
+191,ResNet50,Traditional Augmentation,Normal,0.0025,0.625
+192,ResNet50,Traditional Augmentation,Normal,0.00375,0.625
+193,ResNet50,Traditional Augmentation,Normal,0.00375,0.6475
+194,ResNet50,Traditional Augmentation,Normal,0.00375,0.6525
+195,ResNet50,Traditional Augmentation,Normal,0.00375,0.7275
+196,ResNet50,Traditional Augmentation,Normal,0.005,0.7275
+197,ResNet50,Traditional Augmentation,Normal,0.005,0.8
+198,ResNet50,Traditional Augmentation,Normal,0.00625,0.8
+199,ResNet50,Traditional Augmentation,Normal,0.00875,0.8
+200,ResNet50,Traditional Augmentation,Normal,0.00875,0.8075
+201,ResNet50,Traditional Augmentation,Normal,0.01,0.8075
+202,ResNet50,Traditional Augmentation,Normal,0.01,0.815
+203,ResNet50,Traditional Augmentation,Normal,0.01125,0.815
+204,ResNet50,Traditional Augmentation,Normal,0.01125,0.82
+205,ResNet50,Traditional Augmentation,Normal,0.01375,0.82
+206,ResNet50,Traditional Augmentation,Normal,0.01375,0.84
+207,ResNet50,Traditional Augmentation,Normal,0.01625,0.84
+208,ResNet50,Traditional Augmentation,Normal,0.01625,0.845
+209,ResNet50,Traditional Augmentation,Normal,0.0175,0.845
+210,ResNet50,Traditional Augmentation,Normal,0.0175,0.8525
+211,ResNet50,Traditional Augmentation,Normal,0.01875,0.8525
+212,ResNet50,Traditional Augmentation,Normal,0.01875,0.8625
+213,ResNet50,Traditional Augmentation,Normal,0.02,0.8625
+214,ResNet50,Traditional Augmentation,Normal,0.02,0.8725
+215,ResNet50,Traditional Augmentation,Normal,0.02125,0.8725
+216,ResNet50,Traditional Augmentation,Normal,0.02125,0.875
+217,ResNet50,Traditional Augmentation,Normal,0.0225,0.875
+218,ResNet50,Traditional Augmentation,Normal,0.0225,0.8975
+219,ResNet50,Traditional Augmentation,Normal,0.02375,0.8975
+220,ResNet50,Traditional Augmentation,Normal,0.02375,0.9
+221,ResNet50,Traditional Augmentation,Normal,0.025,0.9
+222,ResNet50,Traditional Augmentation,Normal,0.025,0.9125
+223,ResNet50,Traditional Augmentation,Normal,0.02625,0.9125
+224,ResNet50,Traditional Augmentation,Normal,0.02625,0.92
+225,ResNet50,Traditional Augmentation,Normal,0.0325,0.92
+226,ResNet50,Traditional Augmentation,Normal,0.0325,0.925
+227,ResNet50,Traditional Augmentation,Normal,0.03375,0.925
+228,ResNet50,Traditional Augmentation,Normal,0.03375,0.93
+229,ResNet50,Traditional Augmentation,Normal,0.035,0.93
+230,ResNet50,Traditional Augmentation,Normal,0.035,0.9325
+231,ResNet50,Traditional Augmentation,Normal,0.0375,0.9325
+232,ResNet50,Traditional Augmentation,Normal,0.0375,0.935
+233,ResNet50,Traditional Augmentation,Normal,0.03875,0.935
+234,ResNet50,Traditional Augmentation,Normal,0.03875,0.9375
+235,ResNet50,Traditional Augmentation,Normal,0.04125,0.9375
+236,ResNet50,Traditional Augmentation,Normal,0.04125,0.9425
+237,ResNet50,Traditional Augmentation,Normal,0.04875,0.9425
+238,ResNet50,Traditional Augmentation,Normal,0.04875,0.945
+239,ResNet50,Traditional Augmentation,Normal,0.05,0.945
+240,ResNet50,Traditional Augmentation,Normal,0.05,0.95
+241,ResNet50,Traditional Augmentation,Normal,0.05125,0.95
+242,ResNet50,Traditional Augmentation,Normal,0.05125,0.9525
+243,ResNet50,Traditional Augmentation,Normal,0.0525,0.9525
+244,ResNet50,Traditional Augmentation,Normal,0.0525,0.955
+245,ResNet50,Traditional Augmentation,Normal,0.05375,0.955
+246,ResNet50,Traditional Augmentation,Normal,0.05375,0.9575
+247,ResNet50,Traditional Augmentation,Normal,0.055,0.9575
+248,ResNet50,Traditional Augmentation,Normal,0.055,0.96
+249,ResNet50,Traditional Augmentation,Normal,0.05625,0.96
+250,ResNet50,Traditional Augmentation,Normal,0.05625,0.9675
+251,ResNet50,Traditional Augmentation,Normal,0.0575,0.9675
+252,ResNet50,Traditional Augmentation,Normal,0.0575,0.97
+253,ResNet50,Traditional Augmentation,Normal,0.05875,0.97
+254,ResNet50,Traditional Augmentation,Normal,0.05875,0.9725
+255,ResNet50,Traditional Augmentation,Normal,0.06125,0.9725
+256,ResNet50,Traditional Augmentation,Normal,0.06375,0.9725
+257,ResNet50,Traditional Augmentation,Normal,0.0725,0.9725
+258,ResNet50,Traditional Augmentation,Normal,0.0725,0.9775
+259,ResNet50,Traditional Augmentation,Normal,0.07375,0.9775
+260,ResNet50,Traditional Augmentation,Normal,0.07375,0.98
+261,ResNet50,Traditional Augmentation,Normal,0.0825,0.98
+262,ResNet50,Traditional Augmentation,Normal,0.0825,0.9825
+263,ResNet50,Traditional Augmentation,Normal,0.08875,0.9825
+264,ResNet50,Traditional Augmentation,Normal,0.08875,0.985
+265,ResNet50,Traditional Augmentation,Normal,0.125,0.985
+266,ResNet50,Traditional Augmentation,Normal,0.125,0.9875
+267,ResNet50,Traditional Augmentation,Normal,0.14,0.9875
+268,ResNet50,Traditional Augmentation,Normal,0.14,0.99
+269,ResNet50,Traditional Augmentation,Normal,0.15625,0.99
+270,ResNet50,Traditional Augmentation,Normal,0.15625,0.9925
+271,ResNet50,Traditional Augmentation,Normal,0.17875,0.9925
+272,ResNet50,Traditional Augmentation,Normal,0.17875,0.995
+273,ResNet50,Traditional Augmentation,Normal,0.195,0.995
+274,ResNet50,Traditional Augmentation,Normal,0.1975,0.995
+275,ResNet50,Traditional Augmentation,Normal,0.20375,0.995
+276,ResNet50,Traditional Augmentation,Normal,0.20375,0.9975
+277,ResNet50,Traditional Augmentation,Normal,0.2125,0.9975
+278,ResNet50,Traditional Augmentation,Normal,0.215,0.9975
+279,ResNet50,Traditional Augmentation,Normal,0.22375,0.9975
+280,ResNet50,Traditional Augmentation,Normal,0.22625,0.9975
+281,ResNet50,Traditional Augmentation,Normal,0.22875,0.9975
+282,ResNet50,Traditional Augmentation,Normal,0.23125,0.9975
+283,ResNet50,Traditional Augmentation,Normal,0.26,0.9975
+284,ResNet50,Traditional Augmentation,Normal,0.265,0.9975
+285,ResNet50,Traditional Augmentation,Normal,0.34375,0.9975
+286,ResNet50,Traditional Augmentation,Normal,0.34375,1.0
+287,ResNet50,Traditional Augmentation,Normal,0.37,1.0
+288,ResNet50,Traditional Augmentation,Normal,0.3725,1.0
+289,ResNet50,Traditional Augmentation,Normal,0.39625,1.0
+290,ResNet50,Traditional Augmentation,Normal,0.39875,1.0
+291,ResNet50,Traditional Augmentation,Normal,0.51875,1.0
+292,ResNet50,Traditional Augmentation,Normal,0.52125,1.0
+293,ResNet50,Traditional Augmentation,Normal,0.56625,1.0
+294,ResNet50,Traditional Augmentation,Normal,0.56875,1.0
+295,ResNet50,Traditional Augmentation,Normal,0.57625,1.0
+296,ResNet50,Traditional Augmentation,Normal,0.57875,1.0
+297,ResNet50,Traditional Augmentation,Normal,0.82625,1.0
+298,ResNet50,Traditional Augmentation,Normal,0.82875,1.0
+299,ResNet50,Traditional Augmentation,Normal,0.9125,1.0
+300,ResNet50,Traditional Augmentation,Normal,0.915,1.0
+301,ResNet50,Traditional Augmentation,Normal,0.92875,1.0
+302,ResNet50,Traditional Augmentation,Normal,0.93125,1.0
+303,ResNet50,Traditional Augmentation,Normal,0.98,1.0
+304,ResNet50,Traditional Augmentation,Normal,0.9825,1.0
+305,ResNet50,Traditional Augmentation,Normal,1.0,1.0
+306,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.0
+307,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.0975
+308,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.145
+309,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.1875
+310,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.2
+311,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.2075
+312,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.2175
+313,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.225
+314,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.23
+315,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.24
+316,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.245
+317,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.265
+318,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.28
+319,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.285
+320,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.295
+321,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.31
+322,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.325
+323,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3275
+324,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3425
+325,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3475
+326,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3575
+327,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.365
+328,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3775
+329,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3825
+330,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3875
+331,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.3925
+332,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.41
+333,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.415
+334,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.4225
+335,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.4325
+336,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.465
+337,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.47
+338,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.4775
+339,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.4825
+340,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.5575
+341,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.5625
+342,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0,0.5925
+343,ResNet50,Traditional Augmentation,Viral Pneumonia,0.00125,0.5925
+344,ResNet50,Traditional Augmentation,Viral Pneumonia,0.00125,0.7225
+345,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0025,0.7225
+346,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0025,0.735
+347,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0025,0.74
+348,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0025,0.77
+349,ResNet50,Traditional Augmentation,Viral Pneumonia,0.00375,0.77
+350,ResNet50,Traditional Augmentation,Viral Pneumonia,0.00375,0.785
+351,ResNet50,Traditional Augmentation,Viral Pneumonia,0.005,0.785
+352,ResNet50,Traditional Augmentation,Viral Pneumonia,0.005,0.8325
+353,ResNet50,Traditional Augmentation,Viral Pneumonia,0.00625,0.8325
+354,ResNet50,Traditional Augmentation,Viral Pneumonia,0.00625,0.87
+355,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0075,0.87
+356,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0075,0.8975
+357,ResNet50,Traditional Augmentation,Viral Pneumonia,0.01125,0.8975
+358,ResNet50,Traditional Augmentation,Viral Pneumonia,0.01125,0.9025
+359,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0125,0.9025
+360,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0125,0.9075
+361,ResNet50,Traditional Augmentation,Viral Pneumonia,0.01375,0.9075
+362,ResNet50,Traditional Augmentation,Viral Pneumonia,0.01375,0.91
+363,ResNet50,Traditional Augmentation,Viral Pneumonia,0.02,0.91
+364,ResNet50,Traditional Augmentation,Viral Pneumonia,0.02,0.9125
+365,ResNet50,Traditional Augmentation,Viral Pneumonia,0.02125,0.9125
+366,ResNet50,Traditional Augmentation,Viral Pneumonia,0.02125,0.9325
+367,ResNet50,Traditional Augmentation,Viral Pneumonia,0.02375,0.9325
+368,ResNet50,Traditional Augmentation,Viral Pneumonia,0.02375,0.94
+369,ResNet50,Traditional Augmentation,Viral Pneumonia,0.025,0.94
+370,ResNet50,Traditional Augmentation,Viral Pneumonia,0.025,0.9425
+371,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0275,0.9425
+372,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0275,0.95
+373,ResNet50,Traditional Augmentation,Viral Pneumonia,0.03375,0.95
+374,ResNet50,Traditional Augmentation,Viral Pneumonia,0.03375,0.955
+375,ResNet50,Traditional Augmentation,Viral Pneumonia,0.03875,0.955
+376,ResNet50,Traditional Augmentation,Viral Pneumonia,0.03875,0.9575
+377,ResNet50,Traditional Augmentation,Viral Pneumonia,0.04625,0.9575
+378,ResNet50,Traditional Augmentation,Viral Pneumonia,0.04625,0.96
+379,ResNet50,Traditional Augmentation,Viral Pneumonia,0.05125,0.96
+380,ResNet50,Traditional Augmentation,Viral Pneumonia,0.05125,0.9625
+381,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0625,0.9625
+382,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0625,0.965
+383,ResNet50,Traditional Augmentation,Viral Pneumonia,0.065,0.965
+384,ResNet50,Traditional Augmentation,Viral Pneumonia,0.065,0.9675
+385,ResNet50,Traditional Augmentation,Viral Pneumonia,0.06625,0.9675
+386,ResNet50,Traditional Augmentation,Viral Pneumonia,0.06625,0.97
+387,ResNet50,Traditional Augmentation,Viral Pneumonia,0.07,0.97
+388,ResNet50,Traditional Augmentation,Viral Pneumonia,0.07,0.9725
+389,ResNet50,Traditional Augmentation,Viral Pneumonia,0.07125,0.9725
+390,ResNet50,Traditional Augmentation,Viral Pneumonia,0.07125,0.975
+391,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0775,0.975
+392,ResNet50,Traditional Augmentation,Viral Pneumonia,0.0775,0.9775
+393,ResNet50,Traditional Augmentation,Viral Pneumonia,0.095,0.9775
+394,ResNet50,Traditional Augmentation,Viral Pneumonia,0.095,0.98
+395,ResNet50,Traditional Augmentation,Viral Pneumonia,0.105,0.98
+396,ResNet50,Traditional Augmentation,Viral Pneumonia,0.1075,0.98
+397,ResNet50,Traditional Augmentation,Viral Pneumonia,0.1175,0.98
+398,ResNet50,Traditional Augmentation,Viral Pneumonia,0.1175,0.9825
+399,ResNet50,Traditional Augmentation,Viral Pneumonia,0.12875,0.9825
+400,ResNet50,Traditional Augmentation,Viral Pneumonia,0.12875,0.985
+401,ResNet50,Traditional Augmentation,Viral Pneumonia,0.1425,0.985
+402,ResNet50,Traditional Augmentation,Viral Pneumonia,0.1425,0.9875
+403,ResNet50,Traditional Augmentation,Viral Pneumonia,0.165,0.9875
+404,ResNet50,Traditional Augmentation,Viral Pneumonia,0.1675,0.9875
+405,ResNet50,Traditional Augmentation,Viral Pneumonia,0.19,0.9875
+406,ResNet50,Traditional Augmentation,Viral Pneumonia,0.19,0.99
+407,ResNet50,Traditional Augmentation,Viral Pneumonia,0.285,0.99
+408,ResNet50,Traditional Augmentation,Viral Pneumonia,0.285,0.9925
+409,ResNet50,Traditional Augmentation,Viral Pneumonia,0.325,0.9925
+410,ResNet50,Traditional Augmentation,Viral Pneumonia,0.3275,0.9925
+411,ResNet50,Traditional Augmentation,Viral Pneumonia,0.33,0.9925
+412,ResNet50,Traditional Augmentation,Viral Pneumonia,0.33,0.995
+413,ResNet50,Traditional Augmentation,Viral Pneumonia,0.35125,0.995
+414,ResNet50,Traditional Augmentation,Viral Pneumonia,0.35375,0.995
+415,ResNet50,Traditional Augmentation,Viral Pneumonia,0.3725,0.995
+416,ResNet50,Traditional Augmentation,Viral Pneumonia,0.3725,0.9975
+417,ResNet50,Traditional Augmentation,Viral Pneumonia,0.42125,0.9975
+418,ResNet50,Traditional Augmentation,Viral Pneumonia,0.42375,0.9975
+419,ResNet50,Traditional Augmentation,Viral Pneumonia,0.46375,0.9975
+420,ResNet50,Traditional Augmentation,Viral Pneumonia,0.46625,0.9975
+421,ResNet50,Traditional Augmentation,Viral Pneumonia,0.48,0.9975
+422,ResNet50,Traditional Augmentation,Viral Pneumonia,0.4825,0.9975
+423,ResNet50,Traditional Augmentation,Viral Pneumonia,0.57125,0.9975
+424,ResNet50,Traditional Augmentation,Viral Pneumonia,0.57125,1.0
+425,ResNet50,Traditional Augmentation,Viral Pneumonia,0.61,1.0
+426,ResNet50,Traditional Augmentation,Viral Pneumonia,0.6125,1.0
+427,ResNet50,Traditional Augmentation,Viral Pneumonia,0.67375,1.0
+428,ResNet50,Traditional Augmentation,Viral Pneumonia,0.67625,1.0
+429,ResNet50,Traditional Augmentation,Viral Pneumonia,0.6925,1.0
+430,ResNet50,Traditional Augmentation,Viral Pneumonia,0.6975,1.0
+431,ResNet50,Traditional Augmentation,Viral Pneumonia,0.75125,1.0
+432,ResNet50,Traditional Augmentation,Viral Pneumonia,0.75375,1.0
+433,ResNet50,Traditional Augmentation,Viral Pneumonia,0.85625,1.0
+434,ResNet50,Traditional Augmentation,Viral Pneumonia,0.85875,1.0
+435,ResNet50,Traditional Augmentation,Viral Pneumonia,1.0,1.0
