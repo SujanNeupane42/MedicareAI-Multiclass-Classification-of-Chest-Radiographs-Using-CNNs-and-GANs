@@ -1,0 +1,4 @@
+,Model,Train_Condition,Class,TP,FP,FN,TN,Recall,Precision,Specificity,FPR,FNR,f1_score,Accuracy,AUC
+0,ResNet50,DCGAN Augmentation,Covid,377,16,23,784,0.9425,0.9593,0.98,0.02,0.0575,0.9508,0.9317,0.9928
+1,ResNet50,DCGAN Augmentation,Normal,387,56,13,389,0.9675,0.8736,0.8742,0.1258,0.0325,0.9182,0.9317,0.9899
+2,ResNet50,DCGAN Augmentation,Viral Pneumonia,354,10,46,790,0.885,0.9725,0.9875,0.0125,0.115,0.9267,0.9317,0.9895
