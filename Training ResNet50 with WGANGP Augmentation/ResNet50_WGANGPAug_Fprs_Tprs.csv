@@ -1,0 +1,405 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,ResNet50,WGANGP Augmentation,Covid,0.0,0.0
+1,ResNet50,WGANGP Augmentation,Covid,0.0,0.015
+2,ResNet50,WGANGP Augmentation,Covid,0.0,0.0375
+3,ResNet50,WGANGP Augmentation,Covid,0.0,0.0575
+4,ResNet50,WGANGP Augmentation,Covid,0.0,0.0675
+5,ResNet50,WGANGP Augmentation,Covid,0.0,0.0725
+6,ResNet50,WGANGP Augmentation,Covid,0.0,0.085
+7,ResNet50,WGANGP Augmentation,Covid,0.0,0.105
+8,ResNet50,WGANGP Augmentation,Covid,0.0,0.12
+9,ResNet50,WGANGP Augmentation,Covid,0.0,0.13
+10,ResNet50,WGANGP Augmentation,Covid,0.0,0.1375
+11,ResNet50,WGANGP Augmentation,Covid,0.0,0.14
+12,ResNet50,WGANGP Augmentation,Covid,0.0,0.15
+13,ResNet50,WGANGP Augmentation,Covid,0.0,0.165
+14,ResNet50,WGANGP Augmentation,Covid,0.0,0.17
+15,ResNet50,WGANGP Augmentation,Covid,0.0,0.18
+16,ResNet50,WGANGP Augmentation,Covid,0.0,0.1825
+17,ResNet50,WGANGP Augmentation,Covid,0.0,0.1975
+18,ResNet50,WGANGP Augmentation,Covid,0.0,0.2025
+19,ResNet50,WGANGP Augmentation,Covid,0.0,0.205
+20,ResNet50,WGANGP Augmentation,Covid,0.0,0.225
+21,ResNet50,WGANGP Augmentation,Covid,0.0,0.2325
+22,ResNet50,WGANGP Augmentation,Covid,0.0,0.2375
+23,ResNet50,WGANGP Augmentation,Covid,0.0,0.2425
+24,ResNet50,WGANGP Augmentation,Covid,0.0,0.245
+25,ResNet50,WGANGP Augmentation,Covid,0.0,0.2525
+26,ResNet50,WGANGP Augmentation,Covid,0.0,0.255
+27,ResNet50,WGANGP Augmentation,Covid,0.0,0.265
+28,ResNet50,WGANGP Augmentation,Covid,0.0,0.2775
+29,ResNet50,WGANGP Augmentation,Covid,0.0,0.285
+30,ResNet50,WGANGP Augmentation,Covid,0.00125,0.285
+31,ResNet50,WGANGP Augmentation,Covid,0.00125,0.29
+32,ResNet50,WGANGP Augmentation,Covid,0.00125,0.3075
+33,ResNet50,WGANGP Augmentation,Covid,0.00125,0.3125
+34,ResNet50,WGANGP Augmentation,Covid,0.00125,0.315
+35,ResNet50,WGANGP Augmentation,Covid,0.00125,0.32
+36,ResNet50,WGANGP Augmentation,Covid,0.00125,0.3225
+37,ResNet50,WGANGP Augmentation,Covid,0.0025,0.3225
+38,ResNet50,WGANGP Augmentation,Covid,0.0025,0.3325
+39,ResNet50,WGANGP Augmentation,Covid,0.0025,0.3375
+40,ResNet50,WGANGP Augmentation,Covid,0.0025,0.3425
+41,ResNet50,WGANGP Augmentation,Covid,0.00375,0.345
+42,ResNet50,WGANGP Augmentation,Covid,0.00375,0.355
+43,ResNet50,WGANGP Augmentation,Covid,0.00375,0.36
+44,ResNet50,WGANGP Augmentation,Covid,0.00375,0.375
+45,ResNet50,WGANGP Augmentation,Covid,0.00375,0.38
+46,ResNet50,WGANGP Augmentation,Covid,0.00375,0.415
+47,ResNet50,WGANGP Augmentation,Covid,0.00375,0.42
+48,ResNet50,WGANGP Augmentation,Covid,0.00375,0.4275
+49,ResNet50,WGANGP Augmentation,Covid,0.00375,0.4325
+50,ResNet50,WGANGP Augmentation,Covid,0.00375,0.445
+51,ResNet50,WGANGP Augmentation,Covid,0.00375,0.45
+52,ResNet50,WGANGP Augmentation,Covid,0.00375,0.4625
+53,ResNet50,WGANGP Augmentation,Covid,0.00375,0.4675
+54,ResNet50,WGANGP Augmentation,Covid,0.00375,0.4925
+55,ResNet50,WGANGP Augmentation,Covid,0.00375,0.4975
+56,ResNet50,WGANGP Augmentation,Covid,0.00375,0.5025
+57,ResNet50,WGANGP Augmentation,Covid,0.00375,0.5075
+58,ResNet50,WGANGP Augmentation,Covid,0.00375,0.645
+59,ResNet50,WGANGP Augmentation,Covid,0.00375,0.655
+60,ResNet50,WGANGP Augmentation,Covid,0.00375,0.7125
+61,ResNet50,WGANGP Augmentation,Covid,0.00375,0.7175
+62,ResNet50,WGANGP Augmentation,Covid,0.00375,0.7525
+63,ResNet50,WGANGP Augmentation,Covid,0.00375,0.7575
+64,ResNet50,WGANGP Augmentation,Covid,0.00375,0.7725
+65,ResNet50,WGANGP Augmentation,Covid,0.005,0.7725
+66,ResNet50,WGANGP Augmentation,Covid,0.005,0.79
+67,ResNet50,WGANGP Augmentation,Covid,0.005,0.795
+68,ResNet50,WGANGP Augmentation,Covid,0.005,0.8
+69,ResNet50,WGANGP Augmentation,Covid,0.00625,0.8
+70,ResNet50,WGANGP Augmentation,Covid,0.00625,0.83
+71,ResNet50,WGANGP Augmentation,Covid,0.0075,0.83
+72,ResNet50,WGANGP Augmentation,Covid,0.0075,0.855
+73,ResNet50,WGANGP Augmentation,Covid,0.00875,0.855
+74,ResNet50,WGANGP Augmentation,Covid,0.00875,0.86
+75,ResNet50,WGANGP Augmentation,Covid,0.01,0.86
+76,ResNet50,WGANGP Augmentation,Covid,0.01,0.8725
+77,ResNet50,WGANGP Augmentation,Covid,0.01125,0.8725
+78,ResNet50,WGANGP Augmentation,Covid,0.01125,0.8825
+79,ResNet50,WGANGP Augmentation,Covid,0.0125,0.8825
+80,ResNet50,WGANGP Augmentation,Covid,0.0125,0.9
+81,ResNet50,WGANGP Augmentation,Covid,0.01375,0.9
+82,ResNet50,WGANGP Augmentation,Covid,0.01375,0.9075
+83,ResNet50,WGANGP Augmentation,Covid,0.015,0.9075
+84,ResNet50,WGANGP Augmentation,Covid,0.015,0.9225
+85,ResNet50,WGANGP Augmentation,Covid,0.01625,0.9225
+86,ResNet50,WGANGP Augmentation,Covid,0.01625,0.9475
+87,ResNet50,WGANGP Augmentation,Covid,0.0225,0.9475
+88,ResNet50,WGANGP Augmentation,Covid,0.0225,0.9525
+89,ResNet50,WGANGP Augmentation,Covid,0.02375,0.9525
+90,ResNet50,WGANGP Augmentation,Covid,0.02375,0.9575
+91,ResNet50,WGANGP Augmentation,Covid,0.0275,0.9575
+92,ResNet50,WGANGP Augmentation,Covid,0.0275,0.9625
+93,ResNet50,WGANGP Augmentation,Covid,0.03125,0.9625
+94,ResNet50,WGANGP Augmentation,Covid,0.03125,0.965
+95,ResNet50,WGANGP Augmentation,Covid,0.035,0.965
+96,ResNet50,WGANGP Augmentation,Covid,0.035,0.97
+97,ResNet50,WGANGP Augmentation,Covid,0.0375,0.97
+98,ResNet50,WGANGP Augmentation,Covid,0.0375,0.9725
+99,ResNet50,WGANGP Augmentation,Covid,0.0375,0.9775
+100,ResNet50,WGANGP Augmentation,Covid,0.0375,0.9825
+101,ResNet50,WGANGP Augmentation,Covid,0.03875,0.9825
+102,ResNet50,WGANGP Augmentation,Covid,0.03875,0.99
+103,ResNet50,WGANGP Augmentation,Covid,0.07875,0.99
+104,ResNet50,WGANGP Augmentation,Covid,0.07875,0.9925
+105,ResNet50,WGANGP Augmentation,Covid,0.085,0.9925
+106,ResNet50,WGANGP Augmentation,Covid,0.085,0.995
+107,ResNet50,WGANGP Augmentation,Covid,0.11625,0.995
+108,ResNet50,WGANGP Augmentation,Covid,0.11625,0.9975
+109,ResNet50,WGANGP Augmentation,Covid,0.21875,0.9975
+110,ResNet50,WGANGP Augmentation,Covid,0.22125,0.9975
+111,ResNet50,WGANGP Augmentation,Covid,0.5375,0.9975
+112,ResNet50,WGANGP Augmentation,Covid,0.5375,1.0
+113,ResNet50,WGANGP Augmentation,Covid,0.59625,1.0
+114,ResNet50,WGANGP Augmentation,Covid,0.59875,1.0
+115,ResNet50,WGANGP Augmentation,Covid,0.66,1.0
+116,ResNet50,WGANGP Augmentation,Covid,0.6625,1.0
+117,ResNet50,WGANGP Augmentation,Covid,0.74625,1.0
+118,ResNet50,WGANGP Augmentation,Covid,0.74875,1.0
+119,ResNet50,WGANGP Augmentation,Covid,1.0,1.0
+120,ResNet50,WGANGP Augmentation,Normal,0.0,0.0
+121,ResNet50,WGANGP Augmentation,Normal,0.0,0.185
+122,ResNet50,WGANGP Augmentation,Normal,0.0,0.2525
+123,ResNet50,WGANGP Augmentation,Normal,0.0,0.2925
+124,ResNet50,WGANGP Augmentation,Normal,0.00125,0.3225
+125,ResNet50,WGANGP Augmentation,Normal,0.00125,0.345
+126,ResNet50,WGANGP Augmentation,Normal,0.00125,0.355
+127,ResNet50,WGANGP Augmentation,Normal,0.00125,0.37
+128,ResNet50,WGANGP Augmentation,Normal,0.00125,0.3875
+129,ResNet50,WGANGP Augmentation,Normal,0.00125,0.395
+130,ResNet50,WGANGP Augmentation,Normal,0.00125,0.3975
+131,ResNet50,WGANGP Augmentation,Normal,0.00125,0.4275
+132,ResNet50,WGANGP Augmentation,Normal,0.00125,0.4375
+133,ResNet50,WGANGP Augmentation,Normal,0.00125,0.46
+134,ResNet50,WGANGP Augmentation,Normal,0.00125,0.48
+135,ResNet50,WGANGP Augmentation,Normal,0.00125,0.49
+136,ResNet50,WGANGP Augmentation,Normal,0.00125,0.4925
+137,ResNet50,WGANGP Augmentation,Normal,0.00125,0.5
+138,ResNet50,WGANGP Augmentation,Normal,0.00125,0.5025
+139,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5025
+140,ResNet50,WGANGP Augmentation,Normal,0.0025,0.51
+141,ResNet50,WGANGP Augmentation,Normal,0.0025,0.515
+142,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5225
+143,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5275
+144,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5425
+145,ResNet50,WGANGP Augmentation,Normal,0.0025,0.55
+146,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5525
+147,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5575
+148,ResNet50,WGANGP Augmentation,Normal,0.0025,0.565
+149,ResNet50,WGANGP Augmentation,Normal,0.0025,0.57
+150,ResNet50,WGANGP Augmentation,Normal,0.0025,0.5925
+151,ResNet50,WGANGP Augmentation,Normal,0.00375,0.5925
+152,ResNet50,WGANGP Augmentation,Normal,0.00375,0.5975
+153,ResNet50,WGANGP Augmentation,Normal,0.005,0.6
+154,ResNet50,WGANGP Augmentation,Normal,0.005,0.63
+155,ResNet50,WGANGP Augmentation,Normal,0.00625,0.63
+156,ResNet50,WGANGP Augmentation,Normal,0.00625,0.6525
+157,ResNet50,WGANGP Augmentation,Normal,0.00625,0.6575
+158,ResNet50,WGANGP Augmentation,Normal,0.00625,0.6675
+159,ResNet50,WGANGP Augmentation,Normal,0.00625,0.6725
+160,ResNet50,WGANGP Augmentation,Normal,0.00625,0.6925
+161,ResNet50,WGANGP Augmentation,Normal,0.00625,0.6975
+162,ResNet50,WGANGP Augmentation,Normal,0.00625,0.7975
+163,ResNet50,WGANGP Augmentation,Normal,0.0075,0.7975
+164,ResNet50,WGANGP Augmentation,Normal,0.0075,0.8075
+165,ResNet50,WGANGP Augmentation,Normal,0.00875,0.8075
+166,ResNet50,WGANGP Augmentation,Normal,0.00875,0.8325
+167,ResNet50,WGANGP Augmentation,Normal,0.01,0.8325
+168,ResNet50,WGANGP Augmentation,Normal,0.01,0.865
+169,ResNet50,WGANGP Augmentation,Normal,0.01125,0.865
+170,ResNet50,WGANGP Augmentation,Normal,0.01125,0.8675
+171,ResNet50,WGANGP Augmentation,Normal,0.0125,0.8675
+172,ResNet50,WGANGP Augmentation,Normal,0.0125,0.8725
+173,ResNet50,WGANGP Augmentation,Normal,0.01375,0.8725
+174,ResNet50,WGANGP Augmentation,Normal,0.01375,0.8825
+175,ResNet50,WGANGP Augmentation,Normal,0.01625,0.8825
+176,ResNet50,WGANGP Augmentation,Normal,0.01625,0.89
+177,ResNet50,WGANGP Augmentation,Normal,0.0175,0.89
+178,ResNet50,WGANGP Augmentation,Normal,0.0175,0.9
+179,ResNet50,WGANGP Augmentation,Normal,0.02,0.9
+180,ResNet50,WGANGP Augmentation,Normal,0.02,0.905
+181,ResNet50,WGANGP Augmentation,Normal,0.0225,0.905
+182,ResNet50,WGANGP Augmentation,Normal,0.0225,0.915
+183,ResNet50,WGANGP Augmentation,Normal,0.02375,0.915
+184,ResNet50,WGANGP Augmentation,Normal,0.02375,0.9175
+185,ResNet50,WGANGP Augmentation,Normal,0.025,0.9175
+186,ResNet50,WGANGP Augmentation,Normal,0.025,0.9225
+187,ResNet50,WGANGP Augmentation,Normal,0.02625,0.9225
+188,ResNet50,WGANGP Augmentation,Normal,0.02625,0.93
+189,ResNet50,WGANGP Augmentation,Normal,0.0275,0.93
+190,ResNet50,WGANGP Augmentation,Normal,0.0275,0.9325
+191,ResNet50,WGANGP Augmentation,Normal,0.02875,0.9325
+192,ResNet50,WGANGP Augmentation,Normal,0.02875,0.935
+193,ResNet50,WGANGP Augmentation,Normal,0.0325,0.935
+194,ResNet50,WGANGP Augmentation,Normal,0.0325,0.9375
+195,ResNet50,WGANGP Augmentation,Normal,0.04,0.9375
+196,ResNet50,WGANGP Augmentation,Normal,0.04,0.9425
+197,ResNet50,WGANGP Augmentation,Normal,0.0475,0.9425
+198,ResNet50,WGANGP Augmentation,Normal,0.0475,0.945
+199,ResNet50,WGANGP Augmentation,Normal,0.04875,0.945
+200,ResNet50,WGANGP Augmentation,Normal,0.04875,0.95
+201,ResNet50,WGANGP Augmentation,Normal,0.05,0.95
+202,ResNet50,WGANGP Augmentation,Normal,0.05,0.9525
+203,ResNet50,WGANGP Augmentation,Normal,0.05125,0.9525
+204,ResNet50,WGANGP Augmentation,Normal,0.05125,0.955
+205,ResNet50,WGANGP Augmentation,Normal,0.0525,0.955
+206,ResNet50,WGANGP Augmentation,Normal,0.0525,0.9575
+207,ResNet50,WGANGP Augmentation,Normal,0.05375,0.9575
+208,ResNet50,WGANGP Augmentation,Normal,0.05375,0.96
+209,ResNet50,WGANGP Augmentation,Normal,0.055,0.96
+210,ResNet50,WGANGP Augmentation,Normal,0.055,0.9625
+211,ResNet50,WGANGP Augmentation,Normal,0.05625,0.9625
+212,ResNet50,WGANGP Augmentation,Normal,0.05875,0.9625
+213,ResNet50,WGANGP Augmentation,Normal,0.0625,0.9625
+214,ResNet50,WGANGP Augmentation,Normal,0.0625,0.965
+215,ResNet50,WGANGP Augmentation,Normal,0.06375,0.965
+216,ResNet50,WGANGP Augmentation,Normal,0.06375,0.9675
+217,ResNet50,WGANGP Augmentation,Normal,0.06625,0.9675
+218,ResNet50,WGANGP Augmentation,Normal,0.06625,0.9725
+219,ResNet50,WGANGP Augmentation,Normal,0.0725,0.9725
+220,ResNet50,WGANGP Augmentation,Normal,0.0725,0.975
+221,ResNet50,WGANGP Augmentation,Normal,0.08875,0.975
+222,ResNet50,WGANGP Augmentation,Normal,0.08875,0.9775
+223,ResNet50,WGANGP Augmentation,Normal,0.09125,0.9775
+224,ResNet50,WGANGP Augmentation,Normal,0.09125,0.98
+225,ResNet50,WGANGP Augmentation,Normal,0.09375,0.98
+226,ResNet50,WGANGP Augmentation,Normal,0.09375,0.9825
+227,ResNet50,WGANGP Augmentation,Normal,0.10375,0.9825
+228,ResNet50,WGANGP Augmentation,Normal,0.10375,0.985
+229,ResNet50,WGANGP Augmentation,Normal,0.10625,0.985
+230,ResNet50,WGANGP Augmentation,Normal,0.10625,0.9875
+231,ResNet50,WGANGP Augmentation,Normal,0.11,0.9875
+232,ResNet50,WGANGP Augmentation,Normal,0.11,0.99
+233,ResNet50,WGANGP Augmentation,Normal,0.115,0.99
+234,ResNet50,WGANGP Augmentation,Normal,0.115,0.9925
+235,ResNet50,WGANGP Augmentation,Normal,0.125,0.9925
+236,ResNet50,WGANGP Augmentation,Normal,0.125,0.995
+237,ResNet50,WGANGP Augmentation,Normal,0.13,0.995
+238,ResNet50,WGANGP Augmentation,Normal,0.1325,0.995
+239,ResNet50,WGANGP Augmentation,Normal,0.13625,0.995
+240,ResNet50,WGANGP Augmentation,Normal,0.13875,0.995
+241,ResNet50,WGANGP Augmentation,Normal,0.16125,0.995
+242,ResNet50,WGANGP Augmentation,Normal,0.16125,0.9975
+243,ResNet50,WGANGP Augmentation,Normal,0.16875,0.9975
+244,ResNet50,WGANGP Augmentation,Normal,0.16875,1.0
+245,ResNet50,WGANGP Augmentation,Normal,0.20125,1.0
+246,ResNet50,WGANGP Augmentation,Normal,0.20375,1.0
+247,ResNet50,WGANGP Augmentation,Normal,0.23625,1.0
+248,ResNet50,WGANGP Augmentation,Normal,0.23875,1.0
+249,ResNet50,WGANGP Augmentation,Normal,0.27625,1.0
+250,ResNet50,WGANGP Augmentation,Normal,0.27875,1.0
+251,ResNet50,WGANGP Augmentation,Normal,0.33875,1.0
+252,ResNet50,WGANGP Augmentation,Normal,0.34375,1.0
+253,ResNet50,WGANGP Augmentation,Normal,0.37625,1.0
+254,ResNet50,WGANGP Augmentation,Normal,0.37875,1.0
+255,ResNet50,WGANGP Augmentation,Normal,0.4925,1.0
+256,ResNet50,WGANGP Augmentation,Normal,0.495,1.0
+257,ResNet50,WGANGP Augmentation,Normal,0.505,1.0
+258,ResNet50,WGANGP Augmentation,Normal,0.5075,1.0
+259,ResNet50,WGANGP Augmentation,Normal,0.53375,1.0
+260,ResNet50,WGANGP Augmentation,Normal,0.53625,1.0
+261,ResNet50,WGANGP Augmentation,Normal,0.6675,1.0
+262,ResNet50,WGANGP Augmentation,Normal,0.67,1.0
+263,ResNet50,WGANGP Augmentation,Normal,0.79875,1.0
+264,ResNet50,WGANGP Augmentation,Normal,0.80125,1.0
+265,ResNet50,WGANGP Augmentation,Normal,0.83875,1.0
+266,ResNet50,WGANGP Augmentation,Normal,0.84125,1.0
+267,ResNet50,WGANGP Augmentation,Normal,0.84375,1.0
+268,ResNet50,WGANGP Augmentation,Normal,0.84625,1.0
+269,ResNet50,WGANGP Augmentation,Normal,0.99625,1.0
+270,ResNet50,WGANGP Augmentation,Normal,0.99875,1.0
+271,ResNet50,WGANGP Augmentation,Normal,1.0,1.0
+272,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.0
+273,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.0375
+274,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.07
+275,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.105
+276,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.125
+277,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.15
+278,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.16
+279,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.1625
+280,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.17
+281,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.19
+282,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.1975
+283,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2025
+284,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.205
+285,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.21
+286,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2125
+287,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.22
+288,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2275
+289,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2325
+290,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2375
+291,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2425
+292,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.25
+293,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2575
+294,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2625
+295,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.27
+296,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.275
+297,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2775
+298,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2825
+299,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2925
+300,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.2975
+301,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.32
+302,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.3275
+303,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.3475
+304,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.3525
+305,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.505
+306,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.5125
+307,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.5275
+308,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.5325
+309,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0,0.7575
+310,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00125,0.7575
+311,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00125,0.7625
+312,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0025,0.7625
+313,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0025,0.7925
+314,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0025,0.7975
+315,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0025,0.825
+316,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00375,0.825
+317,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00375,0.8325
+318,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.005,0.8325
+319,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.005,0.835
+320,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00625,0.835
+321,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00625,0.8475
+322,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.00875,0.8475
+323,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.01125,0.8475
+324,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.01125,0.8675
+325,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0125,0.8675
+326,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0125,0.875
+327,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.01375,0.875
+328,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.01375,0.8775
+329,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.015,0.8775
+330,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.015,0.885
+331,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.01625,0.885
+332,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.01625,0.9
+333,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0175,0.9
+334,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0175,0.9075
+335,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.02,0.9075
+336,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.02,0.92
+337,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.02125,0.92
+338,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.02125,0.9275
+339,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.02625,0.9275
+340,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.02625,0.93
+341,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.03,0.93
+342,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.03,0.935
+343,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0325,0.935
+344,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0325,0.9375
+345,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.03375,0.9375
+346,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.03375,0.94
+347,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.035,0.94
+348,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.035,0.945
+349,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.03625,0.945
+350,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.03625,0.9475
+351,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0425,0.9475
+352,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.0425,0.9525
+353,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.045,0.9525
+354,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.045,0.96
+355,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.04625,0.96
+356,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.04625,0.9625
+357,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.04875,0.9625
+358,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.04875,0.965
+359,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.055,0.965
+360,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.055,0.9675
+361,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.06,0.9675
+362,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.06,0.97
+363,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.06875,0.97
+364,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.06875,0.9775
+365,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.11625,0.9775
+366,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.11875,0.9775
+367,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.12875,0.9775
+368,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.12875,0.98
+369,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.14375,0.98
+370,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.14375,0.9825
+371,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.255,0.9825
+372,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.2575,0.9825
+373,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.33625,0.9825
+374,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.33875,0.9825
+375,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.36125,0.9825
+376,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.36375,0.9825
+377,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.41,0.9825
+378,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.415,0.9825
+379,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.42875,0.9825
+380,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.42875,0.985
+381,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.44375,0.985
+382,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.44375,0.9875
+383,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.455,0.9875
+384,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.455,0.99
+385,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.45875,0.99
+386,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.46125,0.99
+387,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.465,0.99
+388,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.465,0.995
+389,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.50375,0.995
+390,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.50375,0.9975
+391,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.5725,0.9975
+392,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.5725,1.0
+393,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.5775,1.0
+394,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.58,1.0
+395,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.66125,1.0
+396,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.66375,1.0
+397,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.68375,1.0
+398,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.68625,1.0
+399,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.73375,1.0
+400,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.73625,1.0
+401,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.85375,1.0
+402,ResNet50,WGANGP Augmentation,Viral Pneumonia,0.85625,1.0
+403,ResNet50,WGANGP Augmentation,Viral Pneumonia,1.0,1.0
