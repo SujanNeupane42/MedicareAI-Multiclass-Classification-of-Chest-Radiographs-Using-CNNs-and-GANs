@@ -1,0 +1,5 @@
+symptoms
+ UPDATE data set symptoms = "Are you feeling any of these symptoms:,,1. Fever,,2. Cough,, 3. Fatigue,, 4. Sore throat,, 5. Headache,, 5. Diarrhea,, 6. Runny nose,,,, If you have any of these symptoms, it is pretty sure that you have the virus and this prediction is not a false positive.,, Seek a doctor immediately." where Class = 0;     
+ 
+solutions
+UPDATE data set solutions = "You can follow following steps to ensure you can manage and cope with stress.,,1. Take deep breaths and meditate,,2. Take enough rest,,3. Take pain relievers if necessary,,,, If you have any of the following, please seek serious medical attention immediately:,, 1. Trouble breathing,, 2. Persistent pain or pressure in the chest,, 3. Inability to wake or stay awake " where Class = 0

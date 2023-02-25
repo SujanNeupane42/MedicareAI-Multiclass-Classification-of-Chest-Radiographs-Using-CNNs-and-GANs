@@ -138,25 +138,37 @@ class Model:
         selected_class = np.argmax(out)
         print("OUT: ", out)
         print(selected_class)
+        
+        description = ""
+        symptoms = ""
+        solutions = ""
 
-        if selected_class in [0, 2]:
+        if selected_class in [0]:
             mycursor.execute("SELECT * FROM data where Class = {}".format(selected_class))
             myresult = list(mycursor.fetchall()[0])
-            # print(myresult)
     
             description = myresult[1]
             symptoms = myresult[2]
             solutions = myresult[3]
+
+            description = description.replace(",,", "<br>")
+            # description =  "<p>{}</p>".format(description)
+            symptoms = symptoms.replace(",,", "<br>")
+            # symptoms =  "<p>{}</p>".format(symptoms)
+            solutions = solutions.replace(",,", "<br>")
+            # solutions =  "<p>{}</p>".format(solutions)
             
             f = open('test.txt', 'w')
             f.write("Case: "+self.classes[selected_class]+"\n")
-            f.write("Description: "+ description+"\n")
-            f.write("Symptoms: "+ symptoms+"\n")
-            f.write("Solutions: "+ solutions+"\n")
+            f.write("Description: "+ description+"\n\n")
+            f.write("Symptoms: "+ symptoms+"\n\n")
+            f.write("Solutions: "+ solutions+"\n\n")
             f.write("Confidence: "+ str(out[selected_class]))
             f.close()
-
-        return outputs
+            # return all_results
+        
+        all_results = [outputs, description, symptoms, solutions]
+        return all_results
 
 
 def home(request):
@@ -181,10 +193,22 @@ def home(request):
         filename = 'media/'+ upload.name
         file_url = fss.url(file)
         model = Model()        
-        predictions = model.predict(os.path.join(media, file))
+        all_results = model.predict(os.path.join(media, file))
+        predictions = all_results[0]
+        description = all_results[1]
+        symptoms = all_results[2]
+        solutions = all_results[3]
+
+
+        # print(symptoms)
+
+        if predictions == "":
+            present_values = False
+        else:
+            present_values = True
         
         return render(request, "index.html", {'pred': predictions, 'file': upload, 'file_path': file_url,'show': True, 
-                                             })
+                    'present_values': present_values, 'description': description, 'symptoms': symptoms, 'solutions': solutions})
     else:
         return render(request, 'index.html')
 

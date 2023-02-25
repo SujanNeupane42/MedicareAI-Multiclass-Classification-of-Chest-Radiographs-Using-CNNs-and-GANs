@@ -1,5 +1,8 @@
 Case: Covid
-Description: COVID is a dangerous virus.
-Symptoms: Headache ...
-Solutions: Stay at home. Use Mask
-Confidence: 0.9998431
+Description: Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
+
+Symptoms: Are you feeling any of these symptoms:<br>1. Fever<br>2. Cough<br> 3. Fatigue<br> 4. Sore throat<br> 5. Headache<br> 5. Diarrhea<br> 6. Runny nose<br> If you have any of these symptoms, it will pretty sure that you have the virus and this prediction is not a false positive.<br> Seek a doctor immediately.
+
+Solutions: You can follow following steps to ensure you can manage and cope with stress.<br>1. Take deep breaths and meditate<br>2. Take enough rest<br>3. Take pain relievers if necessary<br><br> If you have any of the following, please seek serious medical attention immediately:<br> 1. Trouble breathing<br> 2. Persistent pain or pressure in the chest<br> 3. Inability to wake or stay awake 
+
+Confidence: 0.9999176

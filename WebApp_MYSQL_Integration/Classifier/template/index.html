@@ -61,6 +61,37 @@
                 <div class="progress-bar bg-primary" role="progressbar" style="width: {{ pred.Viral_Pneumonia }}%"
                     aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
+            <br><br>
+            {% if present_values %}
+                <div id="description"></div><br><br>
+                <div id="symptoms"></div><br><br>
+                <div id="solutions"></div>
+                <script>
+                    var description = "{{ description }}";
+                    var symptoms = "{{ symptoms }}";
+                    var solutions = "{{ solutions }}";
+
+                    var variable = '&lt;br&gt;';
+                    
+                    while (description.includes(variable) == true){
+                        description = description.replace(variable, '<br>')
+                    }
+                    while (symptoms.includes(variable) == true){
+                        symptoms = symptoms.replace(variable, '<br>')
+                    }
+                    while (solutions.includes(variable) == true){
+                        solutions = solutions.replace(variable, '<br>')
+                    }
+
+                    console.log(description);
+                    console.log(symptoms);
+                    console.log(solutions);
+
+                    document.getElementById("description").innerHTML = description;
+                    document.getElementById("symptoms").innerHTML = symptoms;
+                    document.getElementById("solutions").innerHTML = solutions;
+                </script>
+            {% endif %}
     
         </div>
 
@@ -72,3 +103,11 @@
 {% endblock body %}
 </body>
 </html>
+
+                <!-- <div style="display:flex; justify-content: center;"> -->
+                    <!-- <div class="col col-md-4"></div> -->
+
+
+                    <!-- <p>{{ description }}</p>
+                    <p>{{ symptoms }}</p>
+                    <p>{{ solutions }}</p> -->
