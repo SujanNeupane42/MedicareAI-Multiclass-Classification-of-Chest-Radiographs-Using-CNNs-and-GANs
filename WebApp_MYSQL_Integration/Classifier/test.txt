@@ -2,4 +2,4 @@ Case: Covid
 Description: COVID is a dangerous virus.
 Symptoms: Headache ...
 Solutions: Stay at home. Use Mask
-Confidence: 0.88644993
+Confidence: 0.9998431

@@ -28,7 +28,6 @@ urlpatterns = [
     path('login', views.login, name='login'),
     path('signup', views.signup, name='signup'),
     path('home', views.home, name='home'),
-    path('logoutuser', views.logoutuser, name='logoutuser'),
-    # static(settings.MEDIA_URL, document_root= settings.MEDIA_ROOT), # Additional append
-]
+    path('logoutuser', views.logoutuser, name='logoutuser')   
+] + static(settings.MEDIA_URL, document_root= settings.MEDIA_ROOT)
  

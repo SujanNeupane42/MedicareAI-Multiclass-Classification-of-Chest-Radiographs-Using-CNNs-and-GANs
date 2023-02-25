@@ -24,7 +24,6 @@ mydb = mysql.connector.connect(
 )
 mycursor = mydb.cursor()
 
-
 media = 'media'
 
 
@@ -178,20 +177,14 @@ def home(request):
 
         fss = FileSystemStorage()
         file = fss.save(upload.name, upload)
+
+        filename = 'media/'+ upload.name
         file_url = fss.url(file)
-        model = Model()
+        model = Model()        
         predictions = model.predict(os.path.join(media, file))
-
-        # os.remove(file_url)
-
-        # predictions = {'Covid': 70,
-        #                'Normal': 33.33,
-        #                'Viral_Pneumonia': 33.33}
-        # print(file_url)
-        # print(predictions)
-
-        return render(request, "index.html", {'pred': predictions, 'file_url': file_url, 'show': True})
-
+        
+        return render(request, "index.html", {'pred': predictions, 'file': upload, 'file_path': file_url,'show': True, 
+                                             })
     else:
         return render(request, 'index.html')
 

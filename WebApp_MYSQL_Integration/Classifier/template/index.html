@@ -2,7 +2,9 @@
 {% block title %}MedicareAI{% endblock title %}
 {% block body %}
 
-<div class="container border-rounded shadow-lg position-relative" style="min-height: 80vh;">
+
+<div style="height: 80vh;">
+    {% load static %}
     <a href="logoutuser">
         <button class="btn btn-outline-danger position-absolute top-0 end-0 mt-3 mx-3 btn-sm"><i
                 class="bi bi-box-arrow-right me-2"></i>Logout</button>
@@ -14,35 +16,38 @@
     </div>
     <div class="row justify-content-evenly mt-3">
         <div class="col col-12">
-            <p class="text-center fs-6"> <b>Enhancing Covid-19 diagnosis using the power of GANs and Deep Learning</b>
-            </p>
+            <p class="text-center fs-6"> -Enhancing the Covid19 diagnosis using the power of GANs and Deep Learning</p>
         </div>
     </div>
+
     <div class="row justify-content-evenly mt-3">
         <div class="col col-md-5 align-self-center">
-            <form method="POST" action="home" enctype="multipart/form-data">
+            <form method="POST" action = 'home' enctype="multipart/form-data">
                 {% csrf_token %}
                 <label for="formFile" class="form-label">Please choose your file</label>
-                <!-- <input class="form-control" type="file" name="upload" accept=".png"  required change="loadFile(event)"> -->
-                <input class="form-control" type="file" name="upload" accept=".png"  required change="loadFile(event)">
-
+                <input class="form-control" type="file" name="upload" accept=".png"  required onchange="loadFile(event)">
                 <p style="display: flex; justify-content: center;" class="my-3"><img id="output" width="200" /></p>
-
                 <div class="text-center">
-
                     <button type="submit" class="btn btn-outline-success mt-1"
                         style="margin-bottom: 10px;">Submit</button>
+                        
                 </div>
             </form>
         </div>
     </div>
 
     {% if show %}
-    <div class="row mt-3 justify-content-evenly">
+       <div class="row mt-3 justify-content-evenly">
+        
         <div class="col col-md-4">
+            <div style="display:flex; justify-content: center;">
+                {% if file_path %}
+                    <img src= "{{ file_path }}" alt="" height="200" >
+                {% endif %}
+            </div>
+
             <p class="fs-6 mb-0 mt-3">Covid: {{ pred.Covid }}</p>
             <div class="progress">
-
                 <div class="progress-bar bg-danger" role="progressbar" style="width: {{ pred.Covid }}%" aria-valuenow={{
                     pred.Covid }} aria-valuemin="0" aria-valuemax="100"></div>
             </div>
@@ -52,19 +57,18 @@
                     aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
             <p class="fs-6 mb-0 mt-3">Viral Pneumonia: {{ pred.Viral_Pneumonia }}</p>
-            <div class="progress mb-5">
+            <div class="progress">
                 <div class="progress-bar bg-primary" role="progressbar" style="width: {{ pred.Viral_Pneumonia }}%"
                     aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
+    
         </div>
+
     </div>
 
     {% endif %}
 
 </div>
-
 {% endblock body %}
-
 </body>
-
-</html> 
+</html>
