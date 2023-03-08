@@ -1,0 +1,4 @@
+,Model,Train_Condition,Class,TP,FP,FN,TN,Recall,Precision,Specificity,FPR,FNR,f1_score,Accuracy,AUC
+0,GoogLeNet,WGANGP Augmentation,Covid,391,12,9,788,0.9775,0.9702,0.985,0.015,0.0225,0.9738,0.9575,0.9956
+1,GoogLeNet,WGANGP Augmentation,Normal,390,31,10,387,0.975,0.9264,0.9258,0.0742,0.025,0.9501,0.9575,0.9925
+2,GoogLeNet,WGANGP Augmentation,Viral Pneumonia,368,8,32,792,0.92,0.9787,0.99,0.01,0.08,0.9484,0.9575,0.9918
