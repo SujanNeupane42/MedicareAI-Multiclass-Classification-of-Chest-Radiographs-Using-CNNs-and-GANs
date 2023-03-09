@@ -1,0 +1,4 @@
+,Model,Train_Condition,Class,TP,FP,FN,TN,Recall,Precision,Specificity,FPR,FNR,f1_score,Accuracy,AUC
+0,GoogLeNet,Imbalanced,Covid,290,55,110,745,0.725,0.8406,0.9312,0.0688,0.275,0.7785,0.7617,0.9304
+1,GoogLeNet,Imbalanced,Normal,399,231,1,389,0.9975,0.6333,0.6274,0.3726,0.0025,0.7747,0.7617,0.9906
+2,GoogLeNet,Imbalanced,Viral Pneumonia,225,0,175,800,0.5625,1.0,1.0,0.0,0.4375,0.72,0.7617,0.9699
