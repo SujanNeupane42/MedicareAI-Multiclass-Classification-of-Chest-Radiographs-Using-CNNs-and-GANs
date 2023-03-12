@@ -1,0 +1,474 @@
+,Model,Train_Condition,Class,fprs,tprs
+0,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0
+1,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0025
+2,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0175
+3,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0225
+4,GoogLeNet,Traditional Augmentation,Covid,0.0,0.03
+5,GoogLeNet,Traditional Augmentation,Covid,0.0,0.04
+6,GoogLeNet,Traditional Augmentation,Covid,0.0,0.05
+7,GoogLeNet,Traditional Augmentation,Covid,0.0,0.065
+8,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0675
+9,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0825
+10,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0875
+11,GoogLeNet,Traditional Augmentation,Covid,0.0,0.095
+12,GoogLeNet,Traditional Augmentation,Covid,0.0,0.0975
+13,GoogLeNet,Traditional Augmentation,Covid,0.0,0.105
+14,GoogLeNet,Traditional Augmentation,Covid,0.0,0.11
+15,GoogLeNet,Traditional Augmentation,Covid,0.0,0.125
+16,GoogLeNet,Traditional Augmentation,Covid,0.0,0.1275
+17,GoogLeNet,Traditional Augmentation,Covid,0.0,0.1575
+18,GoogLeNet,Traditional Augmentation,Covid,0.0,0.16
+19,GoogLeNet,Traditional Augmentation,Covid,0.0,0.1675
+20,GoogLeNet,Traditional Augmentation,Covid,0.0,0.18
+21,GoogLeNet,Traditional Augmentation,Covid,0.0,0.185
+22,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2
+23,GoogLeNet,Traditional Augmentation,Covid,0.0,0.21
+24,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2125
+25,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2175
+26,GoogLeNet,Traditional Augmentation,Covid,0.0,0.22
+27,GoogLeNet,Traditional Augmentation,Covid,0.0,0.225
+28,GoogLeNet,Traditional Augmentation,Covid,0.0,0.23
+29,GoogLeNet,Traditional Augmentation,Covid,0.0,0.235
+30,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2425
+31,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2475
+32,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2525
+33,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2575
+34,GoogLeNet,Traditional Augmentation,Covid,0.0,0.265
+35,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2675
+36,GoogLeNet,Traditional Augmentation,Covid,0.0,0.28
+37,GoogLeNet,Traditional Augmentation,Covid,0.0,0.285
+38,GoogLeNet,Traditional Augmentation,Covid,0.0,0.2925
+39,GoogLeNet,Traditional Augmentation,Covid,0.0,0.295
+40,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3
+41,GoogLeNet,Traditional Augmentation,Covid,0.0,0.305
+42,GoogLeNet,Traditional Augmentation,Covid,0.0,0.31
+43,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3175
+44,GoogLeNet,Traditional Augmentation,Covid,0.0,0.32
+45,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3275
+46,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3375
+47,GoogLeNet,Traditional Augmentation,Covid,0.0,0.34
+48,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3475
+49,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3575
+50,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3725
+51,GoogLeNet,Traditional Augmentation,Covid,0.0,0.3775
+52,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4125
+53,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4175
+54,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4325
+55,GoogLeNet,Traditional Augmentation,Covid,0.0,0.44
+56,GoogLeNet,Traditional Augmentation,Covid,0.0,0.445
+57,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4525
+58,GoogLeNet,Traditional Augmentation,Covid,0.0,0.455
+59,GoogLeNet,Traditional Augmentation,Covid,0.0,0.46
+60,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4675
+61,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4725
+62,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4775
+63,GoogLeNet,Traditional Augmentation,Covid,0.0,0.4875
+64,GoogLeNet,Traditional Augmentation,Covid,0.0,0.495
+65,GoogLeNet,Traditional Augmentation,Covid,0.0,0.5
+66,GoogLeNet,Traditional Augmentation,Covid,0.0,0.5075
+67,GoogLeNet,Traditional Augmentation,Covid,0.0,0.5125
+68,GoogLeNet,Traditional Augmentation,Covid,0.0,0.5325
+69,GoogLeNet,Traditional Augmentation,Covid,0.0,0.5375
+70,GoogLeNet,Traditional Augmentation,Covid,0.0,0.54
+71,GoogLeNet,Traditional Augmentation,Covid,0.0,0.545
+72,GoogLeNet,Traditional Augmentation,Covid,0.0,0.5475
+73,GoogLeNet,Traditional Augmentation,Covid,0.00125,0.5475
+74,GoogLeNet,Traditional Augmentation,Covid,0.00125,0.555
+75,GoogLeNet,Traditional Augmentation,Covid,0.00125,0.56
+76,GoogLeNet,Traditional Augmentation,Covid,0.00125,0.5625
+77,GoogLeNet,Traditional Augmentation,Covid,0.00125,0.5675
+78,GoogLeNet,Traditional Augmentation,Covid,0.00125,0.61
+79,GoogLeNet,Traditional Augmentation,Covid,0.0025,0.6125
+80,GoogLeNet,Traditional Augmentation,Covid,0.0025,0.6225
+81,GoogLeNet,Traditional Augmentation,Covid,0.0025,0.6325
+82,GoogLeNet,Traditional Augmentation,Covid,0.0025,0.6475
+83,GoogLeNet,Traditional Augmentation,Covid,0.00375,0.6475
+84,GoogLeNet,Traditional Augmentation,Covid,0.00375,0.6575
+85,GoogLeNet,Traditional Augmentation,Covid,0.00375,0.6625
+86,GoogLeNet,Traditional Augmentation,Covid,0.00375,0.67
+87,GoogLeNet,Traditional Augmentation,Covid,0.00375,0.675
+88,GoogLeNet,Traditional Augmentation,Covid,0.00375,0.73
+89,GoogLeNet,Traditional Augmentation,Covid,0.005,0.73
+90,GoogLeNet,Traditional Augmentation,Covid,0.005,0.775
+91,GoogLeNet,Traditional Augmentation,Covid,0.00625,0.775
+92,GoogLeNet,Traditional Augmentation,Covid,0.00625,0.7825
+93,GoogLeNet,Traditional Augmentation,Covid,0.00625,0.7875
+94,GoogLeNet,Traditional Augmentation,Covid,0.00625,0.8
+95,GoogLeNet,Traditional Augmentation,Covid,0.0075,0.8
+96,GoogLeNet,Traditional Augmentation,Covid,0.0075,0.85
+97,GoogLeNet,Traditional Augmentation,Covid,0.0075,0.855
+98,GoogLeNet,Traditional Augmentation,Covid,0.00875,0.855
+99,GoogLeNet,Traditional Augmentation,Covid,0.00875,0.8575
+100,GoogLeNet,Traditional Augmentation,Covid,0.01,0.8575
+101,GoogLeNet,Traditional Augmentation,Covid,0.01,0.865
+102,GoogLeNet,Traditional Augmentation,Covid,0.01125,0.865
+103,GoogLeNet,Traditional Augmentation,Covid,0.01125,0.8725
+104,GoogLeNet,Traditional Augmentation,Covid,0.0125,0.8725
+105,GoogLeNet,Traditional Augmentation,Covid,0.0125,0.88
+106,GoogLeNet,Traditional Augmentation,Covid,0.01375,0.88
+107,GoogLeNet,Traditional Augmentation,Covid,0.01375,0.8875
+108,GoogLeNet,Traditional Augmentation,Covid,0.015,0.8875
+109,GoogLeNet,Traditional Augmentation,Covid,0.015,0.895
+110,GoogLeNet,Traditional Augmentation,Covid,0.015,0.9
+111,GoogLeNet,Traditional Augmentation,Covid,0.01625,0.9
+112,GoogLeNet,Traditional Augmentation,Covid,0.01625,0.9025
+113,GoogLeNet,Traditional Augmentation,Covid,0.0175,0.9025
+114,GoogLeNet,Traditional Augmentation,Covid,0.0175,0.905
+115,GoogLeNet,Traditional Augmentation,Covid,0.01875,0.905
+116,GoogLeNet,Traditional Augmentation,Covid,0.01875,0.9075
+117,GoogLeNet,Traditional Augmentation,Covid,0.02,0.9075
+118,GoogLeNet,Traditional Augmentation,Covid,0.02,0.9125
+119,GoogLeNet,Traditional Augmentation,Covid,0.02125,0.9125
+120,GoogLeNet,Traditional Augmentation,Covid,0.02125,0.915
+121,GoogLeNet,Traditional Augmentation,Covid,0.0225,0.915
+122,GoogLeNet,Traditional Augmentation,Covid,0.0225,0.92
+123,GoogLeNet,Traditional Augmentation,Covid,0.02375,0.92
+124,GoogLeNet,Traditional Augmentation,Covid,0.02375,0.9225
+125,GoogLeNet,Traditional Augmentation,Covid,0.02625,0.9225
+126,GoogLeNet,Traditional Augmentation,Covid,0.02625,0.9375
+127,GoogLeNet,Traditional Augmentation,Covid,0.02875,0.9375
+128,GoogLeNet,Traditional Augmentation,Covid,0.02875,0.9425
+129,GoogLeNet,Traditional Augmentation,Covid,0.03,0.9425
+130,GoogLeNet,Traditional Augmentation,Covid,0.03,0.945
+131,GoogLeNet,Traditional Augmentation,Covid,0.03375,0.945
+132,GoogLeNet,Traditional Augmentation,Covid,0.03375,0.95
+133,GoogLeNet,Traditional Augmentation,Covid,0.04125,0.95
+134,GoogLeNet,Traditional Augmentation,Covid,0.04125,0.9525
+135,GoogLeNet,Traditional Augmentation,Covid,0.04375,0.9525
+136,GoogLeNet,Traditional Augmentation,Covid,0.04375,0.96
+137,GoogLeNet,Traditional Augmentation,Covid,0.045,0.96
+138,GoogLeNet,Traditional Augmentation,Covid,0.045,0.9675
+139,GoogLeNet,Traditional Augmentation,Covid,0.04625,0.9675
+140,GoogLeNet,Traditional Augmentation,Covid,0.04625,0.97
+141,GoogLeNet,Traditional Augmentation,Covid,0.05,0.97
+142,GoogLeNet,Traditional Augmentation,Covid,0.05,0.9725
+143,GoogLeNet,Traditional Augmentation,Covid,0.05625,0.9725
+144,GoogLeNet,Traditional Augmentation,Covid,0.05625,0.975
+145,GoogLeNet,Traditional Augmentation,Covid,0.06125,0.975
+146,GoogLeNet,Traditional Augmentation,Covid,0.06125,0.98
+147,GoogLeNet,Traditional Augmentation,Covid,0.0825,0.98
+148,GoogLeNet,Traditional Augmentation,Covid,0.0825,0.9825
+149,GoogLeNet,Traditional Augmentation,Covid,0.09375,0.9825
+150,GoogLeNet,Traditional Augmentation,Covid,0.09375,0.985
+151,GoogLeNet,Traditional Augmentation,Covid,0.16,0.985
+152,GoogLeNet,Traditional Augmentation,Covid,0.16,0.9875
+153,GoogLeNet,Traditional Augmentation,Covid,0.175,0.9875
+154,GoogLeNet,Traditional Augmentation,Covid,0.175,0.99
+155,GoogLeNet,Traditional Augmentation,Covid,0.2,0.99
+156,GoogLeNet,Traditional Augmentation,Covid,0.2,0.9925
+157,GoogLeNet,Traditional Augmentation,Covid,0.20375,0.9925
+158,GoogLeNet,Traditional Augmentation,Covid,0.20375,0.995
+159,GoogLeNet,Traditional Augmentation,Covid,0.2975,0.995
+160,GoogLeNet,Traditional Augmentation,Covid,0.2975,0.9975
+161,GoogLeNet,Traditional Augmentation,Covid,0.32,0.9975
+162,GoogLeNet,Traditional Augmentation,Covid,0.325,0.9975
+163,GoogLeNet,Traditional Augmentation,Covid,0.37625,0.9975
+164,GoogLeNet,Traditional Augmentation,Covid,0.37875,0.9975
+165,GoogLeNet,Traditional Augmentation,Covid,0.48375,0.9975
+166,GoogLeNet,Traditional Augmentation,Covid,0.48375,1.0
+167,GoogLeNet,Traditional Augmentation,Covid,0.60125,1.0
+168,GoogLeNet,Traditional Augmentation,Covid,0.60375,1.0
+169,GoogLeNet,Traditional Augmentation,Covid,1.0,1.0
+170,GoogLeNet,Traditional Augmentation,Normal,0.0,0.0
+171,GoogLeNet,Traditional Augmentation,Normal,0.0,0.01
+172,GoogLeNet,Traditional Augmentation,Normal,0.0,0.04
+173,GoogLeNet,Traditional Augmentation,Normal,0.0,0.045
+174,GoogLeNet,Traditional Augmentation,Normal,0.0,0.0575
+175,GoogLeNet,Traditional Augmentation,Normal,0.0,0.065
+176,GoogLeNet,Traditional Augmentation,Normal,0.0,0.075
+177,GoogLeNet,Traditional Augmentation,Normal,0.0,0.085
+178,GoogLeNet,Traditional Augmentation,Normal,0.0,0.0925
+179,GoogLeNet,Traditional Augmentation,Normal,0.0,0.095
+180,GoogLeNet,Traditional Augmentation,Normal,0.0,0.11
+181,GoogLeNet,Traditional Augmentation,Normal,0.0,0.1125
+182,GoogLeNet,Traditional Augmentation,Normal,0.0,0.1175
+183,GoogLeNet,Traditional Augmentation,Normal,0.0,0.12
+184,GoogLeNet,Traditional Augmentation,Normal,0.0,0.135
+185,GoogLeNet,Traditional Augmentation,Normal,0.0,0.14
+186,GoogLeNet,Traditional Augmentation,Normal,0.0,0.145
+187,GoogLeNet,Traditional Augmentation,Normal,0.0,0.1475
+188,GoogLeNet,Traditional Augmentation,Normal,0.0,0.155
+189,GoogLeNet,Traditional Augmentation,Normal,0.0,0.165
+190,GoogLeNet,Traditional Augmentation,Normal,0.0,0.1725
+191,GoogLeNet,Traditional Augmentation,Normal,0.0,0.18
+192,GoogLeNet,Traditional Augmentation,Normal,0.0,0.185
+193,GoogLeNet,Traditional Augmentation,Normal,0.0,0.1875
+194,GoogLeNet,Traditional Augmentation,Normal,0.0,0.195
+195,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2
+196,GoogLeNet,Traditional Augmentation,Normal,0.0,0.21
+197,GoogLeNet,Traditional Augmentation,Normal,0.0,0.22
+198,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2275
+199,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2375
+200,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2425
+201,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2475
+202,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2525
+203,GoogLeNet,Traditional Augmentation,Normal,0.0,0.26
+204,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2625
+205,GoogLeNet,Traditional Augmentation,Normal,0.0,0.2675
+206,GoogLeNet,Traditional Augmentation,Normal,0.0,0.27
+207,GoogLeNet,Traditional Augmentation,Normal,0.0,0.275
+208,GoogLeNet,Traditional Augmentation,Normal,0.0,0.29
+209,GoogLeNet,Traditional Augmentation,Normal,0.0,0.295
+210,GoogLeNet,Traditional Augmentation,Normal,0.0,0.3
+211,GoogLeNet,Traditional Augmentation,Normal,0.0,0.31
+212,GoogLeNet,Traditional Augmentation,Normal,0.0,0.3125
+213,GoogLeNet,Traditional Augmentation,Normal,0.0,0.3175
+214,GoogLeNet,Traditional Augmentation,Normal,0.0,0.3325
+215,GoogLeNet,Traditional Augmentation,Normal,0.0,0.3425
+216,GoogLeNet,Traditional Augmentation,Normal,0.0,0.3875
+217,GoogLeNet,Traditional Augmentation,Normal,0.00125,0.3875
+218,GoogLeNet,Traditional Augmentation,Normal,0.00125,0.3925
+219,GoogLeNet,Traditional Augmentation,Normal,0.00125,0.3975
+220,GoogLeNet,Traditional Augmentation,Normal,0.00125,0.4025
+221,GoogLeNet,Traditional Augmentation,Normal,0.00125,0.47
+222,GoogLeNet,Traditional Augmentation,Normal,0.00125,0.475
+223,GoogLeNet,Traditional Augmentation,Normal,0.0025,0.475
+224,GoogLeNet,Traditional Augmentation,Normal,0.0025,0.53
+225,GoogLeNet,Traditional Augmentation,Normal,0.0025,0.535
+226,GoogLeNet,Traditional Augmentation,Normal,0.0025,0.5575
+227,GoogLeNet,Traditional Augmentation,Normal,0.00375,0.5575
+228,GoogLeNet,Traditional Augmentation,Normal,0.00375,0.56
+229,GoogLeNet,Traditional Augmentation,Normal,0.00375,0.565
+230,GoogLeNet,Traditional Augmentation,Normal,0.00375,0.6275
+231,GoogLeNet,Traditional Augmentation,Normal,0.00375,0.6325
+232,GoogLeNet,Traditional Augmentation,Normal,0.00375,0.68
+233,GoogLeNet,Traditional Augmentation,Normal,0.005,0.68
+234,GoogLeNet,Traditional Augmentation,Normal,0.005,0.7075
+235,GoogLeNet,Traditional Augmentation,Normal,0.00625,0.7075
+236,GoogLeNet,Traditional Augmentation,Normal,0.00625,0.745
+237,GoogLeNet,Traditional Augmentation,Normal,0.0075,0.745
+238,GoogLeNet,Traditional Augmentation,Normal,0.0075,0.78
+239,GoogLeNet,Traditional Augmentation,Normal,0.00875,0.78
+240,GoogLeNet,Traditional Augmentation,Normal,0.00875,0.79
+241,GoogLeNet,Traditional Augmentation,Normal,0.01,0.79
+242,GoogLeNet,Traditional Augmentation,Normal,0.01,0.815
+243,GoogLeNet,Traditional Augmentation,Normal,0.01125,0.815
+244,GoogLeNet,Traditional Augmentation,Normal,0.01125,0.8175
+245,GoogLeNet,Traditional Augmentation,Normal,0.0125,0.8175
+246,GoogLeNet,Traditional Augmentation,Normal,0.0125,0.8325
+247,GoogLeNet,Traditional Augmentation,Normal,0.01375,0.8325
+248,GoogLeNet,Traditional Augmentation,Normal,0.01375,0.835
+249,GoogLeNet,Traditional Augmentation,Normal,0.015,0.835
+250,GoogLeNet,Traditional Augmentation,Normal,0.015,0.8875
+251,GoogLeNet,Traditional Augmentation,Normal,0.01625,0.8875
+252,GoogLeNet,Traditional Augmentation,Normal,0.01625,0.895
+253,GoogLeNet,Traditional Augmentation,Normal,0.01875,0.895
+254,GoogLeNet,Traditional Augmentation,Normal,0.01875,0.8975
+255,GoogLeNet,Traditional Augmentation,Normal,0.02,0.8975
+256,GoogLeNet,Traditional Augmentation,Normal,0.02,0.9225
+257,GoogLeNet,Traditional Augmentation,Normal,0.0225,0.9225
+258,GoogLeNet,Traditional Augmentation,Normal,0.0225,0.925
+259,GoogLeNet,Traditional Augmentation,Normal,0.02375,0.925
+260,GoogLeNet,Traditional Augmentation,Normal,0.02375,0.9275
+261,GoogLeNet,Traditional Augmentation,Normal,0.025,0.9275
+262,GoogLeNet,Traditional Augmentation,Normal,0.025,0.93
+263,GoogLeNet,Traditional Augmentation,Normal,0.0275,0.93
+264,GoogLeNet,Traditional Augmentation,Normal,0.0275,0.9325
+265,GoogLeNet,Traditional Augmentation,Normal,0.02875,0.9325
+266,GoogLeNet,Traditional Augmentation,Normal,0.02875,0.935
+267,GoogLeNet,Traditional Augmentation,Normal,0.03375,0.935
+268,GoogLeNet,Traditional Augmentation,Normal,0.03375,0.94
+269,GoogLeNet,Traditional Augmentation,Normal,0.035,0.94
+270,GoogLeNet,Traditional Augmentation,Normal,0.035,0.9425
+271,GoogLeNet,Traditional Augmentation,Normal,0.04,0.9425
+272,GoogLeNet,Traditional Augmentation,Normal,0.04,0.9475
+273,GoogLeNet,Traditional Augmentation,Normal,0.04125,0.9475
+274,GoogLeNet,Traditional Augmentation,Normal,0.04125,0.95
+275,GoogLeNet,Traditional Augmentation,Normal,0.0425,0.95
+276,GoogLeNet,Traditional Augmentation,Normal,0.0425,0.96
+277,GoogLeNet,Traditional Augmentation,Normal,0.045,0.96
+278,GoogLeNet,Traditional Augmentation,Normal,0.045,0.9625
+279,GoogLeNet,Traditional Augmentation,Normal,0.0475,0.9625
+280,GoogLeNet,Traditional Augmentation,Normal,0.0475,0.965
+281,GoogLeNet,Traditional Augmentation,Normal,0.04875,0.965
+282,GoogLeNet,Traditional Augmentation,Normal,0.04875,0.9675
+283,GoogLeNet,Traditional Augmentation,Normal,0.05,0.9675
+284,GoogLeNet,Traditional Augmentation,Normal,0.05,0.9725
+285,GoogLeNet,Traditional Augmentation,Normal,0.05125,0.9725
+286,GoogLeNet,Traditional Augmentation,Normal,0.05125,0.975
+287,GoogLeNet,Traditional Augmentation,Normal,0.05375,0.975
+288,GoogLeNet,Traditional Augmentation,Normal,0.05375,0.9775
+289,GoogLeNet,Traditional Augmentation,Normal,0.06375,0.9775
+290,GoogLeNet,Traditional Augmentation,Normal,0.06375,0.98
+291,GoogLeNet,Traditional Augmentation,Normal,0.065,0.98
+292,GoogLeNet,Traditional Augmentation,Normal,0.065,0.9825
+293,GoogLeNet,Traditional Augmentation,Normal,0.075,0.9825
+294,GoogLeNet,Traditional Augmentation,Normal,0.075,0.985
+295,GoogLeNet,Traditional Augmentation,Normal,0.07625,0.985
+296,GoogLeNet,Traditional Augmentation,Normal,0.07625,0.9875
+297,GoogLeNet,Traditional Augmentation,Normal,0.0875,0.9875
+298,GoogLeNet,Traditional Augmentation,Normal,0.0875,0.99
+299,GoogLeNet,Traditional Augmentation,Normal,0.1025,0.99
+300,GoogLeNet,Traditional Augmentation,Normal,0.1025,0.9925
+301,GoogLeNet,Traditional Augmentation,Normal,0.1275,0.9925
+302,GoogLeNet,Traditional Augmentation,Normal,0.13,0.9925
+303,GoogLeNet,Traditional Augmentation,Normal,0.13875,0.9925
+304,GoogLeNet,Traditional Augmentation,Normal,0.14125,0.9925
+305,GoogLeNet,Traditional Augmentation,Normal,0.22,0.9925
+306,GoogLeNet,Traditional Augmentation,Normal,0.22,0.995
+307,GoogLeNet,Traditional Augmentation,Normal,0.2225,0.995
+308,GoogLeNet,Traditional Augmentation,Normal,0.225,0.995
+309,GoogLeNet,Traditional Augmentation,Normal,0.3025,0.995
+310,GoogLeNet,Traditional Augmentation,Normal,0.305,0.995
+311,GoogLeNet,Traditional Augmentation,Normal,0.33125,0.995
+312,GoogLeNet,Traditional Augmentation,Normal,0.33375,0.995
+313,GoogLeNet,Traditional Augmentation,Normal,0.3475,0.995
+314,GoogLeNet,Traditional Augmentation,Normal,0.35,0.995
+315,GoogLeNet,Traditional Augmentation,Normal,0.35,0.9975
+316,GoogLeNet,Traditional Augmentation,Normal,0.3675,0.9975
+317,GoogLeNet,Traditional Augmentation,Normal,0.37,0.9975
+318,GoogLeNet,Traditional Augmentation,Normal,0.415,0.9975
+319,GoogLeNet,Traditional Augmentation,Normal,0.42,0.9975
+320,GoogLeNet,Traditional Augmentation,Normal,0.51625,0.9975
+321,GoogLeNet,Traditional Augmentation,Normal,0.51875,0.9975
+322,GoogLeNet,Traditional Augmentation,Normal,0.58625,0.9975
+323,GoogLeNet,Traditional Augmentation,Normal,0.58625,1.0
+324,GoogLeNet,Traditional Augmentation,Normal,0.6825,1.0
+325,GoogLeNet,Traditional Augmentation,Normal,0.685,1.0
+326,GoogLeNet,Traditional Augmentation,Normal,0.6875,1.0
+327,GoogLeNet,Traditional Augmentation,Normal,0.69,1.0
+328,GoogLeNet,Traditional Augmentation,Normal,0.82625,1.0
+329,GoogLeNet,Traditional Augmentation,Normal,0.82875,1.0
+330,GoogLeNet,Traditional Augmentation,Normal,0.83375,1.0
+331,GoogLeNet,Traditional Augmentation,Normal,0.83625,1.0
+332,GoogLeNet,Traditional Augmentation,Normal,0.96,1.0
+333,GoogLeNet,Traditional Augmentation,Normal,0.9625,1.0
+334,GoogLeNet,Traditional Augmentation,Normal,0.96375,1.0
+335,GoogLeNet,Traditional Augmentation,Normal,0.96625,1.0
+336,GoogLeNet,Traditional Augmentation,Normal,1.0,1.0
+337,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0
+338,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0025
+339,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.005
+340,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.02
+341,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0275
+342,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0325
+343,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0475
+344,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.05
+345,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.055
+346,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0625
+347,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0675
+348,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0725
+349,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0875
+350,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.0925
+351,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1025
+352,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.11
+353,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1125
+354,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1175
+355,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.125
+356,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1275
+357,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1375
+358,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.15
+359,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.16
+360,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1675
+361,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1775
+362,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.18
+363,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.185
+364,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.1875
+365,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.195
+366,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.2025
+367,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.2125
+368,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.275
+369,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.285
+370,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.2875
+371,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.2925
+372,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.31
+373,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.32
+374,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3325
+375,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3375
+376,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3775
+377,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.3825
+378,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.535
+379,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.54
+380,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.555
+381,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.56
+382,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.6
+383,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.605
+384,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0,0.8375
+385,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00125,0.8375
+386,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00125,0.865
+387,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0025,0.865
+388,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0025,0.89
+389,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00375,0.89
+390,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00375,0.9075
+391,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00625,0.9075
+392,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00625,0.9125
+393,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00875,0.9125
+394,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.00875,0.92
+395,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.01,0.92
+396,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.01,0.925
+397,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0125,0.925
+398,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0125,0.9275
+399,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.01375,0.9275
+400,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.01375,0.93
+401,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.01625,0.93
+402,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.01625,0.9325
+403,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0175,0.9325
+404,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0175,0.935
+405,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.02,0.935
+406,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.02,0.9375
+407,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.02125,0.9375
+408,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.02125,0.94
+409,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0225,0.94
+410,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0225,0.9475
+411,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.02875,0.9475
+412,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.02875,0.95
+413,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.03,0.95
+414,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.03,0.955
+415,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.03125,0.955
+416,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.03125,0.9575
+417,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0325,0.9575
+418,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.035,0.9575
+419,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.04375,0.9575
+420,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.04375,0.9625
+421,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.04875,0.9625
+422,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.04875,0.965
+423,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.055,0.965
+424,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.055,0.9675
+425,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.08,0.9675
+426,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.08,0.97
+427,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0825,0.97
+428,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.0825,0.9725
+429,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.09125,0.9725
+430,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.09125,0.975
+431,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.10125,0.975
+432,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.10125,0.9775
+433,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.1225,0.9775
+434,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.1225,0.98
+435,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.1425,0.98
+436,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.1425,0.9825
+437,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.1625,0.9825
+438,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.1625,0.985
+439,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.17875,0.985
+440,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.17875,0.9875
+441,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.18125,0.9875
+442,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.20125,0.9875
+443,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.20125,0.99
+444,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.20625,0.99
+445,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.20875,0.99
+446,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.335,0.99
+447,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.335,0.9925
+448,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.355,0.9925
+449,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.355,0.995
+450,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.37875,0.995
+451,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.38125,0.995
+452,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.39875,0.995
+453,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.39875,0.9975
+454,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.52875,0.9975
+455,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.52875,1.0
+456,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.57,1.0
+457,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.5725,1.0
+458,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.57875,1.0
+459,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.58125,1.0
+460,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.6025,1.0
+461,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.6075,1.0
+462,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.6375,1.0
+463,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.64,1.0
+464,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.71625,1.0
+465,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.71875,1.0
+466,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.8525,1.0
+467,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.855,1.0
+468,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.86875,1.0
+469,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.87125,1.0
+470,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.965,1.0
+471,GoogLeNet,Traditional Augmentation,Viral Pneumonia,0.9675,1.0
+472,GoogLeNet,Traditional Augmentation,Viral Pneumonia,1.0,1.0
