@@ -112,7 +112,7 @@ class Model:
 
         self.transformations_to_perform = transform=tt.Compose([
                                     tt.Grayscale(num_output_channels=1),
-                                tt.Resize(image_size),
+                                tt.Resize((image_size, image_size)),
                                 tt.ToTensor(),
                                 tt.Normalize(*stats)])
 
