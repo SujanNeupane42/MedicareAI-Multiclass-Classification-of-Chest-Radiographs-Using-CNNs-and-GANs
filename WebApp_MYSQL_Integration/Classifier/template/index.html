@@ -1,6 +1,53 @@
 {% extends 'base.html' %}
 {% block title %}MedicareAI{% endblock title %}
 {% block body %}
+<style>
+.uploadOuter {
+  text-align: center;
+  padding: 20px;
+}
+
+.uploadOuter strong {
+  padding: 0 10px;
+}
+
+.dragBox {
+  width: 250px;
+  height: 100px;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  line-height: 95px;
+  color: #999;
+  border: 2px dashed #ccc;
+  display: inline-block;
+  transition: transform 0.3s;
+}
+
+.dragBox input[type="file"] {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  top: 0;
+  left: 0;
+}
+
+.draging {
+  transform: scale(1.1);
+}
+
+#preview {
+  text-align: center;
+}
+
+#preview img {
+  max-width: 100%;
+}
+
+</style>
+
 
 
 <div style="height: 80vh;">
@@ -20,21 +67,55 @@
         </div>
     </div>
 
-    <div class="row justify-content-evenly mt-3">
-        <div class="col col-md-5 align-self-center">
-            <form method="POST" action = 'home' enctype="multipart/form-data">
-                {% csrf_token %}
-                <label for="formFile" class="form-label">Please choose your file</label>
-                <input class="form-control" type="file" name="upload" accept=".png"  required onchange="loadFile(event)">
-                <p style="display: flex; justify-content: center;" class="my-3"><img id="output" width="200" /></p>
-                <div class="text-center">
-                    <button type="submit" class="btn btn-outline-success mt-1"
-                        style="margin-bottom: 10px;">Submit</button>
-                        
-                </div>
-            </form>
-        </div>
-    </div>
+<div class="row justify-content-evenly mt-3">
+    <div class="col col-md-5 align-self-center">
+    <form method="POST" action = 'home' enctype="multipart/form-data">
+        {% csrf_token %}
+            <div class="uploadOuter" >
+                <label for="uploadFile" class="btn btn-outline-success mt-1"
+                style="margin-bottom: 10px;">Upload X-ray</label>
+
+                <strong>OR</strong>
+              <span class="dragBox" >
+                Drag and Drop image here
+              <input type="file" name = "upload" accept=".png"  ondragover="drag()" ondrop="drop()" id="uploadFile"  required onChange="loadFile(event)" />
+            </span>
+            <p style="display: flex; justify-content: center;" class="my-3"><img id="output" width="200" /></p>  
+              </div>
+              <div class="text-center">
+                <button type="submit" class="btn btn-outline-success mt-1"
+                    style="margin-bottom: 10px;">Predict</button>
+                    
+            </div>
+              <div id="preview"></div>
+                
+    </form>
+    </div></div>
+
+      <!-- <script>
+        "use strict";
+        function dragNdrop(event) {
+            var fileName = URL.createObjectURL(event.target.files[0]);
+            var preview = document.getElementById("preview");
+            var previewImg = document.createElement("img");
+            previewImg.setAttribute("src", fileName);
+            preview.innerHTML = "";
+            preview.appendChild(previewImg);
+        }
+        function drag() {
+            document.getElementById('uploadFile').parentNode.className = 'draging dragBox';
+        }
+        function drop() {
+            document.getElementById('uploadFile').parentNode.className = 'dragBox';
+        }
+        function handleFileSelect(event) {
+            // dragNDrop(event); // call the dragNDrop function
+            loadFile(event); // call the loadFile function
+        }
+
+      </script> -->
+      
+    
 
     {% if show %}
        <div id = "result" class="row mt-3 justify-content-evenly">
@@ -102,12 +183,5 @@
 </div>
 {% endblock body %}
 </body>
-</html>
+</html> 
 
-                <!-- <div style="display:flex; justify-content: center;"> -->
-                    <!-- <div class="col col-md-4"></div> -->
-
-
-                    <!-- <p>{{ description }}</p>
-                    <p>{{ symptoms }}</p>
-                    <p>{{ solutions }}</p> -->
