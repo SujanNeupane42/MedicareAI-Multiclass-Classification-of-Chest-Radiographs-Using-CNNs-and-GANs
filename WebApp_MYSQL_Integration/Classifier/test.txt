@@ -5,4 +5,4 @@ Symptoms: Are you feeling any of these symptoms:<br>1. Fever<br>2. Cough<br> 3. 
 
 Solutions: You can follow following steps to ensure you can manage and cope with stress.<br>1. Take deep breaths and meditate<br>2. Take enough rest<br>3. Take pain relievers if necessary<br><br> If you have any of the following, please seek serious medical attention immediately:<br> 1. Trouble breathing<br> 2. Persistent pain or pressure in the chest<br> 3. Inability to wake or stay awake 
 
-Confidence: 0.9999682
+Confidence: 0.99995065
