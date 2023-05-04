@@ -16,3 +16,8 @@ Following technologies and tools have been used in this project.
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23150458.svg?style=flat&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%23150458.svg?style=flat&logo=Anaconda&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=flat&logo=Seaborn&logoColor=white)
+
+
+Following GIFs showcase image generated at every epoch for 3 GAN architeres. Since each GAN was trained for 1500 epochs, a total of 150 images were stiched together to create GIFs. 
+
+![Performance](Finalized Visualizations/gcgan.gif.png)
