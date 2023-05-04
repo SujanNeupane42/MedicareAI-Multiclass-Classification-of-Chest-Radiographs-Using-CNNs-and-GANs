@@ -98,7 +98,18 @@ Additionally, GoogLeNet classifier was also trained with auxiliary classifiers e
 ![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Combined_ConfusionMatrix.jpg)
 
 ## GoogLeNet (With Auxiliary Classifiers) ROC Curve 
-![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Combined_ROC_Curve.jpg.jpg)
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Combined_ROC_Curve.jpg)
+
+GoogLeNet, without auxiliary classifiers, performed the best as compared to other models. The following table summarizes the performance of GoogLeNet on the validation and test set.
+
+| Models | Precision (Val) | Precision (Test) | Recall (Val) | Recall (Test) | F1 Score (Val) | F1 Score (Test) | AUC (Val) | AUC (Test) | Accuracy (Val) | Accuracy (Test) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| GoogLeNet-Imbalanced | 0.9354 | 0.9363 | 0.9333 | 0.9325 | 0.9337 | 0.9325 | 0.9878 | 0.9881 | **93.33** | **93.25** |
+| GoogLeNet-Traditional | 0.9308 | **0.9485** | 0.9291 | **0.9458** | 0.9295 | **0.9459** | 0.9883 | **0.9922** | 92.916 | 94.5833 |
+| GoogLeNet-DCGAN | **0.9406** | 0.9375 | **0.9383** | 0.9333 | **0.9387** | 0.9331 | 0.9881 | 0.9919 | 93.83 | 93.33 |
+| GoogLeNet-WGAN | 0.9378 | 0.9604 | 0.9375 | 0.9591 | 0.9376 | 0.9592 | **0.99** | **0.9947** | **93.75** | 95.92 |
+| GoogLeNet-WGANGP | 0.9422 | 0.9584 | **0.9408** | 0.9575 | **0.9411** | 0.9575 | 0.9901 | 0.9933 | 94.08 | **95.75** |
+
 
 
 
