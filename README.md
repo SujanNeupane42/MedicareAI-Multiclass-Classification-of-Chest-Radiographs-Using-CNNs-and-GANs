@@ -69,4 +69,20 @@ Similarly, the performance of EfficientNet is also given below.
 ![EfficientNet](./Finalized%20Visualizations/EfficientNet_Combined_ROC_Curve.jpg)
 
 
+lets look at the performance of GoogLeNet. Two variants of GoogLeNet was implemented: With and Without Auxiliary classifiers.
+
+# GoogLeNet (Without Auxiliary Classifiers)
+## GoogLeNet (Without Auxiliary Classifiers) Training 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Training_And_Validation_Performance_Variation_Accross_Epochs.jpg)
+
+## GoogLeNet (Without Auxiliary Classifiers) performance metrics 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNet_Performance_Metrics.jpg)
+
+## GoogLeNet (Without Auxiliary Classifiers) Confusion Matrix 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNet_Combined_ConfusionMatrix.jpg)
+
+## GoogLeNet (Without Auxiliary Classifiers) ROC Curve 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNet_Combined_ROC_Curve.jpg)
+
+
 
