@@ -53,5 +53,20 @@ After training GANs, new images for imbalanced classes were augmented using each
 ![ResNet50](./Finalized%20Visualizations/ResNet50_Combined_ROC_Curve.jpg)
 
 
+Similarly, the performance of EfficientNet is also given below.
+
+# EfficientNet
+## EfficientNet Training 
+![EfficientNet](./Finalized%20Visualizations/EfficientNets_Training_And_Validation_Performance_Variation_Accross_Epochs.jpg)
+
+## EfficientNet performance metrics 
+![EfficientNet](./Finalized%20Visualizations/EfficientNet_Performance_Metrics.jpg)
+
+## EfficientNet Confusion Matrix 
+![EfficientNet](./Finalized%20Visualizations/EfficientNet_Combined_ConfusionMatrix.jpg)
+
+## EfficientNet ROC Curve 
+![EfficientNet](./Finalized%20Visualizations/EfficientNet_Combined_ROC_Curve.jpg)
+
 
 
