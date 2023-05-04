@@ -82,7 +82,7 @@ lets look at the performance of GoogLeNet. Two variants of GoogLeNet was impleme
 ![GoogLeNet](./Finalized%20Visualizations/GoogLeNet_Combined_ConfusionMatrix.jpg)
 
 ## GoogLeNet (Without Auxiliary Classifiers) ROC Curve 
-![GoogLeNet](./Finalized%20Visualizations/GoogLeNet_Combined_ROC_Curve.jpg)
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNets_Combined_ROC_Curve.jpg)
 
 
 
