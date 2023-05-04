@@ -5,6 +5,8 @@ The title of my undergraduate final year project is "MedicareAI". It involves a 
 Furthermore, I also trained each CNN model using data augmented with the three GAN architectures. Finally, the performance of each CNN was evaluated on imbalanced data, data with traditional augmentation, and data with DCGAN, WGAN, and WGAN-GP based augmentation. The results indicated that the GoogLeNet model performed the best when trained with WGAN-based augmented data.
 
 Following technologies and tools have been used in this project.
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
