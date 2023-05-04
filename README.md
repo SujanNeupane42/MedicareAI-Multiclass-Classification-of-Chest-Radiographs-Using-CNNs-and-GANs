@@ -116,10 +116,10 @@ Finally, GoogLeNet model trained with WGAN augmented data was deployed in a web 
 ![LOGIN](./Finalized%20Visualizations/Login.jpg)
 
 ## Signup
-![Signup](./Finalized%20Visualizations/Signup.jpg)
+![Signup](./Finalized%20Visualizations/signup.jpg)
 
 ## Prediction
-![Prediction](./Finalized%20Visualizations/prediction.jpg)
+![Prediction](./Finalized%20Visualizations/prediction.jpeg)
 
 
 
