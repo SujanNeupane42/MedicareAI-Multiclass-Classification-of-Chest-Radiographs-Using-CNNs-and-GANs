@@ -20,12 +20,13 @@ Following technologies and tools have been used in this project.
 
 Following GIFs showcase image generated at every epoch for 3 GAN architeres. Since each GAN was trained for 1500 epochs, a total of 150 images were stiched together to create GIFs. 
 
-DCGAN
+## DCGAN
 ![DCGAN](./Finalized%20Visualizations/gcgan.gif)
 
-WGAN
+## WGAN
 ![WGAN](./Finalized%20Visualizations/wgan.gif)
 
-WGAN-GP
+## WGAN-GP
 ![WGAN-GP](./Finalized%20Visualizations/wgangp.gif)
+
 
