@@ -73,7 +73,7 @@ lets look at the performance of GoogLeNet. Two variants of GoogLeNet was impleme
 
 # GoogLeNet (Without Auxiliary Classifiers)
 ## GoogLeNet (Without Auxiliary Classifiers) Training 
-![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Training_And_Validation_Performance_Variation_Accross_Epochs.jpg)
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNets_Training_And_Validation_Performance_Variation_Accross_Epochs.jpg)
 
 ## GoogLeNet (Without Auxiliary Classifiers) performance metrics 
 ![GoogLeNet](./Finalized%20Visualizations/GoogLeNet_Performance_Metrics.jpg)
@@ -83,6 +83,23 @@ lets look at the performance of GoogLeNet. Two variants of GoogLeNet was impleme
 
 ## GoogLeNet (Without Auxiliary Classifiers) ROC Curve 
 ![GoogLeNet](./Finalized%20Visualizations/GoogLeNets_Combined_ROC_Curve.jpg)
+
+Additionally, GoogLeNet classifier was also trained with auxiliary classifiers enabled during training.
+
+
+# GoogLeNet (With Auxiliary Classifiers)
+## GoogLeNet (With Auxiliary Classifiers) Training 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Training_And_Validation_Performance_Variation_Accross_Epochs.jpg)
+
+## GoogLeNet (With Auxiliary Classifiers) performance metrics 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Performance_Metrics.jpg)
+
+## GoogLeNet (With Auxiliary Classifiers) Confusion Matrix 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Combined_ConfusionMatrix.jpg)
+
+## GoogLeNet (With Auxiliary Classifiers) ROC Curve 
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetsUpdated_Combined_ROC_Curve.jpg)
+
 
 
 
