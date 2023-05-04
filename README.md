@@ -98,7 +98,7 @@ Additionally, GoogLeNet classifier was also trained with auxiliary classifiers e
 ![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Combined_ConfusionMatrix.jpg)
 
 ## GoogLeNet (With Auxiliary Classifiers) ROC Curve 
-![GoogLeNet](./Finalized%20Visualizations/GoogLeNetsUpdated_Combined_ROC_Curve.jpg)
+![GoogLeNet](./Finalized%20Visualizations/GoogLeNetUpdated_Combined_ROC_Curve.jpg.jpg)
 
 
 
