@@ -37,5 +37,21 @@ Now, The Fretchet Inception Distance(FID) for each GAN architeteceture has also 
 
 WGAN performed better than all GANs. Similarly, DCGAN performed worse due to mode collapse and vanishing gradient problem.
 
+After training GANs, new images for imbalanced classes were augmented using each GAN and 3 CNN architectures were trained and their performance was calcualted on the test dataset.
+
+# ResNet50
+## ResNet50 Training 
+![ResNet50](./Finalized%20Visualizations/ResNet50s_Training_And_Validation_Performance_Variation_Accross_Epochs.jpg)
+
+## ResNet50 performance metrics 
+![ResNet50](./Finalized%20Visualizations/ResNet50_Performance_Metrics.jpg)
+
+## ResNet50 Confusion Matrix 
+![ResNet50](./Finalized%20Visualizations/ResNet50_Combined_ConfusionMatrix.jpg)
+
+## ResNet50 ROC Curve 
+![ResNet50](./Finalized%20Visualizations/ResNet50_Combined_ROC_Curve.jpg)
+
+
 
 
