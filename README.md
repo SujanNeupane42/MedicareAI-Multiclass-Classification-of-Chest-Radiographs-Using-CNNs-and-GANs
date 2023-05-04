@@ -30,3 +30,12 @@ Following GIFs showcase image generated at every epoch for 3 GAN architeres. Sin
 ![WGAN-GP](./Finalized%20Visualizations/wgangp.gif)
 
 
+Now, The Fretchet Inception Distance(FID) for each GAN architeteceture has also been calculated, which is as follows.
+
+## FID Score
+![FID](./Finalized%20Visualizations/FID_GANS.jpg)
+
+WGAN performed better than all GANs. Similarly, DCGAN performed worse due to mode collapse and vanishing gradient problem.
+
+
+
