@@ -20,4 +20,4 @@ Following technologies and tools have been used in this project.
 
 Following GIFs showcase image generated at every epoch for 3 GAN architeres. Since each GAN was trained for 1500 epochs, a total of 150 images were stiched together to create GIFs. 
 
-![Performance](Finalized Visualizations/GoogLeNet_Performance_Metrics.jpg)
+![Performance](./Finalized Visualizations/GoogLeNet_Performance_Metrics.jpg)
