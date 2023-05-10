@@ -55,6 +55,51 @@ def logoutuser(request):
     return render(request, 'login.html')
 
 
+# def signup(request):
+#     if request.method == 'POST':
+#         fname = request.POST.get('fname')
+#         lname = request.POST.get('lname')
+#         username = request.POST.get('username')
+#         email = request.POST.get('email')
+#         pass1 = request.POST.get('pass1')
+#         pass2 = request.POST.get('pass2')
+
+#         data = {
+#             'fname': fname,
+#             'lname': lname,
+#             'username': username,
+#             'email': email,
+#             'pass1': pass1,
+#             'pass2': pass2
+#         }
+#         if pass1 != pass2:
+#             messages.error(request, "Password doesn't match on both fields")
+#             return render(request, 'signup.html', {'data': data})
+
+#         if User.objects.filter(username=username):
+#             messages.error(request, "Username already exists!!!")
+#             return render(request, 'signup.html', {'data': data})
+
+#         if User.objects.filter(email=email):
+#             messages.error(request, "Email already exists!!!")
+#             return render(request, 'signup.html', {'data': data})
+
+#         if fname == '' or lname == '' or username == '' or email == '' or pass1 == '' or pass2 == '':
+#             return render(request, 'signup.html', {'error': True, 'data': data})
+
+#         myuser = User.objects.create_user(username, email, pass1)
+#         myuser.first_name = fname
+#         myuser.last_name = lname
+#         myuser.save()
+#         messages.success(request, "Account created successfully")
+#         return render(request, 'login.html')
+
+#     return render(request, 'signup.html')
+
+
+import re
+import re
+
 def signup(request):
     if request.method == 'POST':
         fname = request.POST.get('fname')
@@ -72,21 +117,41 @@ def signup(request):
             'pass1': pass1,
             'pass2': pass2
         }
+
+        # Check if passwords match
         if pass1 != pass2:
             messages.error(request, "Password doesn't match on both fields")
             return render(request, 'signup.html', {'data': data})
 
+        # Password validation
+        if len(pass1) < 8:
+            messages.error(request, "Password must be at least 8 characters long")
+            return render(request, 'signup.html', {'data': data})
+
+        if not any(char.isdigit() for char in pass1) or not any(char.isalpha() for char in pass1):
+            messages.error(request, "Password must contain alphanumeric characters")
+            return render(request, 'signup.html', {'data': data})
+
+        special_chars = r'[!@#$%^&*()_+[\]{};\'\\:"|<,./?><]'
+        if not re.search(special_chars, pass1):
+            messages.error(request, "Password must make use of special characters")
+            return render(request, 'signup.html', {'data': data})
+
+        # Check if username already exists
         if User.objects.filter(username=username):
             messages.error(request, "Username already exists!!!")
             return render(request, 'signup.html', {'data': data})
 
+        # Check if email already exists
         if User.objects.filter(email=email):
             messages.error(request, "Email already exists!!!")
             return render(request, 'signup.html', {'data': data})
 
-        if fname == '' or lname == '' or username == '' or email == '' or pass1 == '' or pass2 == '':
+        # Check if any fields are empty
+        if any(field == '' for field in [fname, lname, username, email, pass1, pass2]):
             return render(request, 'signup.html', {'error': True, 'data': data})
 
+        # Create user and save to database
         myuser = User.objects.create_user(username, email, pass1)
         myuser.first_name = fname
         myuser.last_name = lname
@@ -95,7 +160,6 @@ def signup(request):
         return render(request, 'login.html')
 
     return render(request, 'signup.html')
-
 
 class Model:
     def __init__(self):
